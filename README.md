@@ -4,13 +4,7 @@
 
 A living survey of tokenization in NLP
 
-**51** in Core · **25** Recs · updated 2026-09-12
-
-> **How to read this page.**
-> **Core** is what this survey contains; **Recs** is what to read next, found automatically by following citations. Only the top 10 of each is shown here, linked to the full lists.
-> **Score** is 0 to 100 and says how tied into this survey a paper is, relative to the most connected one in its own list. It drives the default order.
-> In Recs, **Why** says how a paper turned up: *cites N here*, newer work building on N of these; *cited by N here*, older work N of these rest on; *from ...*, the bibliography of a survey used as a seed.
-> Column headings are links: click one to open the same list sorted that way.
+**51** in Core · updated 2026-09-12
 
 ## Core
 
@@ -35,20 +29,7 @@ The papers in this survey.
 
 <sub>Found by following the citation graph, not picked by hand. Refreshed daily. To accept one, paste its link into [`import/papers.txt`](import/papers.txt) and commit.</sub>
 
-| # | [Paper](views/recs-by-title.md) | Venue | [Year](views/recs-by-year.md) | [Cited by](views/recs-by-citations.md) | Score &#9660; | Why |
-| ---: | --- | --- | ---: | ---: | ---: | --- |
-| 1 | [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://www.semanticscholar.org/paper/e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e)<br><sub>Taku Kudo</sub><br><sub>A simple regularization method is presented, subword regularization, which trains the model with multiple subword segmentations probabilistically sampled during training, and a new sub word segmentation algorithm based on a unigram language model is proposed.</sub> | Annual Meeting of the Association for Computational Linguistics | 2018 | 1412 | 100  cited by 30 here |
-| 2 | [Learn Your Tokens: Word-Pooled Tokenization for Language Modeling](https://www.semanticscholar.org/paper/a401510c434b2274b299e9444085df0b18808aaa)<br><sub>Avijit Thawani et al.</sub><br><sub>This paper considers an alternative 'learn your tokens' scheme which utilizes the word boundary to pool bytes/characters into word representations, which are fed to the primary language model, before again decoding individual characters/bytes per word in parallel.</sub> | Conference on Empirical Methods in Natural Language Processing | 2023 | 13 | 100  cites 11 here |
-| 3 | [UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8](https://www.semanticscholar.org/paper/66e13b987c86e9c40b10b27672c83848f316609a)<br><sub>Preston Firestone et al.</sub><br><sub>This paper formalizes tokenization using monoid theory and proves that tokenizers whose vocabularies contain tokens that are ill-formed UTF-8 can always produce sequences that are ill-formed UTF-8.</sub> | arXiv.org | 2025 | 5 | 100  cites 11 here |
-| 4 | [Neural Machine Translation of Rare Words with Subword Units](https://www.semanticscholar.org/paper/1518039b5001f1836565215eb047526b3ac7f462)<br><sub>Rico Sennrich, B. Haddow, Alexandra Birch</sub><br><sub>This paper introduces a simpler and more effective approach, making the NMT model capable of open-vocabulary translation by encoding rare and unknown words as sequences of subword units, and empirically shows that subword models improve over a back-off dictionary baseline for the WMT 15 translation tasks English-German and English-Russian by 1.3 BLEU.</sub> | Annual Meeting of the Association for Computational Linguistics | 2015 | 9002 | 90  cited by 39 here |
-| 5 | [Retrofitting (Large) Language Models with Dynamic Tokenization](https://www.semanticscholar.org/paper/1068dfc3985863ad692cd59a48596847aac8754f)<br><sub>Darius Feher, Benjamin Minixhofer, Ivan Vuli'c</sub><br><sub>This work proposes retrofitting LMs with dynamic tokenization: a way to dynamically decide on token boundaries based on the input text via a subword-merging algorithm inspired by byte-pair encoding that can mitigate the limitations of static tokenization.</sub> | arXiv.org | 2024 | 19 | 82  cites 9 here |
-| 6 | [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://www.semanticscholar.org/paper/205cc15fca6963b355e4c071071368e874ee103e)<br><sub>Jing Huang et al.</sub><br><sub>This work develops a causal intervention framework to learn robust and interpretable character representations inside subword-based language models and introduces a suite of character-level tasks that systematically vary in their dependence on meaning and sequence-level context.</sub> | Annual Meeting of the Association for Computational Linguistics | 2022 | 17 | 82  cites 9 here |
-| 7 | [Tokenization is Sensitive to Language Variation](https://www.semanticscholar.org/paper/2910da87c91dff1aca3ae139b680c012bab3191e)<br><sub>Anna Wegmann, Dong Nguyen, David Jurgens</sub><br><sub>It is found that the best tokenizer varies on the two task types and that the pre-tokenizer has the biggest overall impact on performance, which encourages more work on language variation and its relation to tokenizers and thus LLM performance.</sub> | Annual Meeting of the Association for Computational Linguistics | 2025 | 16 | 82  cites 9 here |
-| 8 | [Multi-view Subword Regularization](https://www.semanticscholar.org/paper/a77643bff6f50ccc4f80ec081e4d078a2e788ae7)<br><sub>Xinyi Wang, Sebastian Ruder, Graham Neubig</sub><br><sub>To take full advantage of different possible input segmentations, the proposed Multi-view Subword Regularization (MVR) method enforces the consistency of predictors between using inputs tokenized by the standard and probabilistic segmentations.</sub> | North American Chapter of the Association for Computational Linguistics | 2021 | 56 | 76  cited by 12 here |
-| 9 | [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://www.semanticscholar.org/paper/b0b0dddb8310e01b9407a21674c2d33a23a6e967)<br><sub>Kaj Bostrom, Greg Durrett</sub><br><sub>Differences between BPE and unigram LM tokenization are analyzed, finding that the latter method recovers subword units that align more closely with morphology and avoids problems stemming from BPE’s greedy construction procedure.</sub> | Findings | 2020 | 333 | 76  cited by 17 here |
-| 10 | [BPE-Dropout: Simple and Effective Subword Regularization](https://www.semanticscholar.org/paper/d023e4c652dc21b2068a8527203a70d9eaf195d9)<br><sub>Ivan Provilkov, Dmitrii Emelianenko, Elena Voita</sub><br><sub>BPE-dropout is introduced - simple and effective subword regularization method based on and compatible with conventional BPE that stochastically corrupts the segmentation procedure of BPE, which leads to producing multiple segmentations within the same fixed BPE framework.</sub> | Annual Meeting of the Association for Computational Linguistics | 2019 | 352 | 75  cited by 17 here |
-
-[... and 15 more, sorted by score](views/recs-by-score.md)
+_Nothing yet._ Recs appear once several papers here share a citing paper, which usually needs around ten.
 
 <!-- SURVEY:END -->
 
@@ -64,6 +45,7 @@ The papers in this survey.
 
 ### Want your own living survey?
 
-Click **Use this template**, name your repo, and overwrite [`import/papers.txt`](import/papers.txt) with your papers, and you get the table above plus ✨ daily reading suggestions mined from the citation graph, with no site to host and no API keys. Details in [SETUP.md](SETUP.md).
+Click **Use this template**, add your papers, and a daily GitHub Action keeps
+the tables above up to date. No hosting, no API keys. See **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
 <!-- TEMPLATE-FOOTER:END -->
