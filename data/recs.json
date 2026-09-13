@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:46:53.382Z",
+  "updatedAt": "2026-09-13T00:53:37.332Z",
   "recs": [
     {
       "id": "e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e",
@@ -19,12 +19,14 @@
       "referenceCount": 36,
       "influentialCitationCount": 153,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 30,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 30 here",
-      "fromReferences": false
+      "why": "cited by 30 in Core",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/1",
+      "prNumber": 1
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -47,12 +49,14 @@
       "referenceCount": 34,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 11,
       "direction": "forward",
       "score": 100,
-      "why": "cites 11 here",
-      "fromReferences": false
+      "why": "cites 11 in Core",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/2",
+      "prNumber": 2
     },
     {
       "id": "66e13b987c86e9c40b10b27672c83848f316609a",
@@ -75,12 +79,14 @@
       "referenceCount": 75,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 11,
       "direction": "forward",
       "score": 100,
-      "why": "cites 11 here",
-      "fromReferences": false
+      "why": "cites 11 in Core",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/3",
+      "prNumber": 3
     },
     {
       "id": "1518039b5001f1836565215eb047526b3ac7f462",
@@ -102,11 +108,11 @@
       "referenceCount": 40,
       "influentialCitationCount": 1065,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 39,
       "direction": "backward",
       "score": 89.75166002482304,
-      "why": "cited by 39 here",
+      "why": "cited by 39 in Core",
       "fromReferences": false
     },
     {
@@ -129,11 +135,11 @@
       "referenceCount": 50,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 9,
       "direction": "forward",
       "score": 81.81818181818183,
-      "why": "cites 9 here",
+      "why": "cites 9 in Core",
       "fromReferences": false
     },
     {
@@ -157,11 +163,11 @@
       "referenceCount": 61,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 9,
       "direction": "forward",
       "score": 81.81818181818183,
-      "why": "cites 9 here",
+      "why": "cites 9 in Core",
       "fromReferences": false
     },
     {
@@ -184,11 +190,11 @@
       "referenceCount": 80,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 9,
       "direction": "forward",
       "score": 81.81818181818183,
-      "why": "cites 9 here",
+      "why": "cites 9 in Core",
       "fromReferences": false
     },
     {
@@ -211,11 +217,11 @@
       "referenceCount": 39,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 12,
       "direction": "backward",
       "score": 76.27624855377243,
-      "why": "cited by 12 here",
+      "why": "cited by 12 in Core",
       "fromReferences": false
     },
     {
@@ -237,11 +243,11 @@
       "referenceCount": 28,
       "influentialCitationCount": 25,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 17,
       "direction": "backward",
       "score": 75.64944728513984,
-      "why": "cited by 17 here",
+      "why": "cited by 17 in Core",
       "fromReferences": false
     },
     {
@@ -264,11 +270,11 @@
       "referenceCount": 30,
       "influentialCitationCount": 62,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 17,
       "direction": "backward",
       "score": 74.81455090469298,
-      "why": "cited by 17 here",
+      "why": "cited by 17 in Core",
       "fromReferences": false
     },
     {
@@ -309,11 +315,11 @@
       "referenceCount": 82,
       "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -339,11 +345,11 @@
       "referenceCount": 104,
       "influentialCitationCount": 7,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -367,11 +373,11 @@
       "referenceCount": 43,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -392,11 +398,11 @@
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -422,11 +428,11 @@
       "referenceCount": 75,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -451,11 +457,11 @@
       "referenceCount": 103,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -480,11 +486,11 @@
       "referenceCount": 37,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -509,11 +515,11 @@
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 8,
       "direction": "forward",
       "score": 72.72727272727273,
-      "why": "cites 8 here",
+      "why": "cites 8 in Core",
       "fromReferences": false
     },
     {
@@ -535,11 +541,11 @@
       "referenceCount": 16,
       "influentialCitationCount": 273,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 27,
       "direction": "backward",
       "score": 72.06393791540042,
-      "why": "cited by 27 here",
+      "why": "cited by 27 in Core",
       "fromReferences": false
     },
     {
@@ -566,11 +572,11 @@
       "referenceCount": 56,
       "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 7,
       "direction": "forward",
       "score": 63.63636363636363,
-      "why": "cites 7 here",
+      "why": "cites 7 in Core",
       "fromReferences": false
     },
     {
@@ -595,11 +601,11 @@
       "referenceCount": 43,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 7,
       "direction": "forward",
       "score": 63.63636363636363,
-      "why": "cites 7 here",
+      "why": "cites 7 in Core",
       "fromReferences": false
     },
     {
@@ -621,11 +627,11 @@
       "referenceCount": 40,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 7,
       "direction": "forward",
       "score": 63.63636363636363,
-      "why": "cites 7 here",
+      "why": "cites 7 in Core",
       "fromReferences": false
     },
     {
@@ -648,11 +654,11 @@
       "referenceCount": 73,
       "influentialCitationCount": 7,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 7,
       "direction": "forward",
       "score": 63.63636363636363,
-      "why": "cites 7 here",
+      "why": "cites 7 in Core",
       "fromReferences": false
     },
     {
@@ -679,11 +685,11 @@
       "referenceCount": 49,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 7,
       "direction": "forward",
       "score": 63.63636363636363,
-      "why": "cites 7 here",
+      "why": "cites 7 in Core",
       "fromReferences": false
     },
     {
@@ -708,11 +714,11 @@
       "referenceCount": 55,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-12",
+      "addedAt": "2026-09-13",
       "overlap": 7,
       "direction": "forward",
       "score": 63.63636363636363,
-      "why": "cites 7 here",
+      "why": "cites 7 in Core",
       "fromReferences": false
     }
   ]
