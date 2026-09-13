@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:32:21.780Z",
+  "updatedAt": "2026-09-13T09:35:52.641Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -55,9 +55,6 @@
       "influentialCitationCount": 20,
       "source": "https://www.semanticscholar.org/paper/e79d1206292bc5e67ba19737d87d4b2ea4a37105",
       "addedAt": "2026-09-12",
-      "aliases": [
-        "https://www.semanticscholar.org/paper/6ce74320bdee8bd2a89e7fe1d73a7870b3f7fc01"
-      ],
       "score": 73.33333333333333
     },
     {
@@ -235,7 +232,7 @@
       "authors": [
         "Makoto Morishita",
         "Jun Suzuki",
-        "M. Nagata"
+        "Masaaki Nagata"
       ],
       "year": 2018,
       "venue": "International Conference on Computational Linguistics",
@@ -388,7 +385,7 @@
       "authors": [
         "Makesh Narsimhan Sreedhar",
         "Xiangpeng Wan",
-        "Yu-Jie Cheng",
+        "Yu Cheng",
         "Junjie Hu"
       ],
       "year": 2022,
@@ -924,7 +921,7 @@
       "title": "Improving Tokenisation by Alternative Treatment of Spaces",
       "authors": [
         "Edward Gow-Smith",
-        "H. T. Madabushi",
+        "Harish Tayyar Madabushi",
         "Carolina Scarton",
         "Aline Villavicencio"
       ],

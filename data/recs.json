@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:32:21.780Z",
+  "updatedAt": "2026-09-13T09:35:52.641Z",
   "recs": [
     {
       "id": "e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e",
@@ -730,7 +730,9 @@
       "direction": "forward",
       "score": 63.63636363636363,
       "why": "cites 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/24",
+      "prNumber": 24
     },
     {
       "id": "e35f446697d1692b27d500a2d30eda813e5249c9",
@@ -759,7 +761,9 @@
       "direction": "forward",
       "score": 63.63636363636363,
       "why": "cites 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/25",
+      "prNumber": 25
     }
   ]
 }
