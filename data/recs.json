@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:19:40.641Z",
+  "updatedAt": "2026-09-13T02:32:21.780Z",
   "recs": [
     {
       "id": "e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e",
@@ -113,7 +113,9 @@
       "direction": "backward",
       "score": 89.75166002482304,
       "why": "cited by 39 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/4",
+      "prNumber": 4
     },
     {
       "id": "1068dfc3985863ad692cd59a48596847aac8754f",
@@ -140,7 +142,9 @@
       "direction": "forward",
       "score": 81.81818181818183,
       "why": "cites 9 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/5",
+      "prNumber": 5
     },
     {
       "id": "205cc15fca6963b355e4c071071368e874ee103e",
@@ -168,7 +172,9 @@
       "direction": "forward",
       "score": 81.81818181818183,
       "why": "cites 9 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/6",
+      "prNumber": 6
     },
     {
       "id": "2910da87c91dff1aca3ae139b680c012bab3191e",
@@ -195,7 +201,9 @@
       "direction": "forward",
       "score": 81.81818181818183,
       "why": "cites 9 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/7",
+      "prNumber": 7
     },
     {
       "id": "a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
@@ -222,7 +230,9 @@
       "direction": "backward",
       "score": 76.27624855377243,
       "why": "cited by 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/8",
+      "prNumber": 8
     },
     {
       "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
@@ -248,7 +258,9 @@
       "direction": "backward",
       "score": 75.64944728513984,
       "why": "cited by 17 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/9",
+      "prNumber": 9
     },
     {
       "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
@@ -275,7 +287,9 @@
       "direction": "backward",
       "score": 74.81455090469298,
       "why": "cited by 17 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/10",
+      "prNumber": 10
     },
     {
       "id": "64384525318f934fa085de86badc24403487d38a",
@@ -320,7 +334,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/11",
+      "prNumber": 11
     },
     {
       "id": "326c554455fdf0d6fb9636c87341d1c7748cd834",
@@ -350,7 +366,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/12",
+      "prNumber": 12
     },
     {
       "id": "b10e5a2b622a2da27b1a888a117ad5d9237a31e1",
@@ -378,7 +396,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/13",
+      "prNumber": 13
     },
     {
       "id": "915b10732f264bebd952c806db93692bf2cf8b08",
@@ -403,7 +423,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/14",
+      "prNumber": 14
     },
     {
       "id": "5bec2a6df12e4cc6034490e400abecfc7ae090fb",
@@ -433,7 +455,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/15",
+      "prNumber": 15
     },
     {
       "id": "ec323a4d9f91862a3904d134935208210c2c931d",
@@ -462,7 +486,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/16",
+      "prNumber": 16
     },
     {
       "id": "f914e6e4cd65a4f04a78d4f6af2fd8aa093b79cd",
@@ -491,7 +517,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/17",
+      "prNumber": 17
     },
     {
       "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
@@ -520,7 +548,9 @@
       "direction": "forward",
       "score": 72.72727272727273,
       "why": "cites 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/18",
+      "prNumber": 18
     },
     {
       "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
@@ -546,7 +576,9 @@
       "direction": "backward",
       "score": 72.06393791540042,
       "why": "cited by 27 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/19",
+      "prNumber": 19
     },
     {
       "id": "c74326259a24bbba3e5130f0ee42a546ea31301b",
@@ -577,7 +609,9 @@
       "direction": "forward",
       "score": 63.63636363636363,
       "why": "cites 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/20",
+      "prNumber": 20
     },
     {
       "id": "8efaa8206874c2f7a79bba2a9bcba542e4cabf31",
@@ -606,7 +640,9 @@
       "direction": "forward",
       "score": 63.63636363636363,
       "why": "cites 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/21",
+      "prNumber": 21
     },
     {
       "id": "17d0cc24fd6a267e7fd59ae62054de3e5c552096",
@@ -632,7 +668,9 @@
       "direction": "forward",
       "score": 63.63636363636363,
       "why": "cites 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/22",
+      "prNumber": 22
     },
     {
       "id": "ae7606881a405a773dae6cce8efd87fe0b9b73d9",
@@ -659,7 +697,9 @@
       "direction": "forward",
       "score": 63.63636363636363,
       "why": "cites 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/23",
+      "prNumber": 23
     },
     {
       "id": "9ef2d0327c73393adb509d5793f707447cad2faf",
