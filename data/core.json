@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:27:13.630Z",
+  "updatedAt": "2026-09-14T17:34:48.157Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -11,6 +11,22 @@
         "Elizabeth Salesky",
         "Miryam de Lhoneux",
         "Desmond Elliott"
+      ],
+      "topAuthors": [
+        {
+          "name": "Desmond Elliott",
+          "hIndex": 31,
+          "authorId": "50369944"
+        },
+        {
+          "name": "Elizabeth Salesky",
+          "hIndex": 26,
+          "authorId": "3448427"
+        }
+      ],
+      "affiliations": [
+        "University of Copenhagen",
+        "KU Leuven"
       ],
       "year": 2022,
       "venue": "International Conference on Learning Representations",
@@ -42,6 +58,22 @@
         "Cong Yu",
         "Donald Metzler"
       ],
+      "topAuthors": [
+        {
+          "name": "Yi Tay",
+          "hIndex": 61,
+          "authorId": "144447820"
+        },
+        {
+          "name": "Donald Metzler",
+          "hIndex": 58,
+          "authorId": "1680617"
+        }
+      ],
+      "affiliations": [
+        "Google",
+        "Cohere"
+      ],
       "year": 2021,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2021-06-23",
@@ -66,6 +98,22 @@
         "Mark Dredze",
         "Jacob Eisenstein"
       ],
+      "topAuthors": [
+        {
+          "name": "Mark Dredze",
+          "hIndex": 69,
+          "authorId": "1782853"
+        },
+        {
+          "name": "Jacob Eisenstein",
+          "hIndex": 56,
+          "authorId": "144154709"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University",
+        "Ben-Gurion University of the Negev"
+      ],
       "year": 2021,
       "venue": "arXiv.org",
       "publicationDate": "2021-08-01",
@@ -87,6 +135,22 @@
       "authors": [
         "Itay Itzhak",
         "Omer Levy"
+      ],
+      "topAuthors": [
+        {
+          "name": "Omer Levy",
+          "hIndex": 53,
+          "authorId": "39455775"
+        },
+        {
+          "name": "Itay Itzhak",
+          "hIndex": 6,
+          "authorId": "2126506416"
+        }
+      ],
+      "affiliations": [
+        "Meta",
+        "Technion, Hebrew University of Jerusalem"
       ],
       "year": 2021,
       "venue": "North American Chapter of the Association for Computational Linguistics",
@@ -116,6 +180,22 @@
         "Adam Roberts",
         "Colin Raffel"
       ],
+      "topAuthors": [
+        {
+          "name": "Colin Raffel",
+          "hIndex": 59,
+          "authorId": "2402716"
+        },
+        {
+          "name": "Adam Roberts",
+          "hIndex": 40,
+          "authorId": "145625142"
+        }
+      ],
+      "affiliations": [
+        "Waymo",
+        "Google"
+      ],
       "year": 2021,
       "venue": "Transactions of the Association for Computational Linguistics",
       "publicationDate": "2021-05-28",
@@ -124,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 765,
+      "citationCount": 766,
       "referenceCount": 68,
-      "influentialCitationCount": 98,
+      "influentialCitationCount": 99,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 87.09677419354838
@@ -139,6 +219,22 @@
         "Weiqiu You",
         "Constantine Lignos",
         "Jonathan May"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jonathan May",
+          "hIndex": 33,
+          "authorId": "143823227"
+        },
+        {
+          "name": "Constantine Lignos",
+          "hIndex": 16,
+          "authorId": "1737047"
+        }
+      ],
+      "affiliations": [
+        "Brandeis University",
+        "Microsoft"
       ],
       "year": 2021,
       "venue": "North American Chapter of the Association for Computational Linguistics",
@@ -162,6 +258,19 @@
         "Xinsong Zhang",
         "Hang Li"
       ],
+      "topAuthors": [
+        {
+          "name": "Xinsong Zhang",
+          "hIndex": 17,
+          "authorId": "47957145"
+        },
+        {
+          "name": "Hang Li",
+          "hIndex": 17,
+          "authorId": "2145571830"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "Findings",
       "publicationDate": "2020-08-27",
@@ -186,6 +295,21 @@
         "Iulia Turc",
         "J. Wieting"
       ],
+      "topAuthors": [
+        {
+          "name": "J. Wieting",
+          "hIndex": 27,
+          "authorId": "1771118"
+        },
+        {
+          "name": "Dan Garrette",
+          "hIndex": 23,
+          "authorId": "2758616"
+        }
+      ],
+      "affiliations": [
+        "Google DeepMind"
+      ],
       "year": 2021,
       "venue": "Transactions of the Association for Computational Linguistics",
       "publicationDate": "2021-03-11",
@@ -194,9 +318,9 @@
       "doi": "10.1162/tacl_a_00448",
       "arxivId": "2103.06874",
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00448/1985933/tacl_a_00448.pdf",
-      "citationCount": 333,
+      "citationCount": 334,
       "referenceCount": 84,
-      "influentialCitationCount": 51,
+      "influentialCitationCount": 52,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
       "addedAt": "2026-09-12",
       "score": 100
@@ -211,6 +335,19 @@
         "J. Niehues",
         "Graham Neubig"
       ],
+      "topAuthors": [
+        {
+          "name": "Graham Neubig",
+          "hIndex": 92,
+          "authorId": "1700325"
+        },
+        {
+          "name": "J. Niehues",
+          "hIndex": 40,
+          "authorId": "2920247"
+        }
+      ],
+      "affiliations": [],
       "year": 2018,
       "venue": "Machine Translation",
       "publicationDate": "2018-10-19",
@@ -233,6 +370,21 @@
         "Makoto Morishita",
         "Jun Suzuki",
         "Masaaki Nagata"
+      ],
+      "topAuthors": [
+        {
+          "name": "Masaaki Nagata",
+          "hIndex": 33,
+          "authorId": "2364073"
+        },
+        {
+          "name": "Jun Suzuki",
+          "hIndex": 28,
+          "authorId": "144042991"
+        }
+      ],
+      "affiliations": [
+        "Tohoku University"
       ],
       "year": 2018,
       "venue": "International Conference on Computational Linguistics",
@@ -260,6 +412,19 @@
         "Pierre Zweigenbaum",
         "Junichi Tsujii"
       ],
+      "topAuthors": [
+        {
+          "name": "Junichi Tsujii",
+          "hIndex": 64,
+          "authorId": "1737901"
+        },
+        {
+          "name": "T. Lavergne",
+          "hIndex": 47,
+          "authorId": "46853620"
+        }
+      ],
+      "affiliations": [],
       "year": 2020,
       "venue": "International Conference on Computational Linguistics",
       "publicationDate": "2020-10-20",
@@ -291,6 +456,22 @@
         "Benoît Sagot",
         "Samson Tan"
       ],
+      "topAuthors": [
+        {
+          "name": "Colin Raffel",
+          "hIndex": 59,
+          "authorId": "2402716"
+        },
+        {
+          "name": "Benoît Sagot",
+          "hIndex": 37,
+          "authorId": "68990982"
+        }
+      ],
+      "affiliations": [
+        "King Fahd University of Petroleum & Minerals",
+        "Johns Hopkins University"
+      ],
       "year": 2021,
       "venue": "arXiv.org",
       "publicationDate": "2021-12-20",
@@ -311,6 +492,16 @@
       "title": "Integrating Approaches to Word Representation",
       "authors": [
         "Yuval Pinter"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yuval Pinter",
+          "hIndex": 19,
+          "authorId": "1826312"
+        }
+      ],
+      "affiliations": [
+        "Ben-Gurion University of the Negev"
       ],
       "year": 2021,
       "venue": "arXiv.org",
@@ -341,6 +532,21 @@
         "Qun Liu",
         "Maosong Sun"
       ],
+      "topAuthors": [
+        {
+          "name": "Maosong Sun",
+          "hIndex": 101,
+          "authorId": "1753344"
+        },
+        {
+          "name": "Zhiyuan Liu",
+          "hIndex": 42,
+          "authorId": "2141313179"
+        }
+      ],
+      "affiliations": [
+        "Tsinghua University"
+      ],
       "year": 2021,
       "venue": "Transactions of the Association for Computational Linguistics",
       "publicationDate": "2021-06-01",
@@ -363,6 +569,22 @@
         "Arij Riabi",
         "Benoît Sagot",
         "Djamé Seddah"
+      ],
+      "topAuthors": [
+        {
+          "name": "Benoît Sagot",
+          "hIndex": 37,
+          "authorId": "68990982"
+        },
+        {
+          "name": "Djamé Seddah",
+          "hIndex": 26,
+          "authorId": "1679170"
+        }
+      ],
+      "affiliations": [
+        "Inria",
+        "INRIA Paris"
       ],
       "year": 2021,
       "venue": "WNUT",
@@ -388,6 +610,21 @@
         "Yu Cheng",
         "Junjie Hu"
       ],
+      "topAuthors": [
+        {
+          "name": "Junjie Hu",
+          "hIndex": 18,
+          "authorId": "2149221827"
+        },
+        {
+          "name": "Makesh Narsimhan Sreedhar",
+          "hIndex": 13,
+          "authorId": "1602996186"
+        }
+      ],
+      "affiliations": [
+        "Protagolabs"
+      ],
       "year": 2022,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2022-05-23",
@@ -410,6 +647,21 @@
         "Huiyin Xue",
         "Nikolaos Aletras"
       ],
+      "topAuthors": [
+        {
+          "name": "Nikolaos Aletras",
+          "hIndex": 30,
+          "authorId": "3238627"
+        },
+        {
+          "name": "Huiyin Xue",
+          "hIndex": 2,
+          "authorId": "2152263068"
+        }
+      ],
+      "affiliations": [
+        "University of Sheffield"
+      ],
       "year": 2022,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2022-10-14",
@@ -431,6 +683,21 @@
       "authors": [
         "Shaked Yehezkel",
         "Yuval Pinter"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yuval Pinter",
+          "hIndex": 19,
+          "authorId": "1826312"
+        },
+        {
+          "name": "Shaked Yehezkel",
+          "hIndex": 2,
+          "authorId": "2179474385"
+        }
+      ],
+      "affiliations": [
+        "Ben-Gurion University of the Negev"
       ],
       "year": 2022,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
@@ -455,6 +722,22 @@
         "Hinrich Schütze",
         "J. Pierrehumbert"
       ],
+      "topAuthors": [
+        {
+          "name": "Hinrich Schütze",
+          "hIndex": 69,
+          "authorId": "144418438"
+        },
+        {
+          "name": "J. Pierrehumbert",
+          "hIndex": 47,
+          "authorId": "1970864"
+        }
+      ],
+      "affiliations": [
+        "University of Oxford",
+        "LMU Munich"
+      ],
       "year": 2022,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": null,
@@ -477,6 +760,19 @@
         "Stanford CS224N",
         "Peng Chen"
       ],
+      "topAuthors": [
+        {
+          "name": "Stanford CS224N",
+          "hIndex": 3,
+          "authorId": "2220791003"
+        },
+        {
+          "name": "Peng Chen",
+          "hIndex": 2,
+          "authorId": "2158503643"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": null,
       "publicationDate": null,
@@ -499,6 +795,22 @@
         "Jindřich Libovický",
         "Helmut Schmid",
         "Alexander M. Fraser"
+      ],
+      "topAuthors": [
+        {
+          "name": "Alexander M. Fraser",
+          "hIndex": 31,
+          "authorId": "2277248"
+        },
+        {
+          "name": "Helmut Schmid",
+          "hIndex": 28,
+          "authorId": "40360495"
+        }
+      ],
+      "affiliations": [
+        "Technical University of Munich",
+        "Charles University"
       ],
       "year": 2021,
       "venue": "Findings",
@@ -524,6 +836,21 @@
         "Furkan Şahinuç",
         "Oguzhan Ozcelik"
       ],
+      "topAuthors": [
+        {
+          "name": "Cagri Toraman",
+          "hIndex": 12,
+          "authorId": "2648640"
+        },
+        {
+          "name": "Furkan Şahinuç",
+          "hIndex": 12,
+          "authorId": "107973475"
+        }
+      ],
+      "affiliations": [
+        "Middle East Technical University"
+      ],
       "year": 2022,
       "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
       "publicationDate": "2022-04-19",
@@ -532,7 +859,7 @@
       "doi": "10.1145/3578707",
       "arxivId": "2204.08832",
       "pdf": "https://dl.acm.org/doi/pdf/10.1145/3578707",
-      "citationCount": 149,
+      "citationCount": 150,
       "referenceCount": 68,
       "influentialCitationCount": 12,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
@@ -550,6 +877,22 @@
         "Guillaume Wenzek",
         "Mohit Bansal",
         "Francisco (Paco) Guzmán"
+      ],
+      "topAuthors": [
+        {
+          "name": "Mohit Bansal",
+          "hIndex": 87,
+          "authorId": "143977268"
+        },
+        {
+          "name": "Vishrav Chaudhary",
+          "hIndex": 32,
+          "authorId": "113810201"
+        }
+      ],
+      "affiliations": [
+        "UNC Chapel Hill",
+        "Handshake AI"
       ],
       "year": 2022,
       "venue": "Conference of the Association for Machine Translation in the Americas",
@@ -578,6 +921,19 @@
         "Wei Yu Wu",
         "Liqian Yu"
       ],
+      "topAuthors": [
+        {
+          "name": "Wei Yu Wu",
+          "hIndex": 31,
+          "authorId": "50224935"
+        },
+        {
+          "name": "Haitao Zheng",
+          "hIndex": 30,
+          "authorId": "16215052"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "International Conference on Computational Linguistics",
       "publicationDate": "2022-08-23",
@@ -598,6 +954,16 @@
       "title": "Investigating the Effectiveness of BPE: The Power of Shorter Sequences",
       "authors": [
         "Matthias Gallé"
+      ],
+      "topAuthors": [
+        {
+          "name": "Matthias Gallé",
+          "hIndex": 16,
+          "authorId": "2907260"
+        }
+      ],
+      "affiliations": [
+        "Naver Labs Europe"
       ],
       "year": 2019,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -621,6 +987,22 @@
         "Thamme Gowda",
         "Jonathan May"
       ],
+      "topAuthors": [
+        {
+          "name": "Jonathan May",
+          "hIndex": 33,
+          "authorId": "143823227"
+        },
+        {
+          "name": "Thamme Gowda",
+          "hIndex": 13,
+          "authorId": "145845766"
+        }
+      ],
+      "affiliations": [
+        "Microsoft",
+        "University of Southern California"
+      ],
       "year": 2020,
       "venue": "Findings",
       "publicationDate": "2020-04-05",
@@ -629,7 +1011,7 @@
       "doi": "10.18653/v1/2020.findings-emnlp.352",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.352.pdf",
-      "citationCount": 95,
+      "citationCount": 96,
       "referenceCount": 32,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5e788c833321b12671206b96a438c0e5b1202027",
@@ -643,6 +1025,22 @@
         "Elizabeth Salesky",
         "David Etter",
         "Matt Post"
+      ],
+      "topAuthors": [
+        {
+          "name": "Matt Post",
+          "hIndex": 41,
+          "authorId": "38842528"
+        },
+        {
+          "name": "Elizabeth Salesky",
+          "hIndex": 26,
+          "authorId": "3448427"
+        }
+      ],
+      "affiliations": [
+        "Microsoft Translator",
+        "Johns Hopkins University"
       ],
       "year": 2021,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -666,6 +1064,22 @@
         "Chantal Amrhein",
         "Rico Sennrich"
       ],
+      "topAuthors": [
+        {
+          "name": "Rico Sennrich",
+          "hIndex": 50,
+          "authorId": "2082372"
+        },
+        {
+          "name": "Chantal Amrhein",
+          "hIndex": 11,
+          "authorId": "37430735"
+        }
+      ],
+      "affiliations": [
+        "University of Zurich",
+        "Department of Computational Linguistics, University of Zurich"
+      ],
       "year": 2021,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2021-09-02",
@@ -687,6 +1101,21 @@
       "authors": [
         "Francois Meyer",
         "Jan Buys"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jan Buys",
+          "hIndex": 12,
+          "authorId": "144685020"
+        },
+        {
+          "name": "Francois Meyer",
+          "hIndex": 5,
+          "authorId": "2056223041"
+        }
+      ],
+      "affiliations": [
+        "University of Cape Town"
       ],
       "year": 2022,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -712,6 +1141,21 @@
         "Xinyi Wang",
         "Graham Neubig"
       ],
+      "topAuthors": [
+        {
+          "name": "Graham Neubig",
+          "hIndex": 92,
+          "authorId": "1700325"
+        },
+        {
+          "name": "Xinyi Wang",
+          "hIndex": 37,
+          "authorId": "3277494"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University"
+      ],
       "year": 2022,
       "venue": "Findings",
       "publicationDate": "2022-10-13",
@@ -733,6 +1177,21 @@
       "authors": [
         "Ayush Kaushal",
         "Kyle Mahowald"
+      ],
+      "topAuthors": [
+        {
+          "name": "Kyle Mahowald",
+          "hIndex": 25,
+          "authorId": "2412497"
+        },
+        {
+          "name": "Ayush Kaushal",
+          "hIndex": 6,
+          "authorId": "1580369404"
+        }
+      ],
+      "affiliations": [
+        "The University of Texas at Austin"
       ],
       "year": 2022,
       "venue": "North American Chapter of the Association for Computational Linguistics",
@@ -756,6 +1215,19 @@
         "Nadezhda Chirkova",
         "Sergey Troshin"
       ],
+      "topAuthors": [
+        {
+          "name": "Sergey Troshin",
+          "hIndex": 4,
+          "authorId": "2061565203"
+        },
+        {
+          "name": "Nadezhda Chirkova",
+          "hIndex": 2,
+          "authorId": "2366425931"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "International Conference on Learning Representations",
       "publicationDate": "2023-08-01",
@@ -779,6 +1251,22 @@
         "Maged Saeed Al-shaibani",
         "Mustafa Ghaleb",
         "Irfan Ahmad"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zaid Alyafeai",
+          "hIndex": 20,
+          "authorId": "25098419"
+        },
+        {
+          "name": "Irfan Ahmad",
+          "hIndex": 17,
+          "authorId": "151503424"
+        }
+      ],
+      "affiliations": [
+        "King Fahd University of Petroleum & Minerals",
+        "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
       ],
       "year": 2021,
       "venue": "Neural Processing Letters",
@@ -806,6 +1294,22 @@
         "Chengyuan Ma",
         "Chenlei Guo"
       ],
+      "topAuthors": [
+        {
+          "name": "Md. Mofijul Islam",
+          "hIndex": 14,
+          "authorId": "2804902"
+        },
+        {
+          "name": "Gustavo Aguilar",
+          "hIndex": 14,
+          "authorId": "46402847"
+        }
+      ],
+      "affiliations": [
+        "University of Houston",
+        "Together AI"
+      ],
       "year": 2022,
       "venue": "Workshop on Representation Learning for NLP",
       "publicationDate": "2022-04-22",
@@ -829,6 +1333,19 @@
         "Antonio Toral",
         "Gertjan van Noord"
       ],
+      "topAuthors": [
+        {
+          "name": "Gertjan van Noord",
+          "hIndex": 37,
+          "authorId": "143715131"
+        },
+        {
+          "name": "Antonio Toral",
+          "hIndex": 11,
+          "authorId": "2065048323"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "arXiv.org",
       "publicationDate": "2022-05-27",
@@ -854,6 +1371,21 @@
         "Jun-Heuk Choi",
         "SangKeun Lee"
       ],
+      "topAuthors": [
+        {
+          "name": "SangKeun Lee",
+          "hIndex": 19,
+          "authorId": "66593705"
+        },
+        {
+          "name": "Dohyun Kim",
+          "hIndex": 6,
+          "authorId": "2116536182"
+        }
+      ],
+      "affiliations": [
+        "Korea University"
+      ],
       "year": 2021,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
       "publicationDate": null,
@@ -876,6 +1408,22 @@
         "Judit Ács",
         "'Akos K'ad'ar",
         "András Kornai"
+      ],
+      "topAuthors": [
+        {
+          "name": "András Kornai",
+          "hIndex": 23,
+          "authorId": "2979211"
+        },
+        {
+          "name": "Judit Ács",
+          "hIndex": 9,
+          "authorId": "2285758"
+        }
+      ],
+      "affiliations": [
+        "SZTAKI Institute of Computer Science",
+        "Budapest University of Technology and Economics"
       ],
       "year": 2021,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
@@ -901,6 +1449,19 @@
         "O. Sozinova",
         "T. Samardžić"
       ],
+      "topAuthors": [
+        {
+          "name": "T. Samardžić",
+          "hIndex": 19,
+          "authorId": "2044631"
+        },
+        {
+          "name": "C. Bentz",
+          "hIndex": 17,
+          "authorId": "3255675"
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
       "publicationDate": null,
@@ -925,6 +1486,19 @@
         "Carolina Scarton",
         "Aline Villavicencio"
       ],
+      "topAuthors": [
+        {
+          "name": "Carolina Scarton",
+          "hIndex": 13,
+          "authorId": "2064492081"
+        },
+        {
+          "name": "Aline Villavicencio",
+          "hIndex": 9,
+          "authorId": "2113791974"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2022-04-08",
@@ -947,6 +1521,19 @@
         "Salvador Carrión-Ponz",
         "F. Casacuberta"
       ],
+      "topAuthors": [
+        {
+          "name": "F. Casacuberta",
+          "hIndex": 38,
+          "authorId": "1696761"
+        },
+        {
+          "name": "Salvador Carrión-Ponz",
+          "hIndex": 2,
+          "authorId": "2184600747"
+        }
+      ],
+      "affiliations": [],
       "year": 2022,
       "venue": "Conference of the Association for Machine Translation in the Americas",
       "publicationDate": null,
@@ -968,6 +1555,21 @@
       "authors": [
         "Ben Peters",
         "André F. T. Martins"
+      ],
+      "topAuthors": [
+        {
+          "name": "André F. T. Martins",
+          "hIndex": 19,
+          "authorId": "1400227478"
+        },
+        {
+          "name": "Ben Peters",
+          "hIndex": 7,
+          "authorId": "49470779"
+        }
+      ],
+      "affiliations": [
+        "Instituto de Telecomunicações"
       ],
       "year": 2022,
       "venue": "Special Interest Group on Computational Morphology and Phonology Workshop",
@@ -997,6 +1599,22 @@
         "Luke Zettlemoyer",
         "Madian Khabsa"
       ],
+      "topAuthors": [
+        {
+          "name": "Luke Zettlemoyer",
+          "hIndex": 118,
+          "authorId": "1982950"
+        },
+        {
+          "name": "Marjan Ghazvininejad",
+          "hIndex": 30,
+          "authorId": "2320509"
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "Facebook"
+      ],
       "year": 2023,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2023-01-25",
@@ -1022,6 +1640,19 @@
         "Xinyu Jia",
         "Alexey Kurakin"
       ],
+      "topAuthors": [
+        {
+          "name": "Elie Bursztein",
+          "hIndex": 35,
+          "authorId": "1687723"
+        },
+        {
+          "name": "Alexey Kurakin",
+          "hIndex": 24,
+          "authorId": "145714153"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2023-02-18",
@@ -1045,6 +1676,19 @@
         "Antonio Toral",
         "Gertjan van Noord"
       ],
+      "topAuthors": [
+        {
+          "name": "Gertjan van Noord",
+          "hIndex": 37,
+          "authorId": "143715131"
+        },
+        {
+          "name": "Antonio Toral",
+          "hIndex": 11,
+          "authorId": "2065048323"
+        }
+      ],
+      "affiliations": [],
       "year": 2023,
       "venue": "arXiv.org",
       "publicationDate": null,
@@ -1071,6 +1715,22 @@
         "Luke Zettlemoyer",
         "M. Lewis"
       ],
+      "topAuthors": [
+        {
+          "name": "Luke Zettlemoyer",
+          "hIndex": 118,
+          "authorId": "1982950"
+        },
+        {
+          "name": "M. Lewis",
+          "hIndex": 55,
+          "authorId": "35084211"
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "Meta AI"
+      ],
       "year": 2023,
       "venue": "Neural Information Processing Systems",
       "publicationDate": "2023-05-12",
@@ -1094,6 +1754,22 @@
         "Manex Agirrezabal",
         "Nora Hollenstein"
       ],
+      "topAuthors": [
+        {
+          "name": "Nora Hollenstein",
+          "hIndex": 21,
+          "authorId": "3191620"
+        },
+        {
+          "name": "Manex Agirrezabal",
+          "hIndex": 10,
+          "authorId": "2650725"
+        }
+      ],
+      "affiliations": [
+        "ETH Zurich",
+        "University of Copenhagen"
+      ],
       "year": 2022,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": null,
@@ -1115,6 +1791,22 @@
       "authors": [
         "Dipesh Kumar",
         "Avijit Thawani"
+      ],
+      "topAuthors": [
+        {
+          "name": "Avijit Thawani",
+          "hIndex": 6,
+          "authorId": "37574242"
+        },
+        {
+          "name": "Dipesh Kumar",
+          "hIndex": 2,
+          "authorId": "2281335564"
+        }
+      ],
+      "affiliations": [
+        "University of Southern California",
+        "Information Sciences Institute"
       ],
       "year": 2022,
       "venue": "First Workshop on Insights from Negative Results in NLP",
@@ -1142,6 +1834,22 @@
         "Mrinmaya Sachan",
         "Ryan Cotterell"
       ],
+      "topAuthors": [
+        {
+          "name": "Mrinmaya Sachan",
+          "hIndex": 43,
+          "authorId": "2790926"
+        },
+        {
+          "name": "Clara Meister",
+          "hIndex": 25,
+          "authorId": "150953620"
+        }
+      ],
+      "affiliations": [
+        "ETH Zürich",
+        "ETH Zurich"
+      ],
       "year": 2023,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2023-06-29",
@@ -1150,7 +1858,7 @@
       "doi": "10.48550/arXiv.2306.16842",
       "arxivId": "2306.16842",
       "pdf": "http://arxiv.org/pdf/2306.16842",
-      "citationCount": 74,
+      "citationCount": 75,
       "referenceCount": 47,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
@@ -1164,6 +1872,22 @@
         "Manex Agirrezabal",
         "Sidsel Boldsen",
         "Nora Hollenstein"
+      ],
+      "topAuthors": [
+        {
+          "name": "Nora Hollenstein",
+          "hIndex": 21,
+          "authorId": "3191620"
+        },
+        {
+          "name": "Manex Agirrezabal",
+          "hIndex": 10,
+          "authorId": "2650725"
+        }
+      ],
+      "affiliations": [
+        "ETH Zurich",
+        "University of Copenhagen"
       ],
       "year": 2023,
       "venue": "CAWL",
@@ -1185,6 +1909,16 @@
       "title": "What is the best recipe for character-level encoder-only modelling?",
       "authors": [
         "Kris Cao"
+      ],
+      "topAuthors": [
+        {
+          "name": "Kris Cao",
+          "hIndex": 12,
+          "authorId": "3421987"
+        }
+      ],
+      "affiliations": [
+        "DeepMind"
       ],
       "year": 2023,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
@@ -1213,6 +1947,22 @@
         "Mrinmaya Sachan",
         "Ryan Cotterell"
       ],
+      "topAuthors": [
+        {
+          "name": "Mrinmaya Sachan",
+          "hIndex": 43,
+          "authorId": "2790926"
+        },
+        {
+          "name": "Clara Meister",
+          "hIndex": 25,
+          "authorId": "150953620"
+        }
+      ],
+      "affiliations": [
+        "ETH Zürich",
+        "Johns Hopkins University"
+      ],
       "year": 2023,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2023-06-29",
@@ -1240,11 +1990,13 @@
       "topAuthors": [
         {
           "name": "Sasa Misailovic",
-          "hIndex": 30
+          "hIndex": 30,
+          "authorId": "1704478"
         },
         {
           "name": "Shubham Ugare",
-          "hIndex": 10
+          "hIndex": 10,
+          "authorId": "1413931779"
         }
       ],
       "affiliations": [],
