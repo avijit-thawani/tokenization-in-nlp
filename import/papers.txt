@@ -91,3 +91,36 @@ https://arxiv.org/abs/2511.20849
 # Tokenization Matters: The Impact of Byte and BPE Encoder-Only Language Models on Low-Resource Adaptation in Multilingual Neural Machine Translation
 #   Priyanka C. Nair (h=6) · 2026 · 0 citations · past year · cites 4 in your list
 https://doi.org/10.1016/j.procs.2026.06.244
+
+# --- most connected ---
+# Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
+#   Taku Kudo (h=33) · Google (United States) · 2018 · 1413 citations · cited by 43 in your list
+https://arxiv.org/abs/1804.10959
+
+# Learn Your Tokens: Word-Pooled Tokenization for Language Modeling
+#   Avijit Thawani (h=6) · University of Southern California · 2023 · 13 citations · cites 11 in your list
+https://arxiv.org/abs/2310.11628
+
+# Byte Pair Encoding is Suboptimal for Language Model Pretraining
+#   Greg Durrett (h=50) · The University of Texas at Austin · 2020 · 334 citations · cited by 28 in your list
+https://arxiv.org/abs/2004.03720
+
+# Neural Machine Translation of Rare Words with Subword Units
+#   Rico Sennrich (h=50) · University of Zurich · 2015 · 9004 citations · cited by 55 in your list
+https://arxiv.org/abs/1508.07909
+
+# Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training
+#   Christopher Potts (h=58) · The University of Texas at Austin · 2022 · 17 citations · cites 9 in your list
+https://arxiv.org/abs/2212.09897
+
+# SpaceByte: Towards Deleting Tokenization from Large Language Modeling
+#   K. Slagle (h=24) · 2024 · 33 citations · cites 8 in your list
+https://arxiv.org/abs/2404.14408
+
+# SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
+#   Taku Kudo (h=33) · Google (United States) · 2018 · 4292 citations · cited by 40 in your list
+https://arxiv.org/abs/1808.06226
+
+# Tokenization is Sensitive to Language Variation
+#   David Jurgens (h=11) · 2025 · 16 citations · cites 9 in your list
+https://arxiv.org/abs/2502.15343
