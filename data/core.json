@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:33:04.510Z",
+  "updatedAt": "2026-09-14T20:37:55.004Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -41,7 +41,7 @@
       "influentialCitationCount": 8,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
       "addedAt": "2026-09-12",
-      "score": 47.91666666666667
+      "score": 45.09803921568628
     },
     {
       "id": "e79d1206292bc5e67ba19737d87d4b2ea4a37105",
@@ -87,7 +87,7 @@
       "influentialCitationCount": 20,
       "source": "https://www.semanticscholar.org/paper/e79d1206292bc5e67ba19737d87d4b2ea4a37105",
       "addedAt": "2026-09-12",
-      "score": 77.08333333333334
+      "score": 76.47058823529412
     },
     {
       "id": "9c2e4e5ee224c20a45c37244924138b50f3fe603",
@@ -127,7 +127,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/9c2e4e5ee224c20a45c37244924138b50f3fe603",
       "addedAt": "2026-09-12",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "937b177d2ed7cee27ee45300c690f2f60c81bae5",
@@ -165,7 +165,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/937b177d2ed7cee27ee45300c690f2f60c81bae5",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 23.52941176470588
     },
     {
       "id": "44ef6cf919250001836ed73c0d58b20ea1e2d308",
@@ -249,7 +249,7 @@
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/3b34e79610e5acaba352def4323a59f6d531fac7",
       "addedAt": "2026-09-12",
-      "score": 4.166666666666666
+      "score": 3.9215686274509802
     },
     {
       "id": "59c0076b3d814588e320820b95563965733d1875",
@@ -284,7 +284,7 @@
       "influentialCitationCount": 6,
       "source": "https://www.semanticscholar.org/paper/59c0076b3d814588e320820b95563965733d1875",
       "addedAt": "2026-09-12",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "969287b8a96e242793b11f0dbb99ec341228106f",
@@ -323,7 +323,7 @@
       "influentialCitationCount": 52,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
       "addedAt": "2026-09-12",
-      "score": 100
+      "score": 98.0392156862745
     },
     {
       "id": "485b3f77b9913e151e7ca897d99497e70e7f30d1",
@@ -361,7 +361,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/485b3f77b9913e151e7ca897d99497e70e7f30d1",
       "addedAt": "2026-09-12",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "ab139e341c005929848a7326f3d44f8a6aa9863c",
@@ -399,7 +399,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/ab139e341c005929848a7326f3d44f8a6aa9863c",
       "addedAt": "2026-09-12",
-      "score": 4.166666666666666
+      "score": 3.9215686274509802
     },
     {
       "id": "473921de1b52f98f34f37afd507e57366ff7d1ca",
@@ -438,7 +438,7 @@
       "influentialCitationCount": 18,
       "source": "https://www.semanticscholar.org/paper/473921de1b52f98f34f37afd507e57366ff7d1ca",
       "addedAt": "2026-09-12",
-      "score": 37.5
+      "score": 35.294117647058826
     },
     {
       "id": "d617f51833860dc50d202af7f80be71304b2e994",
@@ -485,7 +485,7 @@
       "influentialCitationCount": 9,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
       "addedAt": "2026-09-12",
-      "score": 75
+      "score": 72.54901960784314
     },
     {
       "id": "d87647784c12517d31964cc508d5b8423cc24f50",
@@ -516,7 +516,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/d87647784c12517d31964cc508d5b8423cc24f50",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 19.607843137254903
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -560,7 +560,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/f332a615c33c69f54dfcb9a8b14f96e8b5725def",
       "addedAt": "2026-09-12",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "dc018aacbebf81e4e164a2e2c53d3e2c9b1824a5",
@@ -599,7 +599,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/dc018aacbebf81e4e164a2e2c53d3e2c9b1824a5",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 15.686274509803921
     },
     {
       "id": "0232715f9089e3a2fc002cff6737bb9939805b8d",
@@ -638,7 +638,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/62ece609555bf833a2afd25ef796d72b5f59e767",
       "addedAt": "2026-09-12",
-      "score": 22.916666666666664
+      "score": 23.52941176470588
     },
     {
       "id": "feeed68c23932fda1cc9f222b5b7690b2ad7e706",
@@ -675,7 +675,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/12d2a697f1ee6a63859efe6b288ddb5eb6bd97c1",
       "addedAt": "2026-09-12",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "a0568d0bf4cbfcb5a17a20c576dfc421c4ccfb7c",
@@ -712,7 +712,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/023fd42f0867a88a2206f906c7f127701058feb6",
       "addedAt": "2026-09-12",
-      "score": 29.166666666666668
+      "score": 29.411764705882355
     },
     {
       "id": "2f07f97563a73d9b691ec6144e4bba25a347ab87",
@@ -751,7 +751,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/2f07f97563a73d9b691ec6144e4bba25a347ab87",
       "addedAt": "2026-09-12",
-      "score": 27.083333333333332
+      "score": 25.49019607843137
     },
     {
       "id": "b639124771f9c62cd656a24e8e685a456918e0ff",
@@ -825,7 +825,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/f9f27e0f196e1b76caa44cf11aef7a40ca95b3f0",
       "addedAt": "2026-09-12",
-      "score": 27.083333333333332
+      "score": 25.49019607843137
     },
     {
       "id": "0de580957d23dd65e31b6c95e6bc5d15bc15c57d",
@@ -864,7 +864,7 @@
       "influentialCitationCount": 12,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 19.607843137254903
     },
     {
       "id": "17e2977b907aad2532c45185947539e83ac639cd",
@@ -907,7 +907,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/17e2977b907aad2532c45185947539e83ac639cd",
       "addedAt": "2026-09-12",
-      "score": 25
+      "score": 23.52941176470588
     },
     {
       "id": "062cfd5cbafa47950a5ebbd306cd0059dfd79f75",
@@ -947,7 +947,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/062cfd5cbafa47950a5ebbd306cd0059dfd79f75",
       "addedAt": "2026-09-12",
-      "score": 6.25
+      "score": 5.88235294117647
     },
     {
       "id": "035df9ecf84da7ae475175f326095ab16b97dd47",
@@ -978,7 +978,7 @@
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/035df9ecf84da7ae475175f326095ab16b97dd47",
       "addedAt": "2026-09-12",
-      "score": 31.25
+      "score": 35.294117647058826
     },
     {
       "id": "5e788c833321b12671206b96a438c0e5b1202027",
@@ -1016,7 +1016,7 @@
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5e788c833321b12671206b96a438c0e5b1202027",
       "addedAt": "2026-09-12",
-      "score": 29.166666666666668
+      "score": 27.450980392156865
     },
     {
       "id": "5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -1055,7 +1055,7 @@
       "influentialCitationCount": 5,
       "source": "https://www.semanticscholar.org/paper/5c3005e22e6fb218aa76fea49971f3f991993b32",
       "addedAt": "2026-09-12",
-      "score": 31.25
+      "score": 29.411764705882355
     },
     {
       "id": "2ffbe6040369a82d5a003c2bb835e221c9d2f896",
@@ -1093,7 +1093,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/2ffbe6040369a82d5a003c2bb835e221c9d2f896",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 21.568627450980394
     },
     {
       "id": "379722c04fb3b54215f82512eb86398cb02d42dd",
@@ -1130,7 +1130,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/379722c04fb3b54215f82512eb86398cb02d42dd",
       "addedAt": "2026-09-12",
-      "score": 10.416666666666668
+      "score": 9.803921568627452
     },
     {
       "id": "70dd68c07b322b68836eded1fb4f78c0efcad685",
@@ -1169,7 +1169,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/70dd68c07b322b68836eded1fb4f78c0efcad685",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 7.8431372549019605
     },
     {
       "id": "9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
@@ -1206,7 +1206,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
       "addedAt": "2026-09-12",
-      "score": 35.41666666666667
+      "score": 37.254901960784316
     },
     {
       "id": "e6b73466bab5e52ce0db19dd06d9353c26557dae",
@@ -1241,7 +1241,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e6b73466bab5e52ce0db19dd06d9353c26557dae",
       "addedAt": "2026-09-12",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "4d6f9558ccfd712e2ef0921a7cb6625698c3cb0c",
@@ -1281,7 +1281,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/4d6f9558ccfd712e2ef0921a7cb6625698c3cb0c",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 15.686274509803921
     },
     {
       "id": "ad6c25a46a083e02dbfcdd4b6341945d517b5e31",
@@ -1323,7 +1323,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/ad6c25a46a083e02dbfcdd4b6341945d517b5e31",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 19.607843137254903
     },
     {
       "id": "bbeb9e5d4d51194d8e557ef7a6d927bdd62e9309",
@@ -1359,7 +1359,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/bbeb9e5d4d51194d8e557ef7a6d927bdd62e9309",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 7.8431372549019605
     },
     {
       "id": "1babe379f8547a9dc43251e5c5a7bea4a3de5ea1",
@@ -1399,7 +1399,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/1babe379f8547a9dc43251e5c5a7bea4a3de5ea1",
       "addedAt": "2026-09-12",
-      "score": 2.083333333333333
+      "score": 1.9607843137254901
     },
     {
       "id": "188cd686fb2200f237f688dbda7f64ffc75e67ac",
@@ -1438,7 +1438,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/188cd686fb2200f237f688dbda7f64ffc75e67ac",
       "addedAt": "2026-09-12",
-      "score": 2.083333333333333
+      "score": 1.9607843137254901
     },
     {
       "id": "7771aa7badc3375a31bfac8dc47755ff5d5c7780",
@@ -1475,7 +1475,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/7771aa7badc3375a31bfac8dc47755ff5d5c7780",
       "addedAt": "2026-09-12",
-      "score": 10.416666666666668
+      "score": 9.803921568627452
     },
     {
       "id": "7e15af5f6b3a794167bc4dc194768b348becc5d3",
@@ -1512,7 +1512,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/17a4477765f27fe3ad037eff9e663ffc6799d7fe",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 19.607843137254903
     },
     {
       "id": "373588ff1fb9f7590db000a04de8d838b1516e5a",
@@ -1547,7 +1547,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/373588ff1fb9f7590db000a04de8d838b1516e5a",
       "addedAt": "2026-09-12",
-      "score": 2.083333333333333
+      "score": 1.9607843137254901
     },
     {
       "id": "15db055ac7cb49bac96cc1be1270d9bf2b0b1770",
@@ -1584,7 +1584,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/15db055ac7cb49bac96cc1be1270d9bf2b0b1770",
       "addedAt": "2026-09-12",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "62a7f3c14c15d8f5d1c643ceb991dddb36e3c47c",
@@ -1628,7 +1628,7 @@
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/69b8db33a7ea7366e48c465b6f35a8d7f8f1a3b5",
       "addedAt": "2026-09-12",
-      "score": 18.75
+      "score": 19.607843137254903
     },
     {
       "id": "a794a92e1fa516250390514eeeb3c3b3140876a3",
@@ -1666,7 +1666,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/d0ab27cfc259fde800e661a714879357714769d5",
       "addedAt": "2026-09-12",
-      "score": 6.25
+      "score": 5.88235294117647
     },
     {
       "id": "ed7b51e4a5c4835218f6697b280afb2849211939",
@@ -1744,7 +1744,7 @@
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
       "addedAt": "2026-09-12",
-      "score": 22.916666666666664
+      "score": 25.49019607843137
     },
     {
       "id": "cde3d57c8f38e5dfb50edbb31faf02c23f1507fe",
@@ -1783,7 +1783,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/cde3d57c8f38e5dfb50edbb31faf02c23f1507fe",
       "addedAt": "2026-09-12",
-      "score": 12.5
+      "score": 11.76470588235294
     },
     {
       "id": "674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -1821,7 +1821,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe",
       "addedAt": "2026-09-12",
-      "score": 10.416666666666668
+      "score": 9.803921568627452
     },
     {
       "id": "5917ba80a905aeba41487f7dcdb8b885f18689f5",
@@ -1863,7 +1863,7 @@
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
       "addedAt": "2026-09-12",
-      "score": 31.25
+      "score": 33.33333333333333
     },
     {
       "id": "4044c062683533d92f598715afe2508be29c739c",
@@ -1902,7 +1902,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/4044c062683533d92f598715afe2508be29c739c",
       "addedAt": "2026-09-12",
-      "score": 22.916666666666664
+      "score": 21.568627450980394
     },
     {
       "id": "ea8197cb357af6f89e8b6e5548897236a24719b1",
@@ -1933,7 +1933,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/ea8197cb357af6f89e8b6e5548897236a24719b1",
       "addedAt": "2026-09-12",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "9a56e9b5c1a96e758163296d15e960dfae44ce61",
@@ -1976,7 +1976,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
       "addedAt": "2026-09-12",
-      "score": 20.833333333333336
+      "score": 21.568627450980394
     },
     {
       "id": "66e13b987c86e9c40b10b27672c83848f316609a",
@@ -2013,7 +2013,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2511.05578",
       "addedAt": "2026-09-14",
-      "score": 35.41666666666667
+      "score": 33.33333333333333
     },
     {
       "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
@@ -2054,7 +2054,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2601.13260",
       "addedAt": "2026-09-14",
-      "score": 31.25
+      "score": 31.372549019607842
     },
     {
       "id": "bcf94ad307cdaea3e72fe64ddf3cb710b1f0ef3a",
@@ -2098,7 +2098,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2512.15586",
       "addedAt": "2026-09-14",
-      "score": 31.25
+      "score": 31.372549019607842
     },
     {
       "id": "0c71a9182e0e4af9fa4315c0267a62b216ebc934",
@@ -2138,7 +2138,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2602.04289",
       "addedAt": "2026-09-14",
-      "score": 31.25
+      "score": 31.372549019607842
     },
     {
       "id": "a662b8d7e294424e97f1732d254bd971221621f3",
@@ -2179,7 +2179,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2605.08044",
       "addedAt": "2026-09-14",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "54fbe59c3808d89f19c84b44a9dd4f794f7d3e8f",
@@ -2217,7 +2217,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2601.07220",
       "addedAt": "2026-09-14",
-      "score": 18.75
+      "score": 19.607843137254903
     },
     {
       "id": "74575f66fbeb0965b33093448843b277537cc21a",
@@ -2254,7 +2254,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2603.10771",
       "addedAt": "2026-09-14",
-      "score": 14.583333333333334
+      "score": 15.686274509803921
     },
     {
       "id": "999cf59792831e0916e9fcc94d1a549b8dfeeb5f",
@@ -2295,7 +2295,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2605.09630",
       "addedAt": "2026-09-14",
-      "score": 25
+      "score": 23.52941176470588
     },
     {
       "id": "0862930ad16c98fff165249bd2b6913c806d73c3",
@@ -2332,7 +2332,7 @@
       "influentialCitationCount": 1,
       "source": "https://doi.org/10.18653/v1/2026.findings-eacl.22",
       "addedAt": "2026-09-14",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "757e6c6f4dedff6b512dc159e019e7cf1fd99a2c",
@@ -2368,7 +2368,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2601.11643",
       "addedAt": "2026-09-14",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "a470679099b807e7ace3e0767bafbacfbe2e6392",
@@ -2404,7 +2404,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.15521",
       "addedAt": "2026-09-14",
-      "score": 20.833333333333336
+      "score": 19.607843137254903
     },
     {
       "id": "95e7e1de309007d2c70710bda64b9291b4915d26",
@@ -2440,7 +2440,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2604.27263",
       "addedAt": "2026-09-14",
-      "score": 16.666666666666664
+      "score": 17.647058823529413
     },
     {
       "id": "a5faad892bc578fae44c2bc8fe4160e01214b6b6",
@@ -2478,7 +2478,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.28057",
       "addedAt": "2026-09-14",
-      "score": 12.5
+      "score": 11.76470588235294
     },
     {
       "id": "85525bdb132106657005c8e96201418a9a209b48",
@@ -2507,7 +2507,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.05691",
       "addedAt": "2026-09-14",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "33ab1733c27c959e72a836241629f919cd45b22f",
@@ -2550,7 +2550,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2512.20757",
       "addedAt": "2026-09-14",
-      "score": 16.666666666666664
+      "score": 17.647058823529413
     },
     {
       "id": "6fba1223c432cd7cf2f2e58e43ec4994e5bb066c",
@@ -2579,7 +2579,7 @@
       "influentialCitationCount": 0,
       "source": "https://doi.org/10.18653/v1/2026.findings-acl.530",
       "addedAt": "2026-09-14",
-      "score": 12.5
+      "score": 11.76470588235294
     },
     {
       "id": "f7d3e59f013cbb5553c4699415dd72a87f348057",
@@ -2615,7 +2615,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.16117",
       "addedAt": "2026-09-14",
-      "score": 18.75
+      "score": 17.647058823529413
     },
     {
       "id": "69e4135b75fc1dfafbf355aa23ff963a7bb45c98",
@@ -2654,7 +2654,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.23566",
       "addedAt": "2026-09-14",
-      "score": 10.416666666666668
+      "score": 9.803921568627452
     },
     {
       "id": "891a35ad81bbaa33b16443e3372e22192c1bd417",
@@ -2689,7 +2689,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2510.06128",
       "addedAt": "2026-09-14",
-      "score": 14.583333333333334
+      "score": 13.725490196078432
     },
     {
       "id": "6536e9f9fc4c0393d8b09d2381a80ca92f3242d1",
@@ -2724,7 +2724,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2511.20849",
       "addedAt": "2026-09-14",
-      "score": 16.666666666666664
+      "score": 15.686274509803921
     },
     {
       "id": "60a4dd1da34f4c6ecb834cbe41ea74de24241059",
@@ -2763,7 +2763,7 @@
       "influentialCitationCount": 0,
       "source": "https://doi.org/10.1016/j.procs.2026.06.244",
       "addedAt": "2026-09-14",
-      "score": 10.416666666666668
+      "score": 9.803921568627452
     },
     {
       "id": "e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e",
@@ -2792,7 +2792,7 @@
       "influentialCitationCount": 154,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
-      "score": 85.41666666666666
+      "score": 90.19607843137256
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -2832,7 +2832,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2310.11628",
       "addedAt": "2026-09-14",
-      "score": 29.166666666666668
+      "score": 29.411764705882355
     },
     {
       "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
@@ -2869,7 +2869,7 @@
       "influentialCitationCount": 25,
       "source": "https://arxiv.org/abs/2004.03720",
       "addedAt": "2026-09-14",
-      "score": 68.75
+      "score": 74.50980392156863
     },
     {
       "id": "1518039b5001f1836565215eb047526b3ac7f462",
@@ -2907,7 +2907,7 @@
       "influentialCitationCount": 1065,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
-      "score": 33.33333333333333
+      "score": 47.05882352941176
     },
     {
       "id": "205cc15fca6963b355e4c071071368e874ee103e",
@@ -2947,7 +2947,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2212.09897",
       "addedAt": "2026-09-14",
-      "score": 27.083333333333332
+      "score": 27.450980392156865
     },
     {
       "id": "915b10732f264bebd952c806db93692bf2cf8b08",
@@ -2976,7 +2976,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2404.14408",
       "addedAt": "2026-09-14",
-      "score": 31.25
+      "score": 35.294117647058826
     },
     {
       "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
@@ -3011,7 +3011,7 @@
       "influentialCitationCount": 273,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
-      "score": 29.166666666666668
+      "score": 39.21568627450981
     },
     {
       "id": "2910da87c91dff1aca3ae139b680c012bab3191e",
@@ -3047,7 +3047,385 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2502.15343",
       "addedAt": "2026-09-14",
-      "score": 27.083333333333332
+      "score": 27.450980392156865
+    },
+    {
+      "id": "c9d68a491a9fdeedddc0047248135365708f90fd",
+      "title": "Efficient Pre-Training with Token Superposition",
+      "authors": [
+        "Bo Peng",
+        "Théo Gigant",
+        "Jeffrey Quesnelle"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jeffrey Quesnelle",
+          "hIndex": 5,
+          "authorId": "31964220"
+        },
+        {
+          "name": "Théo Gigant",
+          "hIndex": 4,
+          "authorId": "2174176862"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-07",
+      "summary": "Token-Superposition Training (TST), a simple drop-in method that significantly improves the data throughput per FLOPs during pre-training without modifying the parallelism, optimizer, tokenizer, data, or model architecture, is presented.",
+      "url": "https://www.semanticscholar.org/paper/c9d68a491a9fdeedddc0047248135365708f90fd",
+      "doi": "10.48550/arXiv.2605.06546",
+      "arxivId": "2605.06546",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 57,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2605.06546",
+      "addedAt": "2026-09-14",
+      "score": 7.8431372549019605
+    },
+    {
+      "id": "67a3b9bbbcfc3e95b7329246373e18c2762242f1",
+      "title": "Explaining and Mitigating Crosslingual Tokenizer Inequities",
+      "authors": [
+        "Catherine Arnett",
+        "Tyler Chang",
+        "Stella Biderman",
+        "Benjamin K. Bergen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Stella Biderman",
+          "hIndex": 36,
+          "authorId": "103476203"
+        },
+        {
+          "name": "Catherine Arnett",
+          "hIndex": 7,
+          "authorId": "2257347764"
+        }
+      ],
+      "affiliations": [
+        "Booz Allen Hamilton",
+        "EleutherAI"
+      ],
+      "year": 2025,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2025-10-24",
+      "summary": "It is shown that even after controlling for dataset size, vocabulary size, and data content, monolingual tokenizers exhibit a wide range of token premiums across languages, and intervening on the vocabulary size or the pre-tokenizer significantly reduces crosslingual token premium effects.",
+      "url": "https://www.semanticscholar.org/paper/67a3b9bbbcfc3e95b7329246373e18c2762242f1",
+      "doi": "10.48550/arXiv.2510.21909",
+      "arxivId": "2510.21909",
+      "pdf": null,
+      "citationCount": 8,
+      "referenceCount": 52,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2510.21909",
+      "addedAt": "2026-09-14",
+      "score": 19.607843137254903
+    },
+    {
+      "id": "db2d64d7f4cef3f08ee05f318dd2c8742f22aed6",
+      "title": "Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet",
+      "authors": [
+        "Milan Miletić",
+        "Julie Kallini",
+        "Ekaterina Shutova"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ekaterina Shutova",
+          "hIndex": 9,
+          "authorId": "2262445370"
+        },
+        {
+          "name": "Julie Kallini",
+          "hIndex": 3,
+          "authorId": "2140489566"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2026-06-18",
+      "summary": "This work proposes to use the International Phonetic Alphabet as a language-agnostic input representation for multilingual tokenizers and demonstrates that IPA tokenizers consistently improve tokenization quality, especially for non-Latin scripts, and generalize more effectively to unseen languages and scripts.",
+      "url": "https://www.semanticscholar.org/paper/db2d64d7f4cef3f08ee05f318dd2c8742f22aed6",
+      "doi": "10.18653/v1/2026.acl-long.1872",
+      "arxivId": "2606.20993",
+      "pdf": "https://aclanthology.org/2026.acl-long.1872.pdf",
+      "citationCount": 1,
+      "referenceCount": 67,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2606.20993",
+      "addedAt": "2026-09-14",
+      "score": 19.607843137254903
+    },
+    {
+      "id": "2d0a461b6d6859047e7e9932f99638c8e21f75f0",
+      "title": "DNACHUNKER: Learnable Tokenization for DNA Language Models",
+      "authors": [
+        "Taewon Kim",
+        "Jihwan Shin",
+        "Hyomin Kim",
+        "Youngmok Jung",
+        "Jonghoon Lee",
+        "W. Lee",
+        "Insu Han",
+        "Sungsoo Ahn"
+      ],
+      "topAuthors": [
+        {
+          "name": "Youngmok Jung",
+          "hIndex": 7,
+          "authorId": "81087377"
+        },
+        {
+          "name": "Insu Han",
+          "hIndex": 5,
+          "authorId": "2268862065"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-01-06",
+      "summary": "DNAChunker is introduced, a masked DNA language model that incorporates a learnable adaptive segmentation module to produce context-dependent, variable-length units and indicates that unlike fixed tokenizations, segmentation is learned in a biologically-informed, mutation-resilient manner.",
+      "url": "https://www.semanticscholar.org/paper/2d0a461b6d6859047e7e9932f99638c8e21f75f0",
+      "doi": "10.48550/arXiv.2601.03019",
+      "arxivId": "2601.03019",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 51,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2601.03019",
+      "addedAt": "2026-09-14",
+      "score": 7.8431372549019605
+    },
+    {
+      "id": "eeb872a0e176d6f3f1c394080a590db15df5440e",
+      "title": "Stochasticity in Tokenisation Improves Robustness",
+      "authors": [
+        "Sophie Steger",
+        "Rui Li",
+        "Sofiane Ennadir",
+        "Anya Sims",
+        "Arno Solin",
+        "Franz Pernkopf",
+        "Martin Trapp"
+      ],
+      "topAuthors": [
+        {
+          "name": "Anya Sims",
+          "hIndex": 6,
+          "authorId": "2284762450"
+        },
+        {
+          "name": "Sofiane Ennadir",
+          "hIndex": 5,
+          "authorId": "2187458074"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-17",
+      "summary": "It is found that training with stochastic tokenisation preserves accuracy without increasing inference cost, and pre-training and fine-tuning with uniformly sampled stochastic tokenisations improve robustness to random and adversarial perturbations.",
+      "url": "https://www.semanticscholar.org/paper/eeb872a0e176d6f3f1c394080a590db15df5440e",
+      "doi": "10.48550/arXiv.2604.16037",
+      "arxivId": "2604.16037",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 45,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2604.16037",
+      "addedAt": "2026-09-14",
+      "score": 9.803921568627452
+    },
+    {
+      "id": "90bb82b93536b5024a8745cac0de64bb84c0164a",
+      "title": "The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval",
+      "authors": [
+        "Ze-Bin Tong",
+        "Ruiyao Xu",
+        "Aryan Shrivastava",
+        "Chenhao Tan",
+        "Ari Holtzman"
+      ],
+      "topAuthors": [
+        {
+          "name": "Chenhao Tan",
+          "hIndex": 4,
+          "authorId": "2269165090"
+        },
+        {
+          "name": "Ruiyao Xu",
+          "hIndex": 3,
+          "authorId": "2319451284"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-08",
+      "summary": "A mode transition hypothesis is proposed: LLMs operate in a word-level mode for near-normal text and a character-level mode for heavily fragmented text, with the valley marking the disordered transition where neither mode is effective.",
+      "url": "https://www.semanticscholar.org/paper/90bb82b93536b5024a8745cac0de64bb84c0164a",
+      "doi": "10.48550/arXiv.2605.07186",
+      "arxivId": "2605.07186",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 28,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2605.07186",
+      "addedAt": "2026-09-14",
+      "score": 5.88235294117647
+    },
+    {
+      "id": "dfc6c2d34f329d10347604a17f2c616a52c3c0f7",
+      "title": "ByteFlow: Language Modeling through Adaptive Byte Compression without a Tokenizer",
+      "authors": [
+        "Chunyuan Deng",
+        "Sanket Lokegaonkar",
+        "Colin Lockard",
+        "B. Fetahu",
+        "Nasser Zalmout",
+        "Xian Li"
+      ],
+      "topAuthors": [
+        {
+          "name": "B. Fetahu",
+          "hIndex": 21,
+          "authorId": "1923602"
+        },
+        {
+          "name": "Nasser Zalmout",
+          "hIndex": 16,
+          "authorId": "2814303"
+        }
+      ],
+      "affiliations": [
+        "Georgia Tech"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-03-03",
+      "summary": "ByteFlow Net is introduced, a new hierarchical architecture that removes tokenizers entirely and instead enables models to learn their own segmentation of raw byte streams into semantically meaningful units, opening a path toward more adaptive and information-grounded language models.",
+      "url": "https://www.semanticscholar.org/paper/dfc6c2d34f329d10347604a17f2c616a52c3c0f7",
+      "doi": "10.48550/arXiv.2603.03583",
+      "arxivId": "2603.03583",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 39,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2603.03583",
+      "addedAt": "2026-09-14",
+      "score": 13.725490196078432
+    },
+    {
+      "id": "5d4b0ec4fbfa51d88f3aca744f582b0805eb291e",
+      "title": "MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Alignment",
+      "authors": [
+        "Sander Land"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sander Land",
+          "hIndex": 4,
+          "authorId": "2300370901"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-25",
+      "summary": "MinGram (Minimalist Unigram), which keeps the token-list representation but simplifies training using a BPE-derived seed vocabulary, Hard EM on a minimum-token path, and a single flat score-pruning step, keeping the compression of pure token-count methods while retaining much of the morphological alignment and downstream quality of probabilistic ones.",
+      "url": "https://www.semanticscholar.org/paper/5d4b0ec4fbfa51d88f3aca744f582b0805eb291e",
+      "doi": "10.48550/arXiv.2606.27019",
+      "arxivId": "2606.27019",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 32,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2606.27019",
+      "addedAt": "2026-09-14",
+      "score": 13.725490196078432
+    },
+    {
+      "id": "84ffe3f46d3571efb8d183e04a5f0749075bc9cf",
+      "title": "Confounding Factors in Relating Model Performance to Morphology",
+      "authors": [
+        "Wessel Poelman",
+        "Thomas Bauwens",
+        "Miryam de Lhoneux"
+      ],
+      "topAuthors": [
+        {
+          "name": "Miryam de Lhoneux",
+          "hIndex": 15,
+          "authorId": "3295381"
+        },
+        {
+          "name": "Wessel Poelman",
+          "hIndex": 5,
+          "authorId": "2175481435"
+        }
+      ],
+      "affiliations": [
+        "KU Leuven"
+      ],
+      "year": 2025,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2025-11-03",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/84ffe3f46d3571efb8d183e04a5f0749075bc9cf",
+      "doi": "10.18653/v1/2025.emnlp-main.369",
+      "arxivId": "2511.01380",
+      "pdf": "https://aclanthology.org/2025.emnlp-main.369.pdf",
+      "citationCount": 17,
+      "referenceCount": 59,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2511.01380",
+      "addedAt": "2026-09-14",
+      "score": 11.76470588235294
+    },
+    {
+      "id": "66918630e4b20a5a34cf873f3a63331a2c1be42c",
+      "title": "PACUTE: Phonology-, Affix-, and Character-level Understanding of Tokens for Filipino",
+      "authors": [
+        "J. Montalan",
+        "D. Africa",
+        "J. Layacan",
+        "Richell Isaiah Flores",
+        "Ivan Yuri De Leon",
+        "Lance Calvin Lim Gamboa"
+      ],
+      "topAuthors": [
+        {
+          "name": "D. Africa",
+          "hIndex": 5,
+          "authorId": "2374486683"
+        },
+        {
+          "name": "J. Montalan",
+          "hIndex": 3,
+          "authorId": "88741020"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-13",
+      "summary": "Evaluating open-weight LLMs and frontier commercial models, it is found that open-weight models perform near chance on morpheme decomposition regardless of scale, while frontier models perform much better, often recovering individual affixes under contains-match scoring, but remain far below their character-level ceilings on compositional tasks of morpheme transformations and syllabification.",
+      "url": "https://www.semanticscholar.org/paper/66918630e4b20a5a34cf873f3a63331a2c1be42c",
+      "doi": "10.48550/arXiv.2606.15144",
+      "arxivId": "2606.15144",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 29,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2606.15144",
+      "addedAt": "2026-09-14",
+      "score": 9.803921568627452
     }
   ]
 }
