@@ -124,3 +124,44 @@ https://arxiv.org/abs/1808.06226
 # Tokenization is Sensitive to Language Variation
 #   David Jurgens (h=11) · 2025 · 16 citations · cites 9 in your list
 https://arxiv.org/abs/2502.15343
+
+# --- past year ---
+# Efficient Pre-Training with Token Superposition
+#   Jeffrey Quesnelle (h=5) · 2026 · 1 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2605.06546
+
+# Explaining and Mitigating Crosslingual Tokenizer Inequities
+#   Stella Biderman (h=36) · Booz Allen Hamilton · 2025 · 8 citations · past year · cites 9 in your list
+https://arxiv.org/abs/2510.21909
+
+# Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet
+#   Ekaterina Shutova (h=9) · University of Amsterdam · 2026 · 1 citations · past year · cites 10 in your list
+https://arxiv.org/abs/2606.20993
+
+# DNACHUNKER: Learnable Tokenization for DNA Language Models
+#   Youngmok Jung (h=7) · 2026 · 1 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2601.03019
+
+# Stochasticity in Tokenisation Improves Robustness
+#   Anya Sims (h=6) · 2026 · 1 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2604.16037
+
+# The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval
+#   Chenhao Tan (h=4) · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2605.07186
+
+# ByteFlow: Language Modeling through Adaptive Byte Compression without a Tokenizer
+#   B. Fetahu (h=21) · Georgia Tech · 2026 · 1 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2603.03583
+
+# MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Alignment
+#   Sander Land (h=4) · 2026 · 4 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2606.27019
+
+# Confounding Factors in Relating Model Performance to Morphology
+#   Miryam de Lhoneux (h=15) · KU Leuven · 2025 · 17 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2511.01380
+
+# PACUTE: Phonology-, Affix-, and Character-level Understanding of Tokens for Filipino
+#   D. Africa (h=5) · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2606.15144
