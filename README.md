@@ -12,7 +12,7 @@ A living survey of tokenization in NLP
 
 ### New in the past month
 
-<sub>**[Review all 5 in one pull request →](https://github.com/avijit-thawani/tokenization-in-nlp/pull/48)** Delete the lines you do not want, then merge.</sub>
+<sub>**[Review all 5 in one file →](https://github.com/avijit-thawani/tokenization-in-nlp/edit/recs/past-month/import/papers.txt)** Delete the lines you do not want, commit, then [merge #48](https://github.com/avijit-thawani/tokenization-in-nlp/pull/48).</sub>
 
 | # | Paper | Top authors | Affiliation | Details | Score | Decide |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -26,7 +26,7 @@ A living survey of tokenization in NLP
 
 ### New in the past year
 
-<sub>**[Review all 10 in one pull request →](https://github.com/avijit-thawani/tokenization-in-nlp/pull/49)** Delete the lines you do not want, then merge.</sub>
+<sub>**[Review all 10 in one file →](https://github.com/avijit-thawani/tokenization-in-nlp/edit/recs/past-year/import/papers.txt)** Delete the lines you do not want, commit, then [merge #49](https://github.com/avijit-thawani/tokenization-in-nlp/pull/49).</sub>
 
 | # | Paper | Top authors | Affiliation | Details | Score | Decide |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -40,7 +40,7 @@ A living survey of tokenization in NLP
 
 ### Most connected, any year
 
-<sub>**[Review all 10 in one pull request →](https://github.com/avijit-thawani/tokenization-in-nlp/pull/50)** Delete the lines you do not want, then merge.</sub>
+<sub>**[Review all 10 in one file →](https://github.com/avijit-thawani/tokenization-in-nlp/edit/recs/most-connected/import/papers.txt)** Delete the lines you do not want, commit, then [merge #50](https://github.com/avijit-thawani/tokenization-in-nlp/pull/50).</sub>
 
 | # | Paper | Top authors | Affiliation | Details | Score | Decide |
 | ---: | --- | --- | --- | --- | ---: | --- |

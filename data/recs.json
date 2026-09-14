@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:22:15.362Z",
+  "updatedAt": "2026-09-14T18:30:39.234Z",
   "recs": [
     {
       "id": "31f4e442e3aa058e814887ee9b2241ea4b17435d",
@@ -41,7 +41,8 @@
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/48",
-      "batchPrNumber": 48
+      "batchPrNumber": 48,
+      "batchBranch": "recs/past-month"
     },
     {
       "id": "f6cdf5780286a250be0b5f10110d159a5a205900",
@@ -83,7 +84,8 @@
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/48",
-      "batchPrNumber": 48
+      "batchPrNumber": 48,
+      "batchBranch": "recs/past-month"
     },
     {
       "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
@@ -128,7 +130,8 @@
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/48",
-      "batchPrNumber": 48
+      "batchPrNumber": 48,
+      "batchBranch": "recs/past-month"
     },
     {
       "id": "57bb68920ac6cb78f64a888fe809aed7e4d77865",
@@ -173,7 +176,8 @@
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/48",
-      "batchPrNumber": 48
+      "batchPrNumber": 48,
+      "batchBranch": "recs/past-month"
     },
     {
       "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
@@ -216,7 +220,8 @@
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/48",
-      "batchPrNumber": 48
+      "batchPrNumber": 48,
+      "batchBranch": "recs/past-month"
     },
     {
       "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
@@ -264,7 +269,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "bcf94ad307cdaea3e72fe64ddf3cb710b1f0ef3a",
@@ -315,7 +321,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "0c71a9182e0e4af9fa4315c0267a62b216ebc934",
@@ -362,7 +369,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "a662b8d7e294424e97f1732d254bd971221621f3",
@@ -410,7 +418,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "54fbe59c3808d89f19c84b44a9dd4f794f7d3e8f",
@@ -455,7 +464,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "74575f66fbeb0965b33093448843b277537cc21a",
@@ -499,7 +509,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "999cf59792831e0916e9fcc94d1a549b8dfeeb5f",
@@ -547,7 +558,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "0862930ad16c98fff165249bd2b6913c806d73c3",
@@ -594,7 +606,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "757e6c6f4dedff6b512dc159e019e7cf1fd99a2c",
@@ -640,7 +653,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "a470679099b807e7ace3e0767bafbacfbe2e6392",
@@ -683,7 +697,8 @@
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/49",
-      "batchPrNumber": 49
+      "batchPrNumber": 49,
+      "batchBranch": "recs/past-year"
     },
     {
       "id": "e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e",
@@ -720,7 +735,8 @@
       "why": "cited by 31 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -766,7 +782,8 @@
       "why": "cites 11 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "1518039b5001f1836565215eb047526b3ac7f462",
@@ -810,7 +827,8 @@
       "why": "cited by 40 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "205cc15fca6963b355e4c071071368e874ee103e",
@@ -856,7 +874,8 @@
       "why": "cites 9 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
@@ -899,7 +918,8 @@
       "why": "cited by 18 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
@@ -943,7 +963,8 @@
       "why": "cited by 12 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "915b10732f264bebd952c806db93692bf2cf8b08",
@@ -978,7 +999,8 @@
       "why": "cites 8 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
@@ -1021,7 +1043,8 @@
       "why": "cited by 28 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "2910da87c91dff1aca3ae139b680c012bab3191e",
@@ -1063,7 +1086,8 @@
       "why": "cites 9 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
@@ -1107,7 +1131,8 @@
       "why": "cited by 17 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/50",
-      "batchPrNumber": 50
+      "batchPrNumber": 50,
+      "batchBranch": "recs/most-connected"
     }
   ]
 }
