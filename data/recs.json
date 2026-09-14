@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:56:45.103Z",
+  "updatedAt": "2026-09-14T15:56:28.521Z",
   "recs": [
     {
       "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
@@ -533,7 +533,7 @@
       "authors": [
         "A. Fesharaki",
         "Mohammadamin Rami",
-        "A. Tchamkerten"
+        "Aslan Tchamkerten"
       ],
       "year": 2026,
       "venue": "arXiv.org",
@@ -571,9 +571,9 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1412,
+      "citationCount": 1413,
       "referenceCount": 36,
-      "influentialCitationCount": 153,
+      "influentialCitationCount": 154,
       "source": null,
       "addedAt": "2026-09-14",
       "overlap": 30,
@@ -630,7 +630,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9001,
+      "citationCount": 9002,
       "referenceCount": 40,
       "influentialCitationCount": 1065,
       "source": null,
