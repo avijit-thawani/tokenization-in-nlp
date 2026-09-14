@@ -10,158 +10,43 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
-# --- past year ---
-# Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models
-#   Md Tahmid Rahman Laskar (h=19) · York University · 2026 · 5 citations · past year · cites 8 in your list
-https://arxiv.org/abs/2601.13260
+# --- past month ---
+# TokEval: A Tokenizer Evaluation Suite
+#   Clara Meister (h=25) · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2608.18062
 
-# Bolmo: Byteifying the Next Generation of Language Models
-#   E. Ponti (h=33) · Allen Institute for AI · 2025 · 8 citations · past year · cites 7 in your list
-https://arxiv.org/abs/2512.15586
+# What Tokens are Learned when Tokenization is Optimized Jointly with Language Modeling?
+#   Parameswari Krishnamurthy (h=6) · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2608.17325
 
-# Proxy Compression for Language Modeling
-#   Lin Zheng (h=11) · The University of Hong Kong · 2026 · 3 citations · past year · cites 7 in your list
-https://arxiv.org/abs/2602.04289
+# Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation
+#   Wessel Poelman (h=5) · KU Leuven · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2608.30541
 
-# Fast Byte Latent Transformer
-#   Artidoro Pagnoni (h=11) · 2026 · 1 citations · past year · cites 7 in your list
-https://arxiv.org/abs/2605.08044
+# Dynamic Multi-Byte Prediction With Hierarchical Language Models
+#   Abraham Toluwase Owodunni (h=5) · 2026 · 0 citations · past month · cites 8 in your list
+https://arxiv.org/abs/2608.15454
 
-# The Roots of Performance Disparity in Multilingual Language Models: Intrinsic Modeling Difficulty or Design Choices?
-#   Daniel Jurafsky (h=8) · 2026 · 10 citations · past year · cites 5 in your list
-https://arxiv.org/abs/2601.07220
+# Apples to Apples? Towards Comparable Crosslingual Language Model Evaluation
+#   Catherine Arnett (h=7) · EleutherAI · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2608.25089
 
-# Word Recovery in Large Language Models Enables Character-Level Tokenization Robustness
-#   Shu Yang (h=17) · 2026 · 2 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2603.10771
+# When Tokenization is Secretly Output Supervision
+#   Simon Ostermann (h=11) · German Research Center for Artificial Intelligence (DFKI) · 2026 · 0 citations · past month · cites 4 in your list
+https://arxiv.org/abs/2609.01386
 
-# Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models
-#   Laura Rimell (h=21) · The University of Hong Kong · 2026 · 0 citations · past year · cites 6 in your list
-https://arxiv.org/abs/2605.09630
+# How Do Language Models Represent and Use Phonological Information for Allomorph Selection?
+#   Sang-Ah Lee (h=3) · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.04708
 
-# Do Diacritics Matter? Evaluating the Impact of Arabic Diacritics on Tokenization and LLM Benchmarks
-#   Bashar Alhafni (h=7) · New York University · 2026 · 4 citations · past year · cites 5 in your list
-https://doi.org/10.18653/v1/2026.findings-eacl.22
+# The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline
+#   Jared Kaplan (h=33) · University of Oxford · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2608.24952
 
-# Syllabic Agglutinative Tokenizations for Indonesian LLM: A Study from Gasing Literacy Learning System
-#   Hokky Situngkir (h=14) · Bandung Institute of Technology · 2026 · 3 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2601.11643
+# Dynamic-Programming-Guided Hierarchical BPE and Empirical Analysis of Vocabulary Pruning
+#   Kenny Shao (h=0) · 2026 · 0 citations · past month · cites 3 in your list
+https://arxiv.org/abs/2609.06898
 
-# Emergent retokenization symmetry in large language models: phenomenology and applications
-#   Kanishk Jain (h=5) · 2026 · 0 citations · past year · cites 5 in your list
-https://arxiv.org/abs/2606.15521
-
-# --- past year ---
-# Decoupling the Benefits of Subword Tokenization for Language Model Training via Byte-level Simulation
-#   Jeffrey Quesnelle (h=5) · 2026 · 2 citations · past year · cites 5 in your list
-https://arxiv.org/abs/2604.27263
-
-# MultiHashFormer: Hash-based Generative Language Models
-#   Nikolaos Aletras (h=30) · University of Sheffield · 2026 · 0 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2606.28057
-
-# Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES
-#   H. Heidenreich (h=3) · 2026 · 0 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2607.05691
-
-# TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior
-#   Colin Raffel (h=19) · Google · 2025 · 5 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2512.20757
-
-# From Bytes to Subwords: Challenges of Input Representations in NLP
-#   Rob van der Goot (h=1) · IT University of Copenhagen · 2026 · 1 citations · past year · cites 4 in your list
-https://doi.org/10.18653/v1/2026.findings-acl.530
-
-# Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content
-#   Desmond Elliott (h=4) · 2026 · 0 citations · past year · cites 6 in your list
-https://arxiv.org/abs/2607.16117
-
-# LangMAP: A Language-Adaptive Approach to Tokenization
-#   Clara Meister (h=25) · 2026 · 0 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2606.23566
-
-# Parallel Tokenizers: Rethinking Encoder Models'Vocabulary Design in Cross-Lingual Transfer of Low-Resource Languages
-#   Fajri Koto (h=7) · 2025 · 0 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2510.06128
-
-# Length-MAX Tokenizer for Language Models
-#   D. Dong (h=3) · 2025 · 1 citations · past year · cites 5 in your list
-https://arxiv.org/abs/2511.20849
-
-# Tokenization Matters: The Impact of Byte and BPE Encoder-Only Language Models on Low-Resource Adaptation in Multilingual Neural Machine Translation
-#   Priyanka C. Nair (h=6) · 2026 · 0 citations · past year · cites 4 in your list
-https://doi.org/10.1016/j.procs.2026.06.244
-
-# --- most connected ---
-# Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
-#   Taku Kudo (h=33) · Google (United States) · 2018 · 1413 citations · cited by 43 in your list
-https://arxiv.org/abs/1804.10959
-
-# Learn Your Tokens: Word-Pooled Tokenization for Language Modeling
-#   Avijit Thawani (h=6) · University of Southern California · 2023 · 13 citations · cites 11 in your list
-https://arxiv.org/abs/2310.11628
-
-# Byte Pair Encoding is Suboptimal for Language Model Pretraining
-#   Greg Durrett (h=50) · The University of Texas at Austin · 2020 · 334 citations · cited by 28 in your list
-https://arxiv.org/abs/2004.03720
-
-# Neural Machine Translation of Rare Words with Subword Units
-#   Rico Sennrich (h=50) · University of Zurich · 2015 · 9004 citations · cited by 55 in your list
-https://arxiv.org/abs/1508.07909
-
-# Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training
-#   Christopher Potts (h=58) · The University of Texas at Austin · 2022 · 17 citations · cites 9 in your list
-https://arxiv.org/abs/2212.09897
-
-# SpaceByte: Towards Deleting Tokenization from Large Language Modeling
-#   K. Slagle (h=24) · 2024 · 33 citations · cites 8 in your list
-https://arxiv.org/abs/2404.14408
-
-# SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
-#   Taku Kudo (h=33) · Google (United States) · 2018 · 4292 citations · cited by 40 in your list
-https://arxiv.org/abs/1808.06226
-
-# Tokenization is Sensitive to Language Variation
-#   David Jurgens (h=11) · 2025 · 16 citations · cites 9 in your list
-https://arxiv.org/abs/2502.15343
-
-# --- past year ---
-# Efficient Pre-Training with Token Superposition
-#   Jeffrey Quesnelle (h=5) · 2026 · 1 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2605.06546
-
-# Explaining and Mitigating Crosslingual Tokenizer Inequities
-#   Stella Biderman (h=36) · Booz Allen Hamilton · 2025 · 8 citations · past year · cites 9 in your list
-https://arxiv.org/abs/2510.21909
-
-# Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet
-#   Ekaterina Shutova (h=9) · University of Amsterdam · 2026 · 1 citations · past year · cites 10 in your list
-https://arxiv.org/abs/2606.20993
-
-# DNACHUNKER: Learnable Tokenization for DNA Language Models
-#   Youngmok Jung (h=7) · 2026 · 1 citations · past year · cites 4 in your list
-https://arxiv.org/abs/2601.03019
-
-# Stochasticity in Tokenisation Improves Robustness
-#   Anya Sims (h=6) · 2026 · 1 citations · past year · cites 5 in your list
-https://arxiv.org/abs/2604.16037
-
-# The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval
-#   Chenhao Tan (h=4) · 2026 · 0 citations · past year · cites 3 in your list
-https://arxiv.org/abs/2605.07186
-
-# ByteFlow: Language Modeling through Adaptive Byte Compression without a Tokenizer
-#   B. Fetahu (h=21) · Georgia Tech · 2026 · 1 citations · past year · cites 7 in your list
-https://arxiv.org/abs/2603.03583
-
-# MinGram: A Minimalist Unigram Tokenizer with High Compression and Competitive Morphological Alignment
-#   Sander Land (h=4) · 2026 · 4 citations · past year · cites 7 in your list
-https://arxiv.org/abs/2606.27019
-
-# Confounding Factors in Relating Model Performance to Morphology
-#   Miryam de Lhoneux (h=15) · KU Leuven · 2025 · 17 citations · past year · cites 6 in your list
-https://arxiv.org/abs/2511.01380
-
-# PACUTE: Phonology-, Affix-, and Character-level Understanding of Tokens for Filipino
-#   D. Africa (h=5) · 2026 · 0 citations · past year · cites 5 in your list
-https://arxiv.org/abs/2606.15144
+# Fewer Words, Not Fewer Tokens: Measuring the Sanskrit Tokenization Penalty per Proposition
+#   Devansh Sharma (h=0) · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.12960
