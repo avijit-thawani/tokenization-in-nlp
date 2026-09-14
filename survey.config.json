@@ -14,5 +14,6 @@
     "enabled": true,
     "count": "all",
     "maxPerRun": 20
-  }
+  },
+  "previewRows": 5
 }
