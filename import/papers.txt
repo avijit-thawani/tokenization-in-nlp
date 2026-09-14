@@ -10,3 +10,43 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past year ---
+# Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models
+#   Md Tahmid Rahman Laskar (h=19) · York University · 2026 · 5 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2601.13260
+
+# Bolmo: Byteifying the Next Generation of Language Models
+#   E. Ponti (h=33) · Allen Institute for AI · 2025 · 8 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2512.15586
+
+# Proxy Compression for Language Modeling
+#   Lin Zheng (h=11) · The University of Hong Kong · 2026 · 3 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2602.04289
+
+# Fast Byte Latent Transformer
+#   Artidoro Pagnoni (h=11) · 2026 · 1 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2605.08044
+
+# The Roots of Performance Disparity in Multilingual Language Models: Intrinsic Modeling Difficulty or Design Choices?
+#   Daniel Jurafsky (h=8) · 2026 · 10 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2601.07220
+
+# Word Recovery in Large Language Models Enables Character-Level Tokenization Robustness
+#   Shu Yang (h=17) · 2026 · 2 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2603.10771
+
+# Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models
+#   Laura Rimell (h=21) · The University of Hong Kong · 2026 · 0 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2605.09630
+
+# Do Diacritics Matter? Evaluating the Impact of Arabic Diacritics on Tokenization and LLM Benchmarks
+#   Bashar Alhafni (h=7) · New York University · 2026 · 4 citations · past year · cites 5 in your list
+https://doi.org/10.18653/v1/2026.findings-eacl.22
+
+# Syllabic Agglutinative Tokenizations for Indonesian LLM: A Study from Gasing Literacy Learning System
+#   Hokky Situngkir (h=14) · Bandung Institute of Technology · 2026 · 3 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2601.11643
+
+# Emergent retokenization symmetry in large language models: phenomenology and applications
+#   Kanishk Jain (h=5) · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2606.15521
