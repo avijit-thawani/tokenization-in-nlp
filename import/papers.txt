@@ -50,3 +50,44 @@ https://arxiv.org/abs/2601.11643
 # Emergent retokenization symmetry in large language models: phenomenology and applications
 #   Kanishk Jain (h=5) · 2026 · 0 citations · past year · cites 5 in your list
 https://arxiv.org/abs/2606.15521
+
+# --- past year ---
+# Decoupling the Benefits of Subword Tokenization for Language Model Training via Byte-level Simulation
+#   Jeffrey Quesnelle (h=5) · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2604.27263
+
+# MultiHashFormer: Hash-based Generative Language Models
+#   Nikolaos Aletras (h=30) · University of Sheffield · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2606.28057
+
+# Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES
+#   H. Heidenreich (h=3) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2607.05691
+
+# TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior
+#   Colin Raffel (h=19) · Google · 2025 · 5 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2512.20757
+
+# From Bytes to Subwords: Challenges of Input Representations in NLP
+#   Rob van der Goot (h=1) · IT University of Copenhagen · 2026 · 1 citations · past year · cites 4 in your list
+https://doi.org/10.18653/v1/2026.findings-acl.530
+
+# Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content
+#   Desmond Elliott (h=4) · 2026 · 0 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2607.16117
+
+# LangMAP: A Language-Adaptive Approach to Tokenization
+#   Clara Meister (h=25) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2606.23566
+
+# Parallel Tokenizers: Rethinking Encoder Models'Vocabulary Design in Cross-Lingual Transfer of Low-Resource Languages
+#   Fajri Koto (h=7) · 2025 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2510.06128
+
+# Length-MAX Tokenizer for Language Models
+#   D. Dong (h=3) · 2025 · 1 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2511.20849
+
+# Tokenization Matters: The Impact of Byte and BPE Encoder-Only Language Models on Low-Resource Adaptation in Multilingual Neural Machine Translation
+#   Priyanka C. Nair (h=6) · 2026 · 0 citations · past year · cites 4 in your list
+https://doi.org/10.1016/j.procs.2026.06.244
