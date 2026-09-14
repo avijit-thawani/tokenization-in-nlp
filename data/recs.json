@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T16:41:15.145Z",
+  "updatedAt": "2026-09-14T17:26:05.192Z",
   "recs": [
     {
       "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
@@ -331,48 +331,6 @@
       "prNumber": 34
     },
     {
-      "id": "66e13b987c86e9c40b10b27672c83848f316609a",
-      "title": "UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8",
-      "authors": [
-        "Preston Firestone",
-        "Shubham Ugare",
-        "Gagandeep Singh",
-        "Sasa Misailovic"
-      ],
-      "topAuthors": [
-        {
-          "name": "Sasa Misailovic",
-          "hIndex": 30
-        },
-        {
-          "name": "Shubham Ugare",
-          "hIndex": 10
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-11-05",
-      "summary": "This paper formalizes tokenization using monoid theory and proves that tokenizers whose vocabularies contain tokens that are ill-formed UTF-8 can always produce sequences that are ill-formed UTF-8.",
-      "url": "https://www.semanticscholar.org/paper/66e13b987c86e9c40b10b27672c83848f316609a",
-      "doi": "10.48550/arXiv.2511.05578",
-      "arxivId": "2511.05578",
-      "pdf": null,
-      "citationCount": 5,
-      "referenceCount": 75,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 11,
-      "direction": "forward",
-      "score": 100,
-      "why": "past year · cites 11 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/3",
-      "prNumber": 3
-    },
-    {
       "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
       "title": "Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models",
       "authors": [
@@ -644,6 +602,49 @@
       "prNumber": 37
     },
     {
+      "id": "54fbe59c3808d89f19c84b44a9dd4f794f7d3e8f",
+      "title": "The Roots of Performance Disparity in Multilingual Language Models: Intrinsic Modeling Difficulty or Design Choices?",
+      "authors": [
+        "C. Shani",
+        "Yuval Reif",
+        "N. Roll",
+        "Daniel Jurafsky",
+        "E. Shutova"
+      ],
+      "topAuthors": [
+        {
+          "name": "Daniel Jurafsky",
+          "hIndex": 8
+        },
+        {
+          "name": "Yuval Reif",
+          "hIndex": 4
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-01-12",
+      "summary": "This survey examines why gaps persist and whether they reflect intrinsic linguistic difficulty or modeling artifacts, and synthesizes insights into design recommendations for tokenization, sampling, architectures, and evaluation to support more balanced multilingual LMs.",
+      "url": "https://www.semanticscholar.org/paper/54fbe59c3808d89f19c84b44a9dd4f794f7d3e8f",
+      "doi": "10.48550/arXiv.2601.07220",
+      "arxivId": "2601.07220",
+      "pdf": null,
+      "citationCount": 10,
+      "referenceCount": 198,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 45.45454545454545,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/47",
+      "prNumber": 47
+    },
+    {
       "id": "0862930ad16c98fff165249bd2b6913c806d73c3",
       "title": "Do Diacritics Matter? Evaluating the Impact of Arabic Diacritics on Tokenization and LLM Benchmarks",
       "authors": [
@@ -793,10 +794,10 @@
       "influentialCitationCount": 154,
       "source": null,
       "addedAt": "2026-09-14",
-      "overlap": 30,
+      "overlap": 31,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 30 in your list",
+      "why": "cited by 31 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/1",
       "prNumber": 1
@@ -879,10 +880,10 @@
       "influentialCitationCount": 1065,
       "source": null,
       "addedAt": "2026-09-14",
-      "overlap": 39,
+      "overlap": 40,
       "direction": "backward",
-      "score": 89.75166002482304,
-      "why": "cited by 39 in your list",
+      "score": 89.09614801463171,
+      "why": "cited by 40 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/4",
       "prNumber": 4
@@ -1010,43 +1011,42 @@
       "fromReferences": false
     },
     {
-      "id": "a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
-      "title": "Multi-view Subword Regularization",
+      "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
+      "title": "Byte Pair Encoding is Suboptimal for Language Model Pretraining",
       "authors": [
-        "Xinyi Wang",
-        "Sebastian Ruder",
-        "Graham Neubig"
+        "Kaj Bostrom",
+        "Greg Durrett"
       ],
       "topAuthors": [
         {
-          "name": "Graham Neubig",
-          "hIndex": 92
+          "name": "Greg Durrett",
+          "hIndex": 50
         },
         {
-          "name": "Sebastian Ruder",
-          "hIndex": 57
+          "name": "Kaj Bostrom",
+          "hIndex": 6
         }
       ],
       "affiliations": [
-        "Cohere"
+        "The University of Texas at Austin"
       ],
-      "year": 2021,
-      "venue": "North American Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2021-03-15",
-      "summary": "To take full advantage of different possible input segmentations, the proposed Multi-view Subword Regularization (MVR) method enforces the consistency of predictors between using inputs tokenized by the standard and probabilistic segmentations.",
-      "url": "https://www.semanticscholar.org/paper/a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
-      "doi": "10.18653/V1/2021.NAACL-MAIN.40",
-      "arxivId": "2103.08490",
-      "pdf": "https://aclanthology.org/2021.naacl-main.40.pdf",
-      "citationCount": 56,
-      "referenceCount": 39,
-      "influentialCitationCount": 9,
+      "year": 2020,
+      "venue": "Findings",
+      "publicationDate": "2020-04-07",
+      "summary": "Differences between BPE and unigram LM tokenization are analyzed, finding that the latter method recovers subword units that align more closely with morphology and avoids problems stemming from BPE’s greedy construction procedure.",
+      "url": "https://www.semanticscholar.org/paper/b0b0dddb8310e01b9407a21674c2d33a23a6e967",
+      "doi": "10.18653/v1/2020.findings-emnlp.414",
+      "arxivId": "2004.03720",
+      "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf",
+      "citationCount": 334,
+      "referenceCount": 28,
+      "influentialCitationCount": 25,
       "source": null,
       "addedAt": "2026-09-14",
-      "overlap": 12,
+      "overlap": 18,
       "direction": "backward",
-      "score": 76.27624855377243,
-      "why": "cited by 12 in your list",
+      "score": 77.48006034159317,
+      "why": "cited by 18 in your list",
       "fromReferences": false
     }
   ]
