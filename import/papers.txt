@@ -50,3 +50,48 @@ https://arxiv.org/abs/2609.06898
 # Fewer Words, Not Fewer Tokens: Measuring the Sanskrit Tokenization Penalty per Proposition
 #   Devansh Sharma (h=0) · 2026 · 0 citations · past month · cites 5 in your list
 https://arxiv.org/abs/2609.12960
+
+# --- most connected ---
+# Tokenization Is More Than Compression
+#   Yuval Pinter (h=19) · Ben-Gurion University of the Negev · 2024 · 113 citations · cited by 21 in your list
+https://arxiv.org/abs/2402.18376
+
+# Greed is All You Need: An Evaluation of Tokenizer Inference Methods
+#   Yuval Pinter (h=19) · Ben-Gurion University of the Negev · 2024 · 40 citations · cites 10 in your list
+https://arxiv.org/abs/2403.01289
+
+# Enhancing Large Language Models through Adaptive Tokenizers
+#   Hanting Chen (h=29) · 2024 · 11 citations · cites 7 in your list
+https://doi.org/10.52202/079017-3608
+
+# MrT5: Dynamic Token Merging for Efficient Byte-level Language Models
+#   Shikhar Murty (h=14) · 2024 · 26 citations · cites 10 in your list
+https://arxiv.org/abs/2410.20771
+
+# How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
+#   Iryna Gurevych (h=82) · Cohere · 2020 · 448 citations · cited by 27 in your list
+https://arxiv.org/abs/2012.15613
+
+# BPE-Dropout: Simple and Effective Subword Regularization
+#   Elena Voita (h=15) · University of Edinburgh · 2019 · 352 citations · cited by 26 in your list
+https://arxiv.org/abs/1910.13267
+
+# Tokenizer Choice For LLM Training: Negligible or Crucial?
+#   R. Sifa (h=28) · 2023 · 140 citations · cites 10 in your list
+https://arxiv.org/abs/2310.08754
+
+# Beyond Text Compression: Evaluating Tokenizers Across Scales
+#   Jonas F. Lotz (h=6) · University of Copenhagen · 2025 · 12 citations · cites 11 in your list
+https://arxiv.org/abs/2506.03101
+
+# Retrofitting (Large) Language Models with Dynamic Tokenization
+#   Benjamin Minixhofer (h=8) · 2024 · 19 citations · cites 12 in your list
+https://arxiv.org/abs/2411.18553
+
+# Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization
+#   Clara Meister (h=25) · EPFL · 2025 · 18 citations · cites 9 in your list
+https://arxiv.org/abs/2508.04796
+
+# Are Character-level Translations Worth the Wait? Comparing ByT5 and mT5 for Machine Translation
+#   Gertjan van Noord (h=37) · University of Groningen · 2023 · 22 citations · cites 7 in your list
+https://arxiv.org/abs/2302.14220
