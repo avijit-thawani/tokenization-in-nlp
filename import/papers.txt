@@ -11,42 +11,18 @@
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
 # --- past month ---
-# TokEval: A Tokenizer Evaluation Suite
-#   Clara Meister (h=25) · 2026 · 0 citations · past month · cites 9 in your list
-https://arxiv.org/abs/2608.18062
+# MoirfEolas and Cr\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology
+#   Elaine Uí Dhonnchadha (h=8) · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.05022
 
-# What Tokens are Learned when Tokenization is Optimized Jointly with Language Modeling?
-#   Parameswari Krishnamurthy (h=6) · 2026 · 0 citations · past month · cites 9 in your list
-https://arxiv.org/abs/2608.17325
+# Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining
+#   Francois Meyer (h=3) · 2026 · 0 citations · past month · cites 3 in your list
+https://arxiv.org/abs/2609.01151
 
-# Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation
-#   Wessel Poelman (h=5) · KU Leuven · 2026 · 0 citations · past month · cites 9 in your list
-https://arxiv.org/abs/2608.30541
+# When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages
+#   Nikolaos Aletras (h=30) · University of Sheffield · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2608.27658
 
-# Dynamic Multi-Byte Prediction With Hierarchical Language Models
-#   Abraham Toluwase Owodunni (h=5) · 2026 · 0 citations · past month · cites 8 in your list
-https://arxiv.org/abs/2608.15454
-
-# Apples to Apples? Towards Comparable Crosslingual Language Model Evaluation
-#   Catherine Arnett (h=7) · EleutherAI · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.25089
-
-# When Tokenization is Secretly Output Supervision
-#   Simon Ostermann (h=11) · German Research Center for Artificial Intelligence (DFKI) · 2026 · 0 citations · past month · cites 4 in your list
-https://arxiv.org/abs/2609.01386
-
-# How Do Language Models Represent and Use Phonological Information for Allomorph Selection?
-#   Sang-Ah Lee (h=3) · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2609.04708
-
-# The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline
-#   Jared Kaplan (h=33) · University of Oxford · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.24952
-
-# Dynamic-Programming-Guided Hierarchical BPE and Empirical Analysis of Vocabulary Pruning
-#   Kenny Shao (h=0) · 2026 · 0 citations · past month · cites 3 in your list
-https://arxiv.org/abs/2609.06898
-
-# Fewer Words, Not Fewer Tokens: Measuring the Sanskrit Tokenization Penalty per Proposition
-#   Devansh Sharma (h=0) · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2609.12960
+# Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
+#   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2608.26449
