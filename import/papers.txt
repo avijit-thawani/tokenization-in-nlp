@@ -50,3 +50,44 @@ https://arxiv.org/abs/2609.06898
 # Fewer Words, Not Fewer Tokens: Measuring the Sanskrit Tokenization Penalty per Proposition
 #   Devansh Sharma (h=0) · 2026 · 0 citations · past month · cites 5 in your list
 https://arxiv.org/abs/2609.12960
+
+# --- past year ---
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=5) · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2605.19632
+
+# Explicit Boundary Markers for Subword Vocabularies
+#   Clara Meister (h=25) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2608.08847
+
+# Language Models are not Equally Robust to Non-Canonical Tokenization across Languages
+#   P. Jyothi (h=22) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2607.26831
+
+# Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago
+#   Hokky Situngkir (h=14) · Bandung Institute of Technology · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2602.06998
+
+# Contextual morphologically-guided tokenization for Latin encoder models
+#   Marisa Hudspeth (h=2) · Rhodes College · 2025 · 0 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2511.09709
+
+# PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation
+#   Raj Dabre (h=27) · NICT · 2025 · 1 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2512.13552
+
+# Tokenization with Split Trees
+#   Yuval Pinter (h=19) · Ben-Gurion University of the Negev · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2605.22705
+
+# Effective Context in Transformers: An Analysis of Fragmentation and Tokenization
+#   Aslan Tchamkerten (h=15) · 2026 · 1 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2605.13485
+
+# SuTRA : Structurally-Unified Tokenization with Root Awareness
+#   V. Rathore (h=2) · 2026 · 0 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2608.18087
+
+# From Characters to Tokens: Dynamic Grouping with Hierarchical BPE
+#   Tudor Berariu (h=5) · 2025 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2510.15517
