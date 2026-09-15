@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:26:24.415Z",
+  "updatedAt": "2026-09-15T09:28:46.844Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -1011,7 +1011,7 @@
       "doi": "10.18653/v1/2020.findings-emnlp.352",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.352.pdf",
-      "citationCount": 96,
+      "citationCount": 97,
       "referenceCount": 32,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5e788c833321b12671206b96a438c0e5b1202027",
@@ -1470,7 +1470,7 @@
       "doi": "10.18653/v1/2021.eacl-main.302",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2021.eacl-main.302.pdf",
-      "citationCount": 35,
+      "citationCount": 36,
       "referenceCount": 31,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/7771aa7badc3375a31bfac8dc47755ff5d5c7780",
@@ -2787,7 +2787,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1413,
+      "citationCount": 1414,
       "referenceCount": 36,
       "influentialCitationCount": 154,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2902,9 +2902,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9004,
+      "citationCount": 9005,
       "referenceCount": 40,
-      "influentialCitationCount": 1065,
+      "influentialCitationCount": 1066,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 57.14285714285714
@@ -3006,7 +3006,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4292,
+      "citationCount": 4293,
       "referenceCount": 16,
       "influentialCitationCount": 273,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3774,13 +3774,13 @@
       "id": "f15f623bc04d4ae0e714dec90d51e497157a7f98",
       "title": "Fewer Words, Not Fewer Tokens: Measuring the Sanskrit Tokenization Penalty per Proposition",
       "authors": [
-        "Devansh Sharma"
+        "Dev Sharma"
       ],
       "topAuthors": [
         {
-          "name": "Devansh Sharma",
+          "name": "Dev Sharma",
           "hIndex": 0,
-          "authorId": null
+          "authorId": "2497169793"
         }
       ],
       "affiliations": [],
