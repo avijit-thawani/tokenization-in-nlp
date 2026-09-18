@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T09:30:19.967Z",
+  "updatedAt": "2026-09-18T09:03:19.175Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -725,7 +725,7 @@
       "topAuthors": [
         {
           "name": "Hinrich Schütze",
-          "hIndex": 69,
+          "hIndex": 70,
           "authorId": "144418438"
         },
         {
@@ -1181,7 +1181,7 @@
       "topAuthors": [
         {
           "name": "Kyle Mahowald",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "2412497"
         },
         {
@@ -1494,7 +1494,7 @@
         },
         {
           "name": "Aline Villavicencio",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2113791974"
         }
       ],
@@ -1971,7 +1971,7 @@
       "doi": "10.48550/arXiv.2306.16837",
       "arxivId": "2306.16837",
       "pdf": "http://arxiv.org/pdf/2306.16837",
-      "citationCount": 64,
+      "citationCount": 65,
       "referenceCount": 22,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
@@ -2194,7 +2194,7 @@
       "topAuthors": [
         {
           "name": "Daniel Jurafsky",
-          "hIndex": 8,
+          "hIndex": 7,
           "authorId": "2268091802"
         },
         {
@@ -2671,7 +2671,7 @@
         },
         {
           "name": "Muhammad Dehan Al Kautsar",
-          "hIndex": 1,
+          "hIndex": 3,
           "authorId": "2369818835"
         }
       ],
@@ -2787,7 +2787,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1416,
+      "citationCount": 1417,
       "referenceCount": 36,
       "influentialCitationCount": 155,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2864,9 +2864,9 @@
       "doi": "10.18653/v1/2020.findings-emnlp.414",
       "arxivId": "2004.03720",
       "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf",
-      "citationCount": 334,
+      "citationCount": 336,
       "referenceCount": 28,
-      "influentialCitationCount": 25,
+      "influentialCitationCount": 26,
       "source": "https://arxiv.org/abs/2004.03720",
       "addedAt": "2026-09-14",
       "score": 75
@@ -2902,9 +2902,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9011,
+      "citationCount": 9017,
       "referenceCount": 40,
-      "influentialCitationCount": 1068,
+      "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 57.14285714285714
@@ -2926,7 +2926,7 @@
         },
         {
           "name": "Kyle Mahowald",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "2412497"
         }
       ],
@@ -3006,9 +3006,9 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4295,
+      "citationCount": 4300,
       "referenceCount": 16,
-      "influentialCitationCount": 273,
+      "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
       "score": 44.642857142857146
@@ -3621,7 +3621,7 @@
         },
         {
           "name": "Tanja Baeumel",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2266467934"
         }
       ],
