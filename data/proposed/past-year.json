@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-09-19T08:51:15.487Z",
+  "papers": [
+    {
+      "id": "eff9863c0f7ec7f6d098ca1c9559d1c28a19ec2b",
+      "link": "https://arxiv.org/abs/2605.19632",
+      "title": "Executable Boundary Contracts for Sound Event Traces"
+    },
+    {
+      "id": "8727f56e27413beba879109141b36af73b657391",
+      "link": "https://arxiv.org/abs/2608.08847",
+      "title": "Explicit Boundary Markers for Subword Vocabularies"
+    },
+    {
+      "id": "75d3c5271f773fc3bce75a176059a0be6a92cc4c",
+      "link": "https://arxiv.org/abs/2607.26831",
+      "title": "Language Models are not Equally Robust to Non-Canonical Tokenization across Languages"
+    },
+    {
+      "id": "1849b8f09cfa3fa8ceaee053fa6398f16106debd",
+      "link": "https://arxiv.org/abs/2602.06998",
+      "title": "Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago"
+    },
+    {
+      "id": "0985e8bd406ac046010ab6e830d46792f6b80353",
+      "link": "https://arxiv.org/abs/2511.09709",
+      "title": "Contextual morphologically-guided tokenization for Latin encoder models"
+    },
+    {
+      "id": "e5243148da13740dfe244c5fc79baef623c52813",
+      "link": "https://arxiv.org/abs/2512.13552",
+      "title": "PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation"
+    },
+    {
+      "id": "5fd11179675eeee8a93d9cb814f75f5c6c791ca9",
+      "link": "https://arxiv.org/abs/2605.22705",
+      "title": "Tokenization with Split Trees"
+    },
+    {
+      "id": "81405dd9a9e4b0716dd5a2f66e458c59d8fdf316",
+      "link": "https://arxiv.org/abs/2605.13485",
+      "title": "Effective Context in Transformers: An Analysis of Fragmentation and Tokenization"
+    },
+    {
+      "id": "34875597d6a3ca0576b68ded5229fb799188cc2f",
+      "link": "https://arxiv.org/abs/2608.18087",
+      "title": "SuTRA : Structurally-Unified Tokenization with Root Awareness"
+    },
+    {
+      "id": "6b89552239ecde5c5bee398e29e883e8fce79409",
+      "link": "https://arxiv.org/abs/2510.15517",
+      "title": "From Characters to Tokens: Dynamic Grouping with Hierarchical BPE"
+    }
+  ]
+}
