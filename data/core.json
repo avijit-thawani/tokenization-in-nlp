@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:03:19.175Z",
+  "updatedAt": "2026-09-19T08:51:11.966Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 768,
+      "citationCount": 770,
       "referenceCount": 68,
       "influentialCitationCount": 99,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -540,7 +540,7 @@
         },
         {
           "name": "Zhiyuan Liu",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "2141313179"
         }
       ],
@@ -902,7 +902,7 @@
       "doi": "10.48550/arXiv.2204.14268",
       "arxivId": "2204.14268",
       "pdf": "http://arxiv.org/pdf/2204.14268",
-      "citationCount": 25,
+      "citationCount": 26,
       "referenceCount": 37,
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/17e2977b907aad2532c45185947539e83ac639cd",
@@ -1623,7 +1623,7 @@
       "doi": "10.48550/arXiv.2301.10472",
       "arxivId": "2301.10472",
       "pdf": "http://arxiv.org/pdf/2301.10472",
-      "citationCount": 127,
+      "citationCount": 128,
       "referenceCount": 37,
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/69b8db33a7ea7366e48c465b6f35a8d7f8f1a3b5",
@@ -1739,7 +1739,7 @@
       "doi": "10.48550/arXiv.2305.07185",
       "arxivId": "2305.07185",
       "pdf": "http://arxiv.org/pdf/2305.07185",
-      "citationCount": 188,
+      "citationCount": 189,
       "referenceCount": 47,
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -2235,9 +2235,9 @@
           "authorId": "2284694841"
         },
         {
-          "name": "Di Wang",
-          "hIndex": 8,
-          "authorId": "2364232816"
+          "name": "Lijie Hu",
+          "hIndex": 9,
+          "authorId": "2323839198"
         }
       ],
       "affiliations": [],
@@ -2340,7 +2340,7 @@
       "authors": [
         "Hokky Situngkir",
         "Andhika Bernard Lumbantobing",
-        "Yohanes Surya"
+        "Y. Surya"
       ],
       "topAuthors": [
         {
@@ -2349,9 +2349,9 @@
           "authorId": "2969489"
         },
         {
-          "name": "Andhika Bernard Lumbantobing",
-          "hIndex": 0,
-          "authorId": null
+          "name": "Y. Surya",
+          "hIndex": 6,
+          "authorId": "13388972"
         }
       ],
       "affiliations": [],
@@ -2902,7 +2902,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9017,
+      "citationCount": 9018,
       "referenceCount": 40,
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3006,7 +3006,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4300,
+      "citationCount": 4301,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3653,7 +3653,7 @@
       "topAuthors": [
         {
           "name": "Sang-Ah Lee",
-          "hIndex": 3,
+          "hIndex": 4,
           "authorId": "2108190911"
         },
         {
