@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:03:04.500Z",
+  "updatedAt": "2026-09-22T09:21:19.613Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 772,
+      "citationCount": 773,
       "referenceCount": 68,
       "influentialCitationCount": 99,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -1136,7 +1136,7 @@
       "id": "70dd68c07b322b68836eded1fb4f78c0efcad685",
       "title": "A Multi-dimensional Evaluation of Tokenizer-free Multilingual Pretrained Models",
       "authors": [
-        "Jimin Sun",
+        "Ji-Min Sun",
         "Patrick Fernandes",
         "Xinyi Wang",
         "Graham Neubig"
@@ -2787,7 +2787,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1419,
+      "citationCount": 1420,
       "referenceCount": 36,
       "influentialCitationCount": 155,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2902,7 +2902,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9022,
+      "citationCount": 9026,
       "referenceCount": 40,
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3006,7 +3006,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4302,
+      "citationCount": 4305,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
