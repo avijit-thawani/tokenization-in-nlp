@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:46:38.300Z",
+  "updatedAt": "2026-09-23T14:54:09.537Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -41,7 +41,7 @@
       "influentialCitationCount": 8,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
       "addedAt": "2026-09-12",
-      "score": 40.35087719298245
+      "score": 43.859649122807014
     },
     {
       "id": "e79d1206292bc5e67ba19737d87d4b2ea4a37105",
@@ -323,7 +323,7 @@
       "influentialCitationCount": 51,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
       "addedAt": "2026-09-12",
-      "score": 94.73684210526315
+      "score": 96.49122807017544
     },
     {
       "id": "485b3f77b9913e151e7ca897d99497e70e7f30d1",
@@ -560,7 +560,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/f332a615c33c69f54dfcb9a8b14f96e8b5725def",
       "addedAt": "2026-09-12",
-      "score": 12.280701754385964
+      "score": 14.035087719298245
     },
     {
       "id": "dc018aacbebf81e4e164a2e2c53d3e2c9b1824a5",
@@ -638,7 +638,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/62ece609555bf833a2afd25ef796d72b5f59e767",
       "addedAt": "2026-09-12",
-      "score": 21.052631578947366
+      "score": 22.807017543859647
     },
     {
       "id": "feeed68c23932fda1cc9f222b5b7690b2ad7e706",
@@ -751,7 +751,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/2f07f97563a73d9b691ec6144e4bba25a347ab87",
       "addedAt": "2026-09-12",
-      "score": 26.31578947368421
+      "score": 28.07017543859649
     },
     {
       "id": "b639124771f9c62cd656a24e8e685a456918e0ff",
@@ -864,7 +864,7 @@
       "influentialCitationCount": 12,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
       "addedAt": "2026-09-12",
-      "score": 19.298245614035086
+      "score": 21.052631578947366
     },
     {
       "id": "17e2977b907aad2532c45185947539e83ac639cd",
@@ -1130,7 +1130,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/379722c04fb3b54215f82512eb86398cb02d42dd",
       "addedAt": "2026-09-12",
-      "score": 10.526315789473683
+      "score": 12.280701754385964
     },
     {
       "id": "70dd68c07b322b68836eded1fb4f78c0efcad685",
@@ -1628,7 +1628,7 @@
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/69b8db33a7ea7366e48c465b6f35a8d7f8f1a3b5",
       "addedAt": "2026-09-12",
-      "score": 19.298245614035086
+      "score": 21.052631578947366
     },
     {
       "id": "a794a92e1fa516250390514eeeb3c3b3140876a3",
@@ -2138,7 +2138,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2602.04289",
       "addedAt": "2026-09-14",
-      "score": 29.82456140350877
+      "score": 31.57894736842105
     },
     {
       "id": "a662b8d7e294424e97f1732d254bd971221621f3",
@@ -2217,7 +2217,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2601.07220",
       "addedAt": "2026-09-14",
-      "score": 19.298245614035086
+      "score": 21.052631578947366
     },
     {
       "id": "74575f66fbeb0965b33093448843b277537cc21a",
@@ -2295,7 +2295,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2605.09630",
       "addedAt": "2026-09-14",
-      "score": 21.052631578947366
+      "score": 22.807017543859647
     },
     {
       "id": "0862930ad16c98fff165249bd2b6913c806d73c3",
@@ -2694,7 +2694,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2510.06128",
       "addedAt": "2026-09-14",
-      "score": 12.280701754385964
+      "score": 14.035087719298245
     },
     {
       "id": "6536e9f9fc4c0393d8b09d2381a80ca92f3242d1",
@@ -2797,7 +2797,7 @@
       "influentialCitationCount": 155,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
-      "score": 92.98245614035088
+      "score": 94.73684210526315
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -2837,7 +2837,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2310.11628",
       "addedAt": "2026-09-14",
-      "score": 26.31578947368421
+      "score": 28.07017543859649
     },
     {
       "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
@@ -3016,7 +3016,7 @@
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
-      "score": 45.614035087719294
+      "score": 47.368421052631575
     },
     {
       "id": "2910da87c91dff1aca3ae139b680c012bab3191e",
@@ -3459,7 +3459,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.18062",
       "addedAt": "2026-09-14",
-      "score": 15.789473684210526
+      "score": 17.543859649122805
     },
     {
       "id": "31f4e442e3aa058e814887ee9b2241ea4b17435d",
@@ -3570,7 +3570,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.15454",
       "addedAt": "2026-09-14",
-      "score": 14.035087719298245
+      "score": 15.789473684210526
     },
     {
       "id": "3927e82c059f8285b8e0413c0a69ae2e5a538bdb",
@@ -3839,7 +3839,10 @@
       "influentialCitationCount": 1,
       "source": "Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 0,
+      "aliases": [
+        "https://arxiv.org/abs/2311.18034"
+      ]
     },
     {
       "id": "c60736e61f8961ec535ecfdc6f0398925d34d0b8",
@@ -3879,7 +3882,10 @@
       "influentialCitationCount": 2,
       "source": "Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer",
       "addedAt": "2026-09-23",
-      "score": 14.035087719298245
+      "score": 14.035087719298245,
+      "aliases": [
+        "https://arxiv.org/abs/2305.14280"
+      ]
     },
     {
       "id": "5c667b8297631551de12e1b888bb57251f427716",
@@ -3915,7 +3921,167 @@
       "influentialCitationCount": 0,
       "source": "Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages",
       "addedAt": "2026-09-23",
-      "score": 3.508771929824561
+      "score": 3.508771929824561,
+      "aliases": [
+        "https://arxiv.org/abs/2509.17493"
+      ]
+    },
+    {
+      "id": "c4483403a6b56dc477576fb53e00193bc324db39",
+      "title": "Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks",
+      "authors": [
+        "Vani Kanjirangat",
+        "Tanja Samardzic",
+        "Ljiljana Dolamic",
+        "Fabio Rinaldi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Vani Kanjirangat",
+          "hIndex": 6,
+          "authorId": "2125681709"
+        },
+        {
+          "name": "Ljiljana Dolamic",
+          "hIndex": 4,
+          "authorId": "1680665"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2025-09-24",
+      "summary": "This work correlates Tokenization Parity and Information Parity, as measures of representational biases in pre-trained multilingual models, with the downstream performance, and reveals that TP is a better predictor of the performance on tasks reliant on syntactic and morphological cues, while IP better predicts performance in semantic tasks.",
+      "url": "https://www.semanticscholar.org/paper/c4483403a6b56dc477576fb53e00193bc324db39",
+      "doi": "10.48550/arXiv.2509.20045",
+      "arxivId": "2509.20045",
+      "pdf": null,
+      "citationCount": 13,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2509.20045",
+      "addedAt": "2026-09-23",
+      "score": 8.771929824561402
+    },
+    {
+      "id": "dbd9fab59832369040661bb050daef6de405230c",
+      "title": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
+      "authors": [
+        "Bo Zheng",
+        "Li Dong",
+        "Shaohan Huang",
+        "Saksham Singhal",
+        "Wanxiang Che",
+        "Ting Liu",
+        "Xia Song",
+        "Furu Wei"
+      ],
+      "topAuthors": [
+        {
+          "name": "Furu Wei",
+          "hIndex": 105,
+          "authorId": "49807919"
+        },
+        {
+          "name": "Ting Liu",
+          "hIndex": 75,
+          "authorId": "40282288"
+        }
+      ],
+      "affiliations": [
+        "Microsoft Research",
+        "Harbin institute of technology"
+      ],
+      "year": 2021,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2021-09-15",
+      "summary": "This work proposes k-NN-based target sampling to accelerate the expensive softmax and shows that the multilingual vocabulary learned with VoCap benefits cross-lingual language model pre-training.",
+      "url": "https://www.semanticscholar.org/paper/dbd9fab59832369040661bb050daef6de405230c",
+      "doi": "10.18653/v1/2021.emnlp-main.257",
+      "arxivId": "2109.07306",
+      "pdf": "https://aclanthology.org/2021.emnlp-main.257.pdf",
+      "citationCount": 31,
+      "referenceCount": 43,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2109.07306",
+      "addedAt": "2026-09-23",
+      "score": 10.526315789473683
+    },
+    {
+      "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
+      "title": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
+      "authors": [
+        "Nathan Godey",
+        "Roman Castagné",
+        "Eric Villemonte de la Clergerie",
+        "Benoît Sagot"
+      ],
+      "topAuthors": [
+        {
+          "name": "Benoît Sagot",
+          "hIndex": 37,
+          "authorId": "68990982"
+        },
+        {
+          "name": "Eric Villemonte de la Clergerie",
+          "hIndex": 24,
+          "authorId": "1400417301"
+        }
+      ],
+      "affiliations": [
+        "INRIA"
+      ],
+      "year": 2022,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/6bfa1b07cb1f46294adac73afe33616cd919b603",
+      "doi": "10.18653/v1/2022.findings-emnlp.207",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2022.findings-emnlp.207.pdf",
+      "citationCount": 15,
+      "referenceCount": 0,
+      "influentialCitationCount": 0,
+      "source": "https://doi.org/10.18653/v1/2022.findings-emnlp.207",
+      "addedAt": "2026-09-23",
+      "score": 8.771929824561402
+    },
+    {
+      "id": "e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
+      "title": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
+      "authors": [
+        "Antoine Nzeyimana",
+        "Andre Niyongabo Rubungo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Andre Niyongabo Rubungo",
+          "hIndex": 10,
+          "authorId": "1988673056"
+        },
+        {
+          "name": "Antoine Nzeyimana",
+          "hIndex": 3,
+          "authorId": "51994077"
+        }
+      ],
+      "affiliations": [
+        "Princeton University"
+      ],
+      "year": 2022,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2022-03-16",
+      "summary": "A simple yet effective two-tier BERT architecture that leverages a morphological analyzer and explicitly represents morphological compositionality is proposed, naming the proposed model architecture KinyaBERT.",
+      "url": "https://www.semanticscholar.org/paper/e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
+      "doi": "10.18653/v1/2022.acl-long.367",
+      "arxivId": "2203.08459",
+      "pdf": "https://doi.org/10.18653/v1/2022.acl-long.367",
+      "citationCount": 50,
+      "referenceCount": 71,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2203.08459",
+      "addedAt": "2026-09-23",
+      "score": 8.771929824561402
     }
   ]
 }

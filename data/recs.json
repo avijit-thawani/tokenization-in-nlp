@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:46:38.300Z",
+  "updatedAt": "2026-09-23T14:54:09.537Z",
   "recs": [
     {
       "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
@@ -38,7 +38,7 @@
       "addedAt": "2026-09-23",
       "overlap": 5,
       "direction": "forward",
-      "score": 32.92443546373348,
+      "score": 32.44498842984777,
       "why": "past month · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -75,7 +75,7 @@
       "addedAt": "2026-09-23",
       "overlap": 3,
       "direction": "forward",
-      "score": 25.958784526537382,
+      "score": 25.580771598776302,
       "why": "past month · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -122,7 +122,7 @@
       "addedAt": "2026-09-23",
       "overlap": 5,
       "direction": "forward",
-      "score": 25.629375686340065,
+      "score": 25.256159624163587,
       "why": "past month · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -166,7 +166,7 @@
       "addedAt": "2026-09-23",
       "overlap": 5,
       "direction": "forward",
-      "score": 23.695167852821815,
+      "score": 23.350117807636583,
       "why": "past month · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -209,7 +209,148 @@
       "addedAt": "2026-09-23",
       "overlap": 3,
       "direction": "forward",
-      "score": 78.37402803975202,
+      "score": 77.23274209974784,
+      "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "15f29ed3a3860e89993e1f1541f1e8337dbf4b37",
+      "title": "Dynamic tokenization in the Transformer era: A review and taxonomy",
+      "authors": [
+        "Mohammad Mahdi Azizi",
+        "Bagher Babaali",
+        "Fatemeh Ziaeetabar"
+      ],
+      "topAuthors": [
+        {
+          "name": "Bagher Babaali",
+          "hIndex": 4,
+          "authorId": "2270996293"
+        },
+        {
+          "name": "Mohammad Mahdi Azizi",
+          "hIndex": 2,
+          "authorId": "2332126316"
+        }
+      ],
+      "affiliations": [
+        "University of Tehran"
+      ],
+      "year": 2026,
+      "venue": "Pattern Recognition",
+      "publicationDate": "2026-07-01",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/15f29ed3a3860e89993e1f1541f1e8337dbf4b37",
+      "doi": "10.1016/j.patcog.2026.114439",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 67,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-23",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 53.900451697126606,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "10071e1968030dd5e1772b551c5cdf32e628cf11",
+      "title": "You Can Learn Tokenization End-to-End with Reinforcement Learning",
+      "authors": [
+        "Sam Dauncey",
+        "R. Wattenhofer"
+      ],
+      "topAuthors": [
+        {
+          "name": "R. Wattenhofer",
+          "hIndex": 25,
+          "authorId": "2075356250"
+        },
+        {
+          "name": "Sam Dauncey",
+          "hIndex": 1,
+          "authorId": "2290023471"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-02-15",
+      "summary": "This work observes that techniques from reinforcement learning, such as time discounting, are necessary to reduce the variance of this score function sufficiently to make it practicable, and demonstrates that the resultant method outperforms prior proposed straight-through estimates, both qualitatively and quantitatively at the $100$ million parameter scale.",
+      "url": "https://www.semanticscholar.org/paper/10071e1968030dd5e1772b551c5cdf32e628cf11",
+      "doi": "10.48550/arXiv.2602.13940",
+      "arxivId": "2602.13940",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 36,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-23",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 50.51816425280994,
+      "why": "past year · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "97efda4a4c1bc0d7f339eea7bd56504fab225d1e",
+      "title": "SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models",
+      "authors": [
+        "Ming Chen",
+        "Wenyao Li",
+        "Chao Liang",
+        "Shi Gu",
+        "Peng Lin",
+        "De Ma",
+        "Hua-Jin Tang",
+        "Qian Zheng",
+        "Gang Pan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Hua-Jin Tang",
+          "hIndex": 9,
+          "authorId": "2266385607"
+        },
+        {
+          "name": "Ming Chen",
+          "hIndex": 8,
+          "authorId": "2108632848"
+        }
+      ],
+      "affiliations": [
+        "Zhejiang Lab"
+      ],
+      "year": 2026,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/97efda4a4c1bc0d7f339eea7bd56504fab225d1e",
+      "doi": "10.18653/v1/2026.acl-long.451",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2026.acl-long.451.pdf",
+      "citationCount": 0,
+      "referenceCount": 52,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-23",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 49.23572398204617,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -252,7 +393,7 @@
       "addedAt": "2026-09-23",
       "overlap": 4,
       "direction": "forward",
-      "score": 48.95340104423698,
+      "score": 48.24053952972053,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -295,7 +436,7 @@
       "addedAt": "2026-09-23",
       "overlap": 4,
       "direction": "forward",
-      "score": 48.12132570004815,
+      "score": 47.420580902192796,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -341,7 +482,7 @@
       "addedAt": "2026-09-23",
       "overlap": 5,
       "direction": "forward",
-      "score": 47.595662668111196,
+      "score": 46.90257259775338,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -388,8 +529,56 @@
       "addedAt": "2026-09-23",
       "overlap": 6,
       "direction": "forward",
-      "score": 46.21727718777996,
+      "score": 45.544259225593116,
       "why": "past year · cites 6 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "1cf1d53f67c6b1972e6290f9d15e20e2a2a5f405",
+      "title": "Defragmenting Language Models: An Interpretability-based Approach for Vocabulary Expansion",
+      "authors": [
+        "Maitrey Mehta",
+        "Nishant Subramani",
+        "Zhichao Xu",
+        "Ashim Gupta",
+        "Vivek Srikumar"
+      ],
+      "topAuthors": [
+        {
+          "name": "Vivek Srikumar",
+          "hIndex": 39,
+          "authorId": "3052879"
+        },
+        {
+          "name": "Nishant Subramani",
+          "hIndex": 13,
+          "authorId": "34202134"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-17",
+      "summary": "This work comprehensively study and advances interpretability-based vocabulary expansion, a new research direction, and identifies the phenomenon of \"subword detokenization\" where models progressively merge fragmented subword tokens into larger subwords across layers.",
+      "url": "https://www.semanticscholar.org/paper/1cf1d53f67c6b1972e6290f9d15e20e2a2a5f405",
+      "doi": "10.48550/arXiv.2604.16656",
+      "arxivId": "2604.16656",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 54,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-23",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 44.84980762872253,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
@@ -437,7 +626,7 @@
       "addedAt": "2026-09-23",
       "overlap": 5,
       "direction": "forward",
-      "score": 43.94641479289838,
+      "score": 43.306465225788116,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -446,194 +635,52 @@
       "batchBranch": "recs/past-year"
     },
     {
-      "id": "5fd11179675eeee8a93d9cb814f75f5c6c791ca9",
-      "title": "Tokenization with Split Trees",
+      "id": "0d4b5c9a071557f4eb12f63f785dbc89071d4272",
+      "title": "How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models",
       "authors": [
-        "Craig W. Schmidt",
-        "Michael Krumdick",
-        "Adam Wiemerslage",
-        "Seth Ebner",
-        "Varshini Reddy",
-        "Yuval Pinter",
-        "Chris Tanner"
+        "Phillip Rust",
+        "Jonas Pfeiffer",
+        "Ivan Vulic",
+        "Sebastian Ruder",
+        "Iryna Gurevych"
       ],
       "topAuthors": [
         {
-          "name": "Yuval Pinter",
-          "hIndex": 19,
-          "authorId": "1826312"
+          "name": "Iryna Gurevych",
+          "hIndex": 82,
+          "authorId": "1730400"
         },
         {
-          "name": "Michael Krumdick",
-          "hIndex": 10,
-          "authorId": "18171842"
+          "name": "Ivan Vulic",
+          "hIndex": 57,
+          "authorId": "1747849"
         }
       ],
       "affiliations": [
-        "Ben-Gurion University of the Negev"
+        "Cohere",
+        "Technical University Darmstadt"
       ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-21",
-      "summary": "Tokenization with Split Trees (ToaST), a subword tokenization method that directly optimizes compression under a new recursive inference procedure, is introduced, leading to a substantial improvement in Renyi efficiency.",
-      "url": "https://www.semanticscholar.org/paper/5fd11179675eeee8a93d9cb814f75f5c6c791ca9",
-      "doi": "10.48550/arXiv.2605.22705",
-      "arxivId": "2605.22705",
-      "pdf": null,
-      "citationCount": 2,
-      "referenceCount": 50,
-      "influentialCitationCount": 0,
+      "year": 2020,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2020-12-31",
+      "summary": "It is found that replacing the original multilingual tokenizer with the specialized monolingual tokenizer improves the downstream performance of the multilingual model for almost every task and language.",
+      "url": "https://www.semanticscholar.org/paper/0d4b5c9a071557f4eb12f63f785dbc89071d4272",
+      "doi": "10.18653/v1/2021.acl-long.243",
+      "arxivId": "2012.15613",
+      "pdf": "https://aclanthology.org/2021.acl-long.243.pdf",
+      "citationCount": 455,
+      "referenceCount": 97,
+      "influentialCitationCount": 46,
       "source": null,
       "addedAt": "2026-09-23",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 43.52866420770321,
-      "why": "past year · cites 5 in your list",
+      "overlap": 28,
+      "direction": "backward",
+      "score": 100,
+      "why": "cited by 28 in your list",
       "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
-      "batchPrNumber": 54,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "81405dd9a9e4b0716dd5a2f66e458c59d8fdf316",
-      "title": "Effective Context in Transformers: An Analysis of Fragmentation and Tokenization",
-      "authors": [
-        "A. Fesharaki",
-        "Mohammadamin Rami",
-        "Aslan Tchamkerten"
-      ],
-      "topAuthors": [
-        {
-          "name": "Aslan Tchamkerten",
-          "hIndex": 15,
-          "authorId": "1908016"
-        },
-        {
-          "name": "A. Fesharaki",
-          "hIndex": 1,
-          "authorId": "2046037789"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-05-13",
-      "summary": "It is proved that fragmentation can strictly increase the optimal finite-context log-loss, and tokenization can make a short token window behave like a longer source-context window, and a loss guarantee is given describing when this is achievable.",
-      "url": "https://www.semanticscholar.org/paper/81405dd9a9e4b0716dd5a2f66e458c59d8fdf316",
-      "doi": "10.48550/arXiv.2605.13485",
-      "arxivId": "2605.13485",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 30,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-23",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 42.76715393213349,
-      "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
-      "batchPrNumber": 54,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "34875597d6a3ca0576b68ded5229fb799188cc2f",
-      "title": "SuTRA : Structurally-Unified Tokenization with Root Awareness",
-      "authors": [
-        "V. Rathore",
-        "Siddhant Gole",
-        "Dadhichi Telwadkar",
-        "R. Bhatia",
-        "Maulik Ruparel",
-        "Siddharth Sureka",
-        "Neha Bhargava"
-      ],
-      "topAuthors": [
-        {
-          "name": "V. Rathore",
-          "hIndex": 4,
-          "authorId": "2060382681"
-        },
-        {
-          "name": "Siddhant Gole",
-          "hIndex": 2,
-          "authorId": "2355347803"
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-06-05",
-      "summary": "This work proposes SuTRA (Structurally-Unified Tokenization with Root Awareness), a morphology-aware algorithm that preserves akshara indivisibility and penalizes merges crossing morphological boundaries and releases a new morphological segmentation dataset for Hindi, Marathi, and Gujarati.",
-      "url": "https://www.semanticscholar.org/paper/34875597d6a3ca0576b68ded5229fb799188cc2f",
-      "doi": null,
-      "arxivId": "2608.18087",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 57,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-23",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 42.13822332244697,
-      "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
-      "batchPrNumber": 54,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "49518bb3ade956e629838a933f28b30237ebac37",
-      "title": "MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts",
-      "authors": [
-        "Chengzhi Hu",
-        "Yintao Tai",
-        "Antonio Vergari",
-        "Frank Keller",
-        "Alessandro Suglia"
-      ],
-      "topAuthors": [
-        {
-          "name": "Antonio Vergari",
-          "hIndex": 25,
-          "authorId": "14341992"
-        },
-        {
-          "name": "Frank Keller",
-          "hIndex": 4,
-          "authorId": "2294876141"
-        }
-      ],
-      "affiliations": [
-        "University of Edinburgh"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-04-13",
-      "summary": "MIXAR is introduced, the first generative pixel-based language model trained on eight different languages utilizing a range of different scripts, demonstrating substantial performance improvement on discriminative and generative multilingual tasks and its robustness when challenged with input perturbations such as orthographic attacks.",
-      "url": "https://www.semanticscholar.org/paper/49518bb3ade956e629838a933f28b30237ebac37",
-      "doi": "10.48550/arXiv.2604.11575",
-      "arxivId": "2604.11575",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 55,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-23",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 42.014851724926885,
-      "why": "past year · cites 5 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
-      "batchPrNumber": 54,
-      "batchBranch": "recs/past-year"
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
+      "batchPrNumber": 53,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "c74326259a24bbba3e5130f0ee42a546ea31301b",
@@ -677,7 +724,7 @@
       "addedAt": "2026-09-23",
       "overlap": 21,
       "direction": "backward",
-      "score": 100,
+      "score": 99.44522162489578,
       "why": "cited by 21 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -723,7 +770,7 @@
       "addedAt": "2026-09-23",
       "overlap": 10,
       "direction": "forward",
-      "score": 100,
+      "score": 98.54379573367684,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -770,7 +817,7 @@
       "addedAt": "2026-09-23",
       "overlap": 7,
       "direction": "forward",
-      "score": 99.33700746962141,
+      "score": 97.89045772881104,
       "why": "cites 7 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -815,7 +862,7 @@
       "addedAt": "2026-09-23",
       "overlap": 10,
       "direction": "forward",
-      "score": 97.81612040613325,
+      "score": 96.39171788762734,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -823,48 +870,43 @@
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "0d4b5c9a071557f4eb12f63f785dbc89071d4272",
-      "title": "How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models",
+      "id": "2b1bf167ae6f9b8ea6e9a97c49d8334d65c08a42",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
       "authors": [
-        "Phillip Rust",
-        "Jonas Pfeiffer",
-        "Ivan Vulic",
-        "Sebastian Ruder",
-        "Iryna Gurevych"
+        "Sukjun Hwang",
+        "Brandon Wang",
+        "Albert Gu"
       ],
       "topAuthors": [
         {
-          "name": "Iryna Gurevych",
-          "hIndex": 82,
-          "authorId": "1730400"
+          "name": "Brandon Wang",
+          "hIndex": 5,
+          "authorId": "2173103481"
         },
         {
-          "name": "Ivan Vulic",
-          "hIndex": 57,
-          "authorId": "1747849"
+          "name": "Sukjun Hwang",
+          "hIndex": 2,
+          "authorId": "2311500924"
         }
       ],
-      "affiliations": [
-        "Cohere",
-        "Technical University Darmstadt"
-      ],
-      "year": 2020,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2020-12-31",
-      "summary": "It is found that replacing the original multilingual tokenizer with the specialized monolingual tokenizer improves the downstream performance of the multilingual model for almost every task and language.",
-      "url": "https://www.semanticscholar.org/paper/0d4b5c9a071557f4eb12f63f785dbc89071d4272",
-      "doi": "10.18653/v1/2021.acl-long.243",
-      "arxivId": "2012.15613",
-      "pdf": "https://aclanthology.org/2021.acl-long.243.pdf",
-      "citationCount": 455,
-      "referenceCount": 97,
-      "influentialCitationCount": 46,
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-07-10",
+      "summary": "A collection of new techniques are introduced that enable a dynamic chunking mechanism which automatically learns content- and context- dependent segmentation strategies learned jointly with the rest of the model, allowing replacing the (implicitly hierarchical) tokenization-LM-detokenization pipeline with a single model learned fully end-to-end.",
+      "url": "https://www.semanticscholar.org/paper/2b1bf167ae6f9b8ea6e9a97c49d8334d65c08a42",
+      "doi": "10.48550/arXiv.2507.07955",
+      "arxivId": "2507.07955",
+      "pdf": null,
+      "citationCount": 76,
+      "referenceCount": 113,
+      "influentialCitationCount": 17,
       "source": null,
       "addedAt": "2026-09-23",
-      "overlap": 27,
-      "direction": "backward",
-      "score": 97.19189118428451,
-      "why": "cited by 27 in your list",
+      "overlap": 10,
+      "direction": "forward",
+      "score": 94.84406644458909,
+      "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
       "batchPrNumber": 53,
@@ -908,7 +950,7 @@
       "addedAt": "2026-09-23",
       "overlap": 26,
       "direction": "backward",
-      "score": 92.65385010024374,
+      "score": 92.1398265761861,
       "why": "cited by 26 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -969,7 +1011,57 @@
       "addedAt": "2026-09-23",
       "overlap": 10,
       "direction": "forward",
-      "score": 90.76426005811045,
+      "score": 89.44254703084759,
+      "why": "cites 10 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
+      "batchPrNumber": 53,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "9ef2d0327c73393adb509d5793f707447cad2faf",
+      "title": "MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization",
+      "authors": [
+        "Orevaoghene Ahia",
+        "Sachin Kumar",
+        "Hila Gonen",
+        "Valentin Hoffman",
+        "Tomasz Limisiewicz",
+        "Yulia Tsvetkov",
+        "Noah A. Smith"
+      ],
+      "topAuthors": [
+        {
+          "name": "Hila Gonen",
+          "hIndex": 22,
+          "authorId": "1821892"
+        },
+        {
+          "name": "Sachin Kumar",
+          "hIndex": 19,
+          "authorId": "51467955"
+        }
+      ],
+      "affiliations": [
+        "The Ohio State University",
+        "Charles University in Prague"
+      ],
+      "year": 2024,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2024-07-11",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/9ef2d0327c73393adb509d5793f707447cad2faf",
+      "doi": "10.48550/arXiv.2407.08818",
+      "arxivId": "2407.08818",
+      "pdf": null,
+      "citationCount": 37,
+      "referenceCount": 49,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-23",
+      "overlap": 10,
+      "direction": "forward",
+      "score": 89.03315800740596,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1016,7 +1108,7 @@
       "addedAt": "2026-09-23",
       "overlap": 11,
       "direction": "forward",
-      "score": 89.94005217928189,
+      "score": 88.63034130231394,
       "why": "cites 11 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1024,141 +1116,46 @@
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "1068dfc3985863ad692cd59a48596847aac8754f",
-      "title": "Retrofitting (Large) Language Models with Dynamic Tokenization",
+      "id": "879a7f5abdb7ab803d48172d4f0830965f989d46",
+      "title": "Language Model Tokenizers Introduce Unfairness Between Languages",
       "authors": [
-        "Darius Feher",
-        "Benjamin Minixhofer",
-        "Ivan Vuli'c"
+        "Aleksandar Petrov",
+        "Emanuele La Malfa",
+        "Philip H. S. Torr",
+        "Adel Bibi"
       ],
       "topAuthors": [
         {
-          "name": "Benjamin Minixhofer",
-          "hIndex": 8,
-          "authorId": "2090357303"
+          "name": "Philip H. S. Torr",
+          "hIndex": 111,
+          "authorId": "143635540"
         },
         {
-          "name": "Ivan Vuli'c",
-          "hIndex": 3,
-          "authorId": "2322974242"
-        }
-      ],
-      "affiliations": [],
-      "year": 2024,
-      "venue": "arXiv.org",
-      "publicationDate": "2024-11-27",
-      "summary": "This work proposes retrofitting LMs with dynamic tokenization: a way to dynamically decide on token boundaries based on the input text via a subword-merging algorithm inspired by byte-pair encoding that can mitigate the limitations of static tokenization.",
-      "url": "https://www.semanticscholar.org/paper/1068dfc3985863ad692cd59a48596847aac8754f",
-      "doi": "10.48550/arXiv.2411.18553",
-      "arxivId": "2411.18553",
-      "pdf": null,
-      "citationCount": 19,
-      "referenceCount": 50,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-23",
-      "overlap": 12,
-      "direction": "forward",
-      "score": 81.33420524128458,
-      "why": "cites 12 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
-      "batchPrNumber": 53,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "2c8935ec872eca14636a090e5f6b49bc1c90c30d",
-      "title": "Are Character-level Translations Worth the Wait? Comparing ByT5 and mT5 for Machine Translation",
-      "authors": [
-        "Lukas Edman",
-        "Gabriele Sarti",
-        "Antonio Toral",
-        "Gertjan van Noord",
-        "Arianna Bisazza"
-      ],
-      "topAuthors": [
-        {
-          "name": "Gertjan van Noord",
-          "hIndex": 37,
-          "authorId": "143715131"
-        },
-        {
-          "name": "Arianna Bisazza",
-          "hIndex": 22,
-          "authorId": "3242253"
+          "name": "Adel Bibi",
+          "hIndex": 13,
+          "authorId": "2257303816"
         }
       ],
       "affiliations": [
-        "University of Groningen",
-        "Northeastern University"
+        "University of Oxford"
       ],
       "year": 2023,
-      "venue": "Transactions of the Association for Computational Linguistics",
-      "publicationDate": "2023-02-28",
-      "summary": "This work performs an extensive comparison across multiple languages and experimental conditions of character- and subword-level pretrained models (ByT5 and mT5, respectively) on NMT, and shows the effectiveness of character-level modeling in translation, particularly in cases where fine-tuning data is limited.",
-      "url": "https://www.semanticscholar.org/paper/2c8935ec872eca14636a090e5f6b49bc1c90c30d",
-      "doi": "10.1162/tacl_a_00651",
-      "arxivId": "2302.14220",
-      "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00651/2364129/tacl_a_00651.pdf",
-      "citationCount": 22,
-      "referenceCount": 54,
-      "influentialCitationCount": 1,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2023-05-17",
+      "summary": "It is shown how disparity in the treatment of different languages arises at the tokenization stage, well before a model is even invoked, and the case is made that future language models should be trained using multilingually fair subword tokenizers.",
+      "url": "https://www.semanticscholar.org/paper/879a7f5abdb7ab803d48172d4f0830965f989d46",
+      "doi": "10.48550/arXiv.2305.15425",
+      "arxivId": "2305.15425",
+      "pdf": "http://arxiv.org/pdf/2305.15425",
+      "citationCount": 284,
+      "referenceCount": 117,
+      "influentialCitationCount": 31,
       "source": null,
       "addedAt": "2026-09-23",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 80.90386504094083,
-      "why": "cites 7 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
-      "batchPrNumber": 53,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "79841957d09f212cdcd24d6a16102030ee508e7b",
-      "title": "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization",
-      "authors": [
-        "Negar Foroutan",
-        "Clara Meister",
-        "Debjit Paul",
-        "Joel Niklaus",
-        "Sina Ahmadi",
-        "Antoine Bosselut",
-        "Rico Sennrich"
-      ],
-      "topAuthors": [
-        {
-          "name": "Clara Meister",
-          "hIndex": 25,
-          "authorId": "150953620"
-        },
-        {
-          "name": "Joel Niklaus",
-          "hIndex": 13,
-          "authorId": "67042743"
-        }
-      ],
-      "affiliations": [
-        "EPFL",
-        "University of Bern, University of Fribourg"
-      ],
-      "year": 2025,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2025-08-06",
-      "summary": "Pity-aware BPE reduces tokenization inequality -- operationalized by the Gini coefficient of per-language token costs -- by up to 89% relative to Classical BPE, with negligible impact on global compression rate and no evidence of systematic degradation in downstream LM performance.",
-      "url": "https://www.semanticscholar.org/paper/79841957d09f212cdcd24d6a16102030ee508e7b",
-      "doi": "10.48550/arXiv.2508.04796",
-      "arxivId": "2508.04796",
-      "pdf": null,
-      "citationCount": 19,
-      "referenceCount": 64,
-      "influentialCitationCount": 3,
-      "source": null,
-      "addedAt": "2026-09-23",
-      "overlap": 9,
-      "direction": "forward",
-      "score": 80.45737023403746,
-      "why": "cites 9 in your list",
+      "overlap": 19,
+      "direction": "backward",
+      "score": 80.62943862544476,
+      "why": "cited by 19 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
       "batchPrNumber": 53,
