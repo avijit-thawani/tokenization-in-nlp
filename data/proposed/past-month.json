@@ -1,0 +1,26 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-09-23T14:54:11.490Z",
+  "papers": [
+    {
+      "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
+      "link": "https://arxiv.org/abs/2609.05022",
+      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology"
+    },
+    {
+      "id": "eeec59a39c5ed0d7d65b07cccaaba87c1e36cfe4",
+      "link": "https://arxiv.org/abs/2609.01151",
+      "title": "Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining"
+    },
+    {
+      "id": "6bc2b78827134ed7c62321b4e18f026f2ec7691f",
+      "link": "https://arxiv.org/abs/2608.27658",
+      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages"
+    },
+    {
+      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
+      "link": "https://arxiv.org/abs/2608.26449",
+      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+    }
+  ]
+}
