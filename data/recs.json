@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T09:21:48.212Z",
+  "updatedAt": "2026-09-23T14:46:38.300Z",
   "recs": [
     {
       "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
@@ -588,44 +588,47 @@
       "batchBranch": "recs/past-year"
     },
     {
-      "id": "6b89552239ecde5c5bee398e29e883e8fce79409",
-      "title": "From Characters to Tokens: Dynamic Grouping with Hierarchical BPE",
+      "id": "49518bb3ade956e629838a933f28b30237ebac37",
+      "title": "MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts",
       "authors": [
-        "Rares Dolga",
-        "Lucas Maystre",
-        "Tudor Berariu",
-        "David Barber"
+        "Chengzhi Hu",
+        "Yintao Tai",
+        "Antonio Vergari",
+        "Frank Keller",
+        "Alessandro Suglia"
       ],
       "topAuthors": [
         {
-          "name": "Tudor Berariu",
-          "hIndex": 5,
-          "authorId": "49156061"
+          "name": "Antonio Vergari",
+          "hIndex": 25,
+          "authorId": "14341992"
         },
         {
-          "name": "Rares Dolga",
+          "name": "Frank Keller",
           "hIndex": 4,
-          "authorId": "2114855562"
+          "authorId": "2294876141"
         }
       ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2025-10-17",
-      "summary": "This paper proposes a dynamic character grouping method that leverages the structure of existing BPE tokenization without requiring additional models and offers efficient, flexible, and language-agnostic representations.",
-      "url": "https://www.semanticscholar.org/paper/6b89552239ecde5c5bee398e29e883e8fce79409",
-      "doi": "10.18653/v1/2025.findings-emnlp.595",
-      "arxivId": "2510.15517",
+      "affiliations": [
+        "University of Edinburgh"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-13",
+      "summary": "MIXAR is introduced, the first generative pixel-based language model trained on eight different languages utilizing a range of different scripts, demonstrating substantial performance improvement on discriminative and generative multilingual tasks and its robustness when challenged with input perturbations such as orthographic attacks.",
+      "url": "https://www.semanticscholar.org/paper/49518bb3ade956e629838a933f28b30237ebac37",
+      "doi": "10.48550/arXiv.2604.11575",
+      "arxivId": "2604.11575",
       "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 18,
+      "citationCount": 1,
+      "referenceCount": 55,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-23",
-      "overlap": 4,
+      "overlap": 5,
       "direction": "forward",
-      "score": 40.95020511661948,
-      "why": "past year · cites 4 in your list",
+      "score": 42.014851724926885,
+      "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
