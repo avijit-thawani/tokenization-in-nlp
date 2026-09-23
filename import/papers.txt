@@ -52,10 +52,23 @@ https://arxiv.org/abs/2609.06898
 https://arxiv.org/abs/2609.12960
 
 # --- tokenization section of Niyati Bafna, "Making NLP multilingual" ---
-Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks
-Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings
-Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training
-MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling
-Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer
-KinyaBERT: a Morphology-aware Kinyarwanda Language Model
-Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages
+# Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks
+https://arxiv.org/abs/2509.20045
+
+# Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings
+https://arxiv.org/abs/2311.18034
+
+# Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training
+https://arxiv.org/abs/2109.07306
+
+# MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling
+https://doi.org/10.18653/v1/2022.findings-emnlp.207
+
+# Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer
+https://arxiv.org/abs/2305.14280
+
+# KinyaBERT: a Morphology-aware Kinyarwanda Language Model
+https://arxiv.org/abs/2203.08459
+
+# Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages
+https://arxiv.org/abs/2509.17493
