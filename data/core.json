@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:21:19.613Z",
+  "updatedAt": "2026-09-23T09:21:48.212Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -320,7 +320,7 @@
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00448/1985933/tacl_a_00448.pdf",
       "citationCount": 336,
       "referenceCount": 84,
-      "influentialCitationCount": 52,
+      "influentialCitationCount": 51,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
       "addedAt": "2026-09-12",
       "score": 94.64285714285714
@@ -2308,17 +2308,19 @@
       ],
       "topAuthors": [
         {
+          "name": "Go Inoue",
+          "hIndex": 7,
+          "authorId": "46915471"
+        },
+        {
           "name": "Bashar Alhafni",
           "hIndex": 7,
           "authorId": "2256969018"
-        },
-        {
-          "name": "Go Inoue",
-          "hIndex": 4,
-          "authorId": "2269458157"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "MBZUAI"
+      ],
       "year": 2026,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
       "publicationDate": null,
@@ -2561,11 +2563,14 @@
       "topAuthors": [
         {
           "name": "Rob van der Goot",
-          "hIndex": 1,
-          "authorId": "1712221532"
+          "hIndex": 20,
+          "authorId": "3449407"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "IT University of Copenhagen",
+        "LMU Munich"
+      ],
       "year": 2026,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": null,
@@ -2787,7 +2792,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1420,
+      "citationCount": 1421,
       "referenceCount": 36,
       "influentialCitationCount": 155,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2902,7 +2907,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9026,
+      "citationCount": 9028,
       "referenceCount": 40,
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3006,7 +3011,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4305,
+      "citationCount": 4306,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3598,7 +3603,7 @@
       "doi": null,
       "arxivId": "2608.25089",
       "pdf": null,
-      "citationCount": 1,
+      "citationCount": 2,
       "referenceCount": 85,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.25089",
