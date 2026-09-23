@@ -50,3 +50,12 @@ https://arxiv.org/abs/2609.06898
 # Fewer Words, Not Fewer Tokens: Measuring the Sanskrit Tokenization Penalty per Proposition
 #   Devansh Sharma (h=0) · 2026 · 0 citations · past month · cites 5 in your list
 https://arxiv.org/abs/2609.12960
+
+# --- tokenization section of Niyati Bafna, "Making NLP multilingual" ---
+Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks
+Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings
+Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training
+MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling
+Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer
+KinyaBERT: a Morphology-aware Kinyarwanda Language Model
+Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages
