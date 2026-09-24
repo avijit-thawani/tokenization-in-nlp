@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T17:48:42.488Z",
+  "updatedAt": "2026-09-24T09:21:50.714Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 773,
+      "citationCount": 774,
       "referenceCount": 68,
-      "influentialCitationCount": 99,
+      "influentialCitationCount": 100,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -480,7 +480,7 @@
       "doi": null,
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 234,
+      "citationCount": 235,
       "referenceCount": 200,
       "influentialCitationCount": 9,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
@@ -3264,9 +3264,9 @@
           "authorId": "2269165090"
         },
         {
-          "name": "Ruiyao Xu",
-          "hIndex": 3,
-          "authorId": "2319451284"
+          "name": "Ari Holtzman",
+          "hIndex": 4,
+          "authorId": "2257034335"
         }
       ],
       "affiliations": [],
@@ -3839,10 +3839,7 @@
       "influentialCitationCount": 1,
       "source": "Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2311.18034"
-      ]
+      "score": 0
     },
     {
       "id": "c60736e61f8961ec535ecfdc6f0398925d34d0b8",
@@ -3882,10 +3879,7 @@
       "influentialCitationCount": 2,
       "source": "Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer",
       "addedAt": "2026-09-23",
-      "score": 13.559322033898304,
-      "aliases": [
-        "https://arxiv.org/abs/2305.14280"
-      ]
+      "score": 13.559322033898304
     },
     {
       "id": "5c667b8297631551de12e1b888bb57251f427716",
@@ -3921,10 +3915,7 @@
       "influentialCitationCount": 0,
       "source": "Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages",
       "addedAt": "2026-09-23",
-      "score": 3.389830508474576,
-      "aliases": [
-        "https://arxiv.org/abs/2509.17493"
-      ]
+      "score": 3.389830508474576
     },
     {
       "id": "c4483403a6b56dc477576fb53e00193bc324db39",
