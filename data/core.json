@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:39:58.502Z",
+  "updatedAt": "2026-09-26T09:24:24.050Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -171,7 +171,7 @@
       "id": "44ef6cf919250001836ed73c0d58b20ea1e2d308",
       "title": "ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models",
       "authors": [
-        "Linting Xue",
+        "Lin-Ting Xue",
         "Aditya Barua",
         "Noah Constant",
         "Rami Al-Rfou",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 776,
+      "citationCount": 777,
       "referenceCount": 68,
       "influentialCitationCount": 100,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -809,8 +809,7 @@
         }
       ],
       "affiliations": [
-        "Technical University of Munich",
-        "Charles University"
+        "Technical University of Munich"
       ],
       "year": 2021,
       "venue": "Findings",
@@ -915,9 +914,11 @@
       "authors": [
         "Borun Chen",
         "Hongyin Tang",
+        "Jia-Hao Bu",
+        "Kai Zhang",
         "Jingang Wang",
         "Qifan Wang",
-        "Haitao Zheng",
+        "Hai-Tao Zheng",
         "Wei Yu Wu",
         "Liqian Yu"
       ],
@@ -928,7 +929,7 @@
           "authorId": "50224935"
         },
         {
-          "name": "Haitao Zheng",
+          "name": "Hai-Tao Zheng",
           "hIndex": 30,
           "authorId": "16215052"
         }
@@ -1287,7 +1288,7 @@
       "id": "ad6c25a46a083e02dbfcdd4b6341945d517b5e31",
       "title": "A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning",
       "authors": [
-        "Md. Mofijul Islam",
+        "Md Mofijul Islam",
         "Gustavo Aguilar",
         "Pragaash Ponnusamy",
         "Clint Solomon Mathialagan",
@@ -1296,14 +1297,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Md. Mofijul Islam",
-          "hIndex": 14,
-          "authorId": "2804902"
-        },
-        {
           "name": "Gustavo Aguilar",
           "hIndex": 14,
           "authorId": "46402847"
+        },
+        {
+          "name": "Chengyuan Ma",
+          "hIndex": 13,
+          "authorId": "39923907"
         }
       ],
       "affiliations": [
@@ -1623,7 +1624,7 @@
       "doi": "10.48550/arXiv.2301.10472",
       "arxivId": "2301.10472",
       "pdf": "http://arxiv.org/pdf/2301.10472",
-      "citationCount": 128,
+      "citationCount": 129,
       "referenceCount": 37,
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/69b8db33a7ea7366e48c465b6f35a8d7f8f1a3b5",
@@ -2515,7 +2516,7 @@
       "id": "33ab1733c27c959e72a836241629f919cd45b22f",
       "title": "TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior",
       "authors": [
-        "Gul Sena Altintacs",
+        "G. S. Altintas",
         "Malikeh Ehghaghi",
         "Brian Lester",
         "Fengyuan Liu",
@@ -2792,7 +2793,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1421,
+      "citationCount": 1422,
       "referenceCount": 36,
       "influentialCitationCount": 155,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2907,7 +2908,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9032,
+      "citationCount": 9031,
       "referenceCount": 40,
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3011,7 +3012,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4309,
+      "citationCount": 4310,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3933,9 +3934,9 @@
           "authorId": "2125681709"
         },
         {
-          "name": "Ljiljana Dolamic",
-          "hIndex": 4,
-          "authorId": "1680665"
+          "name": "Tanja Samardzic",
+          "hIndex": 2,
+          "authorId": "2315307180"
         }
       ],
       "affiliations": [],
