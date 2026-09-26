@@ -10,19 +10,43 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
-# --- past month ---
-# MoirfEolas and Cr\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology
-#   Elaine Uí Dhonnchadha (h=8) · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2609.05022
+# --- past year ---
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=5) · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2605.19632
 
-# Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining
-#   Francois Meyer (h=3) · 2026 · 0 citations · past month · cites 3 in your list
-https://arxiv.org/abs/2609.01151
+# Dynamic tokenization in the Transformer era: A review and taxonomy
+#   Bagher Babaali (h=4) · University of Tehran · 2026 · 0 citations · past year · cites 5 in your list
+https://doi.org/10.1016/j.patcog.2026.114439
 
-# When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages
-#   Nikolaos Aletras (h=30) · University of Sheffield · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.27658
+# You Can Learn Tokenization End-to-End with Reinforcement Learning
+#   R. Wattenhofer (h=25) · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2602.13940
 
-# Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
-#   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.26449
+# SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models
+#   Hua-Jin Tang (h=9) · Zhejiang Lab · 2026 · 0 citations · past year · cites 3 in your list
+https://doi.org/10.18653/v1/2026.acl-long.451
+
+# Explicit Boundary Markers for Subword Vocabularies
+#   Clara Meister (h=25) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2608.08847
+
+# Language Models are not Equally Robust to Non-Canonical Tokenization across Languages
+#   P. Jyothi (h=22) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2607.26831
+
+# Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago
+#   Hokky Situngkir (h=14) · Bandung Institute of Technology · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2602.06998
+
+# Contextual morphologically-guided tokenization for Latin encoder models
+#   Marisa Hudspeth (h=2) · Rhodes College · 2025 · 1 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2511.09709
+
+# Defragmenting Language Models: An Interpretability-based Approach for Vocabulary Expansion
+#   Vivek Srikumar (h=39) · Carnegie Mellon University · 2026 · 1 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2604.16656
+
+# PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation
+#   Raj Dabre (h=27) · NICT · 2025 · 1 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2512.13552
