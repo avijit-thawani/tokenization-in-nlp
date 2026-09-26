@@ -1,0 +1,81 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-09-26T09:24:29.063Z",
+  "papers": [
+    {
+      "id": "0d4b5c9a071557f4eb12f63f785dbc89071d4272",
+      "link": "https://arxiv.org/abs/2012.15613",
+      "title": "How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models"
+    },
+    {
+      "id": "c74326259a24bbba3e5130f0ee42a546ea31301b",
+      "link": "https://arxiv.org/abs/2402.18376",
+      "title": "Tokenization Is More Than Compression"
+    },
+    {
+      "id": "b10e5a2b622a2da27b1a888a117ad5d9237a31e1",
+      "link": "https://arxiv.org/abs/2403.01289",
+      "title": "Greed is All You Need: An Evaluation of Tokenizer Inference Methods"
+    },
+    {
+      "id": "02fdce49005cb9b0f9c9b92d02e3359e143afc31",
+      "link": "https://doi.org/10.52202/079017-3608",
+      "title": "Enhancing Large Language Models through Adaptive Tokenizers"
+    },
+    {
+      "id": "e35f446697d1692b27d500a2d30eda813e5249c9",
+      "link": "https://arxiv.org/abs/2410.20771",
+      "title": "MrT5: Dynamic Token Merging for Efficient Byte-level Language Models"
+    },
+    {
+      "id": "2b1bf167ae6f9b8ea6e9a97c49d8334d65c08a42",
+      "link": "https://arxiv.org/abs/2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling"
+    },
+    {
+      "id": "64384525318f934fa085de86badc24403487d38a",
+      "link": "https://arxiv.org/abs/2310.08754",
+      "title": "Tokenizer Choice For LLM Training: Negligible or Crucial?"
+    },
+    {
+      "id": "9ef2d0327c73393adb509d5793f707447cad2faf",
+      "link": "https://arxiv.org/abs/2407.08818",
+      "title": "MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization"
+    },
+    {
+      "id": "ec323a4d9f91862a3904d134935208210c2c931d",
+      "link": "https://arxiv.org/abs/2506.03101",
+      "title": "Beyond Text Compression: Evaluating Tokenizers Across Scales"
+    },
+    {
+      "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
+      "link": "https://arxiv.org/abs/1910.13267",
+      "title": "BPE-Dropout: Simple and Effective Subword Regularization"
+    },
+    {
+      "id": "879a7f5abdb7ab803d48172d4f0830965f989d46",
+      "link": "https://arxiv.org/abs/2305.15425",
+      "title": "Language Model Tokenizers Introduce Unfairness Between Languages"
+    },
+    {
+      "id": "17fbffb05fa14e21d1c506fd5f0f568b955fe983",
+      "link": "https://arxiv.org/abs/2305.13707",
+      "title": "Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models"
+    },
+    {
+      "id": "1068dfc3985863ad692cd59a48596847aac8754f",
+      "link": "https://arxiv.org/abs/2411.18553",
+      "title": "Retrofitting (Large) Language Models with Dynamic Tokenization"
+    },
+    {
+      "id": "2c8935ec872eca14636a090e5f6b49bc1c90c30d",
+      "link": "https://arxiv.org/abs/2302.14220",
+      "title": "Are Character-level Translations Worth the Wait? Comparing ByT5 and mT5 for Machine Translation"
+    },
+    {
+      "id": "79841957d09f212cdcd24d6a16102030ee508e7b",
+      "link": "https://arxiv.org/abs/2508.04796",
+      "title": "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization"
+    }
+  ]
+}
