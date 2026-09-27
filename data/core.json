@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:24:24.050Z",
+  "updatedAt": "2026-09-27T10:03:47.279Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -256,6 +256,7 @@
       "title": "AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization",
       "authors": [
         "Xinsong Zhang",
+        "Peng-Shuai Li",
         "Hang Li"
       ],
       "topAuthors": [
@@ -523,11 +524,11 @@
       "title": "Sub-Character Tokenization for Chinese Pretrained Language Models",
       "authors": [
         "Chenglei Si",
-        "Zhengyan Zhang",
+        "Zheng-Yan Zhang",
         "Yingfa Chen",
         "Fanchao Qi",
         "Xiaozhi Wang",
-        "Zhiyuan Liu",
+        "Zhi-Yuan Liu",
         "Yasheng Wang",
         "Qun Liu",
         "Maosong Sun"
@@ -539,7 +540,7 @@
           "authorId": "1753344"
         },
         {
-          "name": "Zhiyuan Liu",
+          "name": "Zhi-Yuan Liu",
           "hIndex": 43,
           "authorId": "2141313179"
         }
@@ -608,11 +609,11 @@
         "Makesh Narsimhan Sreedhar",
         "Xiangpeng Wan",
         "Yu Cheng",
-        "Junjie Hu"
+        "Jun-Jie Hu"
       ],
       "topAuthors": [
         {
-          "name": "Junjie Hu",
+          "name": "Jun-Jie Hu",
           "hIndex": 18,
           "authorId": "2149221827"
         },
@@ -917,7 +918,7 @@
         "Jia-Hao Bu",
         "Kai Zhang",
         "Jingang Wang",
-        "Qifan Wang",
+        "Qi-Fan Wang",
         "Hai-Tao Zheng",
         "Wei Yu Wu",
         "Liqian Yu"
@@ -2107,7 +2108,7 @@
       "authors": [
         "Lin Zheng",
         "Xinyu Li",
-        "Qian Liu",
+        "Qi Liu",
         "Xiachong Feng",
         "Lingpeng Kong"
       ],
@@ -2118,9 +2119,9 @@
           "authorId": "1633166807"
         },
         {
-          "name": "Xiachong Feng",
-          "hIndex": 7,
-          "authorId": "2302496781"
+          "name": "Qi Liu",
+          "hIndex": 11,
+          "authorId": "2289904334"
         }
       ],
       "affiliations": [
@@ -2186,7 +2187,7 @@
       "id": "54fbe59c3808d89f19c84b44a9dd4f794f7d3e8f",
       "title": "The Roots of Performance Disparity in Multilingual Language Models: Intrinsic Modeling Difficulty or Design Choices?",
       "authors": [
-        "C. Shani",
+        "Sha-Ni Chen",
         "Yuval Reif",
         "N. Roll",
         "Daniel Jurafsky",
@@ -2194,14 +2195,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Daniel Jurafsky",
-          "hIndex": 7,
-          "authorId": "2268091802"
-        },
-        {
           "name": "Yuval Reif",
           "hIndex": 4,
           "authorId": "2219310473"
+        },
+        {
+          "name": "N. Roll",
+          "hIndex": 4,
+          "authorId": "2204573988"
         }
       ],
       "affiliations": [],
@@ -3012,7 +3013,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4310,
+      "citationCount": 4311,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3961,7 +3962,7 @@
       "authors": [
         "Bo Zheng",
         "Li Dong",
-        "Shaohan Huang",
+        "Shao-Han Huang",
         "Saksham Singhal",
         "Wanxiang Che",
         "Ting Liu",
