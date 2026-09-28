@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:03:47.279Z",
+  "updatedAt": "2026-09-28T11:04:28.690Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -1741,7 +1741,7 @@
       "doi": "10.48550/arXiv.2305.07185",
       "arxivId": "2305.07185",
       "pdf": "http://arxiv.org/pdf/2305.07185",
-      "citationCount": 189,
+      "citationCount": 190,
       "referenceCount": 47,
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -2909,7 +2909,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9031,
+      "citationCount": 9033,
       "referenceCount": 40,
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3013,7 +3013,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4311,
+      "citationCount": 4314,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
