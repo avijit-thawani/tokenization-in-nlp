@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:04:28.690Z",
+  "updatedAt": "2026-09-29T10:45:30.026Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -2794,7 +2794,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1422,
+      "citationCount": 1423,
       "referenceCount": 36,
       "influentialCitationCount": 155,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2909,7 +2909,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9033,
+      "citationCount": 9038,
       "referenceCount": 40,
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3013,7 +3013,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4314,
+      "citationCount": 4315,
       "referenceCount": 16,
       "influentialCitationCount": 274,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3579,7 +3579,7 @@
       "title": "Apples to Apples? Towards Comparable Crosslingual Language Model Evaluation",
       "authors": [
         "Xiulin Yang",
-        "Ethan Wilcox",
+        "E. Wilcox",
         "Catherine Arnett"
       ],
       "topAuthors": [
@@ -3589,7 +3589,7 @@
           "authorId": "2257347764"
         },
         {
-          "name": "Ethan Wilcox",
+          "name": "E. Wilcox",
           "hIndex": 3,
           "authorId": "2347348730"
         }
