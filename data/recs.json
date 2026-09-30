@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:45:30.026Z",
+  "updatedAt": "2026-09-30T10:33:41.287Z",
   "recs": [
     {
       "id": "eff9863c0f7ec7f6d098ca1c9559d1c28a19ec2b",
@@ -33,10 +33,10 @@
       "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 73.65340940716213,
+      "score": 70.46042391428857,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -55,12 +55,12 @@
       "topAuthors": [
         {
           "name": "Bagher Babaali",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2270996293"
         },
         {
           "name": "Mohammad Mahdi Azizi",
-          "hIndex": 2,
+          "hIndex": 3,
           "authorId": "2332126316"
         }
       ],
@@ -79,10 +79,10 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 51.40171793856538,
+      "score": 51.76329062943744,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -100,12 +100,12 @@
       "topAuthors": [
         {
           "name": "R. Wattenhofer",
-          "hIndex": 25,
+          "hIndex": 27,
           "authorId": "2075356250"
         },
         {
           "name": "Sam Dauncey",
-          "hIndex": 1,
+          "hIndex": 2,
           "authorId": "2290023471"
         }
       ],
@@ -122,10 +122,10 @@
       "referenceCount": 36,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 48.157481153280855,
+      "score": 48.23974999079713,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -150,7 +150,7 @@
       "topAuthors": [
         {
           "name": "Hua-Jin Tang",
-          "hIndex": 9,
+          "hIndex": 12,
           "authorId": "2266385607"
         },
         {
@@ -174,10 +174,10 @@
       "referenceCount": 52,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 46.953906300829345,
+      "score": 47.423755154998965,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -195,7 +195,7 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 25,
+          "hIndex": 24,
           "authorId": "150953620"
         },
         {
@@ -217,10 +217,10 @@
       "referenceCount": 17,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 45.99849419568077,
+      "score": 45.907466311929184,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -260,10 +260,10 @@
       "referenceCount": 28,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 45.21856754550418,
+      "score": 45.197533607028355,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -306,10 +306,10 @@
       "referenceCount": 39,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 44.7121916105306,
+      "score": 44.68698541802321,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -328,7 +328,7 @@
       "topAuthors": [
         {
           "name": "Marisa Hudspeth",
-          "hIndex": 2,
+          "hIndex": 3,
           "authorId": "2142822385"
         },
         {
@@ -353,10 +353,10 @@
       "referenceCount": 61,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 6,
       "direction": "forward",
-      "score": 43.40684973171429,
+      "score": 43.27303364295748,
       "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -377,12 +377,12 @@
       "topAuthors": [
         {
           "name": "Vivek Srikumar",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "3052879"
         },
         {
           "name": "Nishant Subramani",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "34202134"
         }
       ],
@@ -397,14 +397,14 @@
       "doi": "10.48550/arXiv.2604.16656",
       "arxivId": "2604.16656",
       "pdf": null,
-      "citationCount": 1,
+      "citationCount": 2,
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 42.76684479702857,
+      "score": 42.786063889993,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -426,13 +426,13 @@
       "topAuthors": [
         {
           "name": "Raj Dabre",
-          "hIndex": 27,
+          "hIndex": 28,
           "authorId": "3209719"
         },
         {
-          "name": "Van-Hien Tran",
+          "name": "Hour Kaing",
           "hIndex": 5,
-          "authorId": "2845068"
+          "authorId": "1453725225"
         }
       ],
       "affiliations": [
@@ -450,10 +450,10 @@
       "referenceCount": 59,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 41.28686706765808,
+      "score": 41.322962191534074,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -474,13 +474,13 @@
       "topAuthors": [
         {
           "name": "Iryna Gurevych",
-          "hIndex": 82,
+          "hIndex": 84,
           "authorId": "1730400"
         },
         {
-          "name": "Ivan Vulic",
-          "hIndex": 57,
-          "authorId": "1747849"
+          "name": "Sebastian Ruder",
+          "hIndex": 58,
+          "authorId": "2884561"
         }
       ],
       "affiliations": [
@@ -495,11 +495,11 @@
       "doi": "10.18653/v1/2021.acl-long.243",
       "arxivId": "2012.15613",
       "pdf": "https://aclanthology.org/2021.acl-long.243.pdf",
-      "citationCount": 459,
+      "citationCount": 464,
       "referenceCount": 97,
       "influentialCitationCount": 46,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 31,
       "direction": "backward",
       "score": 100,
@@ -524,7 +524,7 @@
       "topAuthors": [
         {
           "name": "Yuval Pinter",
-          "hIndex": 19,
+          "hIndex": 21,
           "authorId": "1826312"
         },
         {
@@ -544,14 +544,14 @@
       "doi": "10.48550/arXiv.2402.18376",
       "arxivId": "2402.18376",
       "pdf": null,
-      "citationCount": 115,
+      "citationCount": 116,
       "referenceCount": 56,
       "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 22,
       "direction": "backward",
-      "score": 94.27163836603489,
+      "score": 94.57606905644684,
       "why": "cited by 22 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -570,7 +570,7 @@
       "topAuthors": [
         {
           "name": "Yuval Pinter",
-          "hIndex": 19,
+          "hIndex": 21,
           "authorId": "1826312"
         },
         {
@@ -594,10 +594,10 @@
       "referenceCount": 43,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "forward",
-      "score": 93.93766462894621,
+      "score": 94.12419213507378,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -624,7 +624,7 @@
         },
         {
           "name": "Tianyu Guo",
-          "hIndex": 9,
+          "hIndex": 11,
           "authorId": "2265387471"
         }
       ],
@@ -641,10 +641,10 @@
       "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 7,
       "direction": "forward",
-      "score": 93.3481479416865,
+      "score": 93.29879812489138,
       "why": "cites 7 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -686,10 +686,10 @@
       "referenceCount": 55,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "forward",
-      "score": 91.90364612052679,
+      "score": 91.78270416468828,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -712,7 +712,7 @@
         },
         {
           "name": "Sukjun Hwang",
-          "hIndex": 2,
+          "hIndex": 3,
           "authorId": "2311500924"
         }
       ],
@@ -729,10 +729,10 @@
       "referenceCount": 113,
       "influentialCitationCount": 17,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "forward",
-      "score": 90.42772575907347,
+      "score": 90.34933987564935,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -773,7 +773,7 @@
         },
         {
           "name": "Malte Ostendorff",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2123349725"
         }
       ],
@@ -786,14 +786,14 @@
       "doi": "10.48550/arXiv.2310.08754",
       "arxivId": "2310.08754",
       "pdf": "https://arxiv.org/pdf/2310.08754",
-      "citationCount": 142,
+      "citationCount": 144,
       "referenceCount": 82,
       "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "forward",
-      "score": 85.24459590426969,
+      "score": 85.15617141947715,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -815,12 +815,12 @@
       "topAuthors": [
         {
           "name": "Hila Gonen",
-          "hIndex": 22,
+          "hIndex": 23,
           "authorId": "1821892"
         },
         {
           "name": "Sachin Kumar",
-          "hIndex": 19,
+          "hIndex": 21,
           "authorId": "51467955"
         }
       ],
@@ -840,10 +840,10 @@
       "referenceCount": 49,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "forward",
-      "score": 84.85741840088986,
+      "score": 84.8343694356132,
       "why": "cites 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -863,7 +863,7 @@
       "topAuthors": [
         {
           "name": "Jonas F. Lotz",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2170638024"
         },
         {
@@ -887,10 +887,10 @@
       "referenceCount": 103,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 11,
       "direction": "forward",
-      "score": 84.49938021437704,
+      "score": 84.82957641403597,
       "why": "cites 11 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -913,7 +913,7 @@
         },
         {
           "name": "Ivan Provilkov",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "1390051629"
         }
       ],
@@ -928,14 +928,14 @@
       "doi": "10.18653/v1/2020.acl-main.170",
       "arxivId": "1910.13267",
       "pdf": "https://aclanthology.org/2020.acl-main.170.pdf",
-      "citationCount": 355,
+      "citationCount": 356,
       "referenceCount": 30,
       "influentialCitationCount": 62,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 26,
       "direction": "backward",
-      "score": 83.73389337442498,
+      "score": 83.84278953844036,
       "why": "cited by 26 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -954,7 +954,7 @@
       "topAuthors": [
         {
           "name": "Philip H. S. Torr",
-          "hIndex": 111,
+          "hIndex": 115,
           "authorId": "143635540"
         },
         {
@@ -974,14 +974,14 @@
       "doi": "10.48550/arXiv.2305.15425",
       "arxivId": "2305.15425",
       "pdf": "http://arxiv.org/pdf/2305.15425",
-      "citationCount": 285,
+      "citationCount": 288,
       "referenceCount": 117,
       "influentialCitationCount": 32,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 21,
       "direction": "backward",
-      "score": 80.07863233651659,
+      "score": 80.01502696251663,
       "why": "cited by 21 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1024,14 +1024,14 @@
       "doi": "10.48550/arXiv.2305.13707",
       "arxivId": "2305.13707",
       "pdf": "http://arxiv.org/pdf/2305.13707",
-      "citationCount": 244,
+      "citationCount": 250,
       "referenceCount": 81,
-      "influentialCitationCount": 20,
+      "influentialCitationCount": 21,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 21,
       "direction": "backward",
-      "score": 77.33257518822354,
+      "score": 77.0578469375458,
       "why": "cited by 21 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1071,10 +1071,10 @@
       "referenceCount": 50,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 12,
       "direction": "forward",
-      "score": 76.36510819936409,
+      "score": 76.24597272100651,
       "why": "cites 12 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1119,10 +1119,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 7,
       "direction": "forward",
-      "score": 76.01115787220336,
+      "score": 75.93620500506184,
       "why": "cites 7 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1130,50 +1130,50 @@
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "79841957d09f212cdcd24d6a16102030ee508e7b",
-      "title": "Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization",
+      "id": "064c4b1b07ea637cc02de0ba9a91281e6a1dee82",
+      "title": "Evaluating Subword Tokenization: Alien Subword Composition and OOV Generalization Challenge",
       "authors": [
-        "Negar Foroutan",
-        "Clara Meister",
-        "Debjit Paul",
-        "Joel Niklaus",
-        "Sina Ahmadi",
-        "Antoine Bosselut",
-        "Rico Sennrich"
+        "Khuyagbaatar Batsuren",
+        "Ekaterina Vylomova",
+        "Verna Dankers",
+        "Tsetsuukhei Delgerbaatar",
+        "Omri Uzan",
+        "Yuval Pinter",
+        "Gábor Bella"
       ],
       "topAuthors": [
         {
-          "name": "Clara Meister",
-          "hIndex": 25,
-          "authorId": "150953620"
+          "name": "Yuval Pinter",
+          "hIndex": 21,
+          "authorId": "1826312"
         },
         {
-          "name": "Joel Niklaus",
-          "hIndex": 13,
-          "authorId": "67042743"
+          "name": "Ekaterina Vylomova",
+          "hIndex": 16,
+          "authorId": "2311126"
         }
       ],
       "affiliations": [
-        "EPFL",
-        "University of Bern, University of Fribourg"
+        "Ben-Gurion University of the Negev",
+        "National University of Mongolia"
       ],
-      "year": 2025,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2025-08-06",
-      "summary": "Pity-aware BPE reduces tokenization inequality -- operationalized by the Gini coefficient of per-language token costs -- by up to 89% relative to Classical BPE, with negligible impact on global compression rate and no evidence of systematic degradation in downstream LM performance.",
-      "url": "https://www.semanticscholar.org/paper/79841957d09f212cdcd24d6a16102030ee508e7b",
-      "doi": "10.48550/arXiv.2508.04796",
-      "arxivId": "2508.04796",
+      "year": 2024,
+      "venue": "arXiv.org",
+      "publicationDate": "2024-04-20",
+      "summary": "A combined intrinsic-extrinsic evaluation framework for subword tokenization, based on the new UniMorph Labeller tool, which shows that alien tokenization leads to poorer generalizations compared to morphological tokenization for semantic compositionality of word meanings.",
+      "url": "https://www.semanticscholar.org/paper/064c4b1b07ea637cc02de0ba9a91281e6a1dee82",
+      "doi": "10.48550/arXiv.2404.13292",
+      "arxivId": "2404.13292",
       "pdf": null,
-      "citationCount": 19,
-      "referenceCount": 64,
-      "influentialCitationCount": 3,
+      "citationCount": 21,
+      "referenceCount": 57,
+      "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 9,
+      "addedAt": "2026-09-30",
+      "overlap": 8,
       "direction": "forward",
-      "score": 75.59560457148555,
-      "why": "cites 9 in your list",
+      "score": 75.77435956256251,
+      "why": "cites 8 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
       "batchPrNumber": 53,
