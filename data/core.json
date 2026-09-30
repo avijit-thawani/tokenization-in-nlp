@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T10:33:41.287Z",
+  "updatedAt": "2026-09-30T19:24:34.852Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -864,7 +864,7 @@
       "influentialCitationCount": 12,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
       "addedAt": "2026-09-12",
-      "score": 20.33898305084746
+      "score": 22.033898305084744
     },
     {
       "id": "17e2977b907aad2532c45185947539e83ac639cd",
@@ -1018,7 +1018,7 @@
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5e788c833321b12671206b96a438c0e5b1202027",
       "addedAt": "2026-09-12",
-      "score": 23.728813559322035
+      "score": 25.423728813559322
     },
     {
       "id": "5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -1865,7 +1865,7 @@
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
       "addedAt": "2026-09-12",
-      "score": 30.508474576271187
+      "score": 32.20338983050847
     },
     {
       "id": "4044c062683533d92f598715afe2508be29c739c",
@@ -2834,7 +2834,7 @@
       "influentialCitationCount": 156,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
-      "score": 96.61016949152543
+      "score": 91.52542372881356
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -2949,7 +2949,7 @@
       "influentialCitationCount": 1069,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
-      "score": 62.71186440677966
+      "score": 61.016949152542374
     },
     {
       "id": "205cc15fca6963b355e4c071071368e874ee103e",
@@ -3053,7 +3053,7 @@
       "influentialCitationCount": 275,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
-      "score": 49.152542372881356
+      "score": 47.45762711864407
     },
     {
       "id": "2910da87c91dff1aca3ae139b680c012bab3191e",
