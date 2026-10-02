@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T11:01:15.606Z",
+  "updatedAt": "2026-10-02T10:33:45.777Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -1818,7 +1818,7 @@
       "doi": "10.18653/v1/2022.insights-1.24",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2022.insights-1.24.pdf",
-      "citationCount": 6,
+      "citationCount": 7,
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -2477,7 +2477,7 @@
       "doi": "10.48550/arXiv.2606.28057",
       "arxivId": "2606.28057",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 66,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.28057",
@@ -2523,11 +2523,11 @@
         "Fengyuan Liu",
         "Wanru Zhao",
         "Marco Ciccone",
-        "Colin Raffel"
+        "Colin A. Raffel"
       ],
       "topAuthors": [
         {
-          "name": "Colin Raffel",
+          "name": "Colin A. Raffel",
           "hIndex": 19,
           "authorId": "2269733851"
         },
@@ -2829,9 +2829,9 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1427,
+      "citationCount": 1429,
       "referenceCount": 36,
-      "influentialCitationCount": 156,
+      "influentialCitationCount": 158,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
       "score": 91.52542372881356
@@ -2906,7 +2906,7 @@
       "doi": "10.18653/v1/2020.findings-emnlp.414",
       "arxivId": "2004.03720",
       "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf",
-      "citationCount": 340,
+      "citationCount": 341,
       "referenceCount": 28,
       "influentialCitationCount": 27,
       "source": "https://arxiv.org/abs/2004.03720",
@@ -2944,9 +2944,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9053,
+      "citationCount": 9061,
       "referenceCount": 40,
-      "influentialCitationCount": 1069,
+      "influentialCitationCount": 1071,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 61.016949152542374
@@ -3048,7 +3048,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4323,
+      "citationCount": 4324,
       "referenceCount": 16,
       "influentialCitationCount": 275,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3385,7 +3385,7 @@
       "doi": "10.48550/arXiv.2606.27019",
       "arxivId": "2606.27019",
       "pdf": null,
-      "citationCount": 4,
+      "citationCount": 5,
       "referenceCount": 32,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.27019",
@@ -3491,7 +3491,7 @@
       "doi": null,
       "arxivId": "2608.18062",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 51,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.18062",
