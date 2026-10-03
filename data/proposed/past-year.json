@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-10-03T09:55:09.998Z",
+  "papers": [
+    {
+      "id": "eff9863c0f7ec7f6d098ca1c9559d1c28a19ec2b",
+      "link": "https://arxiv.org/abs/2605.19632",
+      "title": "Executable Boundary Contracts for Sound Event Traces"
+    },
+    {
+      "id": "15f29ed3a3860e89993e1f1541f1e8337dbf4b37",
+      "link": "https://doi.org/10.1016/j.patcog.2026.114439",
+      "title": "Dynamic tokenization in the Transformer era: A review and taxonomy"
+    },
+    {
+      "id": "10071e1968030dd5e1772b551c5cdf32e628cf11",
+      "link": "https://arxiv.org/abs/2602.13940",
+      "title": "You Can Learn Tokenization End-to-End with Reinforcement Learning"
+    },
+    {
+      "id": "97efda4a4c1bc0d7f339eea7bd56504fab225d1e",
+      "link": "https://doi.org/10.18653/v1/2026.acl-long.451",
+      "title": "SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models"
+    },
+    {
+      "id": "81405dd9a9e4b0716dd5a2f66e458c59d8fdf316",
+      "link": "https://arxiv.org/abs/2605.13485",
+      "title": "Effective Context in Transformers: An Analysis of Fragmentation and Tokenization"
+    },
+    {
+      "id": "511f3773ed6e92979eb1bfbb0defeebc0465c7c0",
+      "link": "https://arxiv.org/abs/2510.06128",
+      "title": "Parallel Tokenizers: Rethinking Vocabulary Design in Cross-Lingual Transfer of Low-Resource Languages"
+    },
+    {
+      "id": "75d3c5271f773fc3bce75a176059a0be6a92cc4c",
+      "link": "https://arxiv.org/abs/2607.26831",
+      "title": "Language Models are not Equally Robust to Non-Canonical Tokenization across Languages"
+    },
+    {
+      "id": "1849b8f09cfa3fa8ceaee053fa6398f16106debd",
+      "link": "https://arxiv.org/abs/2602.06998",
+      "title": "Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago"
+    },
+    {
+      "id": "49518bb3ade956e629838a933f28b30237ebac37",
+      "link": "https://arxiv.org/abs/2604.11575",
+      "title": "MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts"
+    },
+    {
+      "id": "8727f56e27413beba879109141b36af73b657391",
+      "link": "https://arxiv.org/abs/2608.08847",
+      "title": "Explicit Boundary Markers for Subword Vocabularies"
+    }
+  ]
+}
