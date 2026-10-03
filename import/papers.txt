@@ -11,18 +11,22 @@
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
 # --- past month ---
-# MoirfEolas and Cr\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology
-#   Elaine Uí Dhonnchadha (h=8) · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2609.05022
+# Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining
+#   N. Nguyen (h=20) · University of Information Technology, Vietnam National University, Ho Chi Minh city, Vietnam · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.21362
 
-# Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining
-#   Francois Meyer (h=3) · 2026 · 0 citations · past month · cites 3 in your list
-https://arxiv.org/abs/2609.01151
+# To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs
+#   François Yvon (h=7) · Centre National de la Recherche Scientifique · 2026 · 0 citations · past month · cites 7 in your list
+https://arxiv.org/abs/2609.15528
 
-# When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages
-#   Nikolaos Aletras (h=30) · University of Sheffield · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.27658
+# Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models
+#   Michael A. White (h=15) · Washington University in St. Louis · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.28386
 
-# Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
-#   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.26449
+# The Price of Token Boundaries: Compression Certificates and Prediction
+#   Shu-Nian Chen (h=16) · 2026 · 0 citations · past month · cites 7 in your list
+https://arxiv.org/abs/2609.35869
+
+# Root, Suffix, or Byte? A Reproducible Study of Sub Word Tokenization for a Morphologically Rich Language (Russian)
+#   Sabina Umirzakova (h=21) · Kimyo International University in Tashkent · 2026 · 0 citations · past month · cites 4 in your list
+https://doi.org/10.3390/electronics15184236
