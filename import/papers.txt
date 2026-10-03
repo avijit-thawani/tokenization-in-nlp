@@ -26,3 +26,44 @@ https://arxiv.org/abs/2608.27658
 # Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
 #   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 5 in your list
 https://arxiv.org/abs/2608.26449
+
+# --- most connected ---
+# How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
+#   Iryna Gurevych (h=84) · Cohere · 2020 · 465 citations · cited by 31 in your list
+https://arxiv.org/abs/2012.15613
+
+# Tokenization Is More Than Compression
+#   Yuval Pinter (h=21) · Ben-Gurion University of the Negev · 2024 · 117 citations · cites 9 in your list
+https://arxiv.org/abs/2402.18376
+
+# BPE-Dropout: Simple and Effective Subword Regularization
+#   Elena Voita (h=15) · University of Edinburgh · 2019 · 359 citations · cited by 26 in your list
+https://arxiv.org/abs/1910.13267
+
+# Enhancing Large Language Models through Adaptive Tokenizers
+#   Hanting Chen (h=29) · 2024 · 11 citations · cites 7 in your list
+https://doi.org/10.52202/079017-3608
+
+# Subword-Delimited Downsampling for Better Character-Level Translation
+#   Gertjan van Noord (h=37) · 2022 · 8 citations · cites 5 in your list
+https://arxiv.org/abs/2212.01304
+
+# Greed is All You Need: An Evaluation of Tokenizer Inference Methods
+#   Yuval Pinter (h=21) · Ben-Gurion University of the Negev · 2024 · 42 citations · cites 10 in your list
+https://arxiv.org/abs/2403.01289
+
+# Beyond Text Compression: Evaluating Tokenizers Across Scales
+#   Jonas F. Lotz (h=7) · University of Copenhagen · 2025 · 12 citations · cites 11 in your list
+https://arxiv.org/abs/2506.03101
+
+# Dynamic Chunking for End-to-End Hierarchical Sequence Modeling
+#   Brandon Wang (h=5) · 2025 · 76 citations · cites 10 in your list
+https://arxiv.org/abs/2507.07955
+
+# MrT5: Dynamic Token Merging for Efficient Byte-level Language Models
+#   Shikhar Murty (h=14) · Stanford University · 2024 · 27 citations · cites 10 in your list
+https://arxiv.org/abs/2410.20771
+
+# Multi-view Subword Regularization
+#   Graham Neubig (h=93) · Cohere · 2021 · 57 citations · cited by 13 in your list
+https://arxiv.org/abs/2103.08490
