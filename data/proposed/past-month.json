@@ -1,26 +1,31 @@
 {
   "window": "past month",
-  "proposedAt": "2026-09-23T14:54:11.490Z",
+  "proposedAt": "2026-10-03T09:55:06.987Z",
   "papers": [
     {
-      "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
-      "link": "https://arxiv.org/abs/2609.05022",
-      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology"
+      "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
+      "link": "https://arxiv.org/abs/2609.21362",
+      "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining"
     },
     {
-      "id": "eeec59a39c5ed0d7d65b07cccaaba87c1e36cfe4",
-      "link": "https://arxiv.org/abs/2609.01151",
-      "title": "Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining"
+      "id": "7947b189079448a45ed8df523a27407a68ec2c02",
+      "link": "https://arxiv.org/abs/2609.15528",
+      "title": "To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs"
     },
     {
-      "id": "6bc2b78827134ed7c62321b4e18f026f2ec7691f",
-      "link": "https://arxiv.org/abs/2608.27658",
-      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages"
+      "id": "40e9d947d7cac4a784f6d21525eece44c2aec2e6",
+      "link": "https://arxiv.org/abs/2609.28386",
+      "title": "Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models"
     },
     {
-      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
-      "link": "https://arxiv.org/abs/2608.26449",
-      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+      "id": "f4e094fe1b1c37966b015b6d8312e99276a71cf0",
+      "link": "https://arxiv.org/abs/2609.35869",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction"
+    },
+    {
+      "id": "ab31e4f48407ac42d0ea5e49d18ffb35ff3929e6",
+      "link": "https://doi.org/10.3390/electronics15184236",
+      "title": "Root, Suffix, or Byte? A Reproducible Study of Sub Word Tokenization for a Morphologically Rich Language (Russian)"
     }
   ]
 }
