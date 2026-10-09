@@ -26,3 +26,69 @@ https://arxiv.org/abs/2608.27658
 # Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
 #   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 5 in your list
 https://arxiv.org/abs/2608.26449
+
+# --- Second Tokenization Workshop @ COLM 2026 (accepted papers) ---
+
+# Tokenisation via Convex Relaxations
+https://arxiv.org/abs/2605.22821
+
+# Compute Optimal Tokenization
+https://arxiv.org/abs/2605.01188
+
+# Writing-System-Level Tokenizer Adaptation for Byte-Level BPE
+https://arxiv.org/abs/2608.00582
+
+# Defragmenting Language Models: An Interpretability-based Approach for Vocabulary Expansion
+https://arxiv.org/abs/2604.16656
+
+# Tokenizing Numerical and Embedding Features for LLM RecSys
+https://arxiv.org/abs/2607.10016
+
+# Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens
+https://arxiv.org/abs/2604.26355
+
+# A Pilot Study of Autocompleting Tokenizers
+https://arxiv.org/abs/2608.15080
+
+# Model-Aware Tokenizer Transfer
+https://arxiv.org/abs/2510.21954
+
+# Transducing Language Models
+https://arxiv.org/abs/2603.05193
+
+# Pretraining Language Models with Subword Regularization: An Empirical Study of BPE Dropout in Low-Resource NLP
+https://arxiv.org/abs/2605.13436
+
+# Disentangling Language Modeling and Boundaries
+https://arxiv.org/abs/2608.03599
+
+# Joint Optimization for Greedy Longest-match Tokenization
+https://arxiv.org/abs/2607.23362
+
+# Objective vs. Search: Decomposing What Makes a Good Tokeniser
+https://arxiv.org/abs/2609.19145
+
+# Not on Semantic Scholar yet; the run retries these and fills them in.
+What If Chinese Were Latinized? A Counterfactual Study of Script, Tokenization, and Language Modeling
+Beyond Frequency: Output-Vocabulary Pruning by Log-Mass Maximization
+Reading a Word Two Ways: A Learned Gate over Tokenization Layouts for Frozen Language Models
+Byte-Level Tokenizer Transfer with Auxiliary Objectives
+Reframing Language Segmentation: Generalizing Past Tokenizers
+Byte n-gram Encoding
+BBT: BPE-Guided Byte Transformer
+Is Tokenizer Cognitive Plausibility just Fertility?
+Do Foundation Model Image Embeddings Capture Radiological Semantics in CT Lung Nodules?
+Disentangling Tokenizer Confounds in Bilingual Transfer Estimates
+Less Is More: Reducing Token Counts Without Compromising Performance
+Beyond Metric Stability: Interface-Preserving Token Halting and Fusion
+CortexMem: Brain-Guided Event Memory for Persistent Context in Language Models
+Fewer Transformer Positions, Same Subword Evidence: Word-Level Fusion for Multilingual Tokenization
+Compression, Lexical Alignment, and Segmentation Similarity of Tokenizers Across Programming Languages
+Comparative Study of Tokenizer Replacement, Embedding Initialization, and Continued Pretraining for LLM Language Adaptation
+What Makes an Encoding Good for Language Modeling?
+Tokenisers Matter: Evaluating Bias in Multilingual and Persian-Specific Language Models
+Dynamic Image Tokenization for Efficient VLMs
+Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matters for Multilingual Language Models
+Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
+A Call for an Open Tokenizer Benchmark
+What Do We Talk About When We Talk About Tokenization?
