@@ -92,3 +92,44 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- past year ---
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=5) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2605.19632
+
+# Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter
+#   Rima Mittal (h=1) · 2026 · 1 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2608.11361
+
+# Dynamic tokenization in the Transformer era: A review and taxonomy
+#   Bagher Babaali (h=5) · University of Tehran · 2026 · 0 citations · past year · cites 5 in your list
+https://doi.org/10.1016/j.patcog.2026.114439
+
+# You Can Learn Tokenization End-to-End with Reinforcement Learning
+#   R. Wattenhofer (h=27) · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2602.13940
+
+# SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models
+#   Hua-Jin Tang (h=12) · Zhejiang University · 2026 · 0 citations · past year · cites 3 in your list
+https://doi.org/10.18653/v1/2026.acl-long.451
+
+# Effective Context in Transformers: An Analysis of Fragmentation and Tokenization
+#   Aslan Tchamkerten (h=15) · 2026 · 1 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2605.13485
+
+# Language Models are not Equally Robust to Non-Canonical Tokenization across Languages
+#   P. Jyothi (h=22) · Indian Institute of Technology Bombay · 2026 · 2 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2607.26831
+
+# Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago
+#   Hokky Situngkir (h=14) · Surya University · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2602.06998
+
+# MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts
+#   Antonio Vergari (h=26) · University of Edinburgh · 2026 · 1 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2604.11575
+
+# Contextual morphologically-guided tokenization for Latin encoder models
+#   Marisa Hudspeth (h=3) · Rhodes College · 2025 · 1 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2511.09709
