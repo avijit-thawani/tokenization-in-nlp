@@ -92,3 +92,44 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- most connected ---
+# How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
+#   Iryna Gurevych (h=85) · Cohere · 2020 · 474 citations · cited by 34 in your list
+https://arxiv.org/abs/2012.15613
+
+# Tokenization Is More Than Compression
+#   Yuval Pinter (h=21) · Ben-Gurion University of the Negev · 2024 · 122 citations · cites 9 in your list
+https://arxiv.org/abs/2402.18376
+
+# BPE-Dropout: Simple and Effective Subword Regularization
+#   Elena Voita (h=15) · University of Edinburgh · 2019 · 362 citations · cited by 28 in your list
+https://arxiv.org/abs/1910.13267
+
+# Enhancing Large Language Models through Adaptive Tokenizers
+#   Hanting Chen (h=29) · 2024 · 11 citations · cites 7 in your list
+https://doi.org/10.52202/079017-3608
+
+# Subword-Delimited Downsampling for Better Character-Level Translation
+#   Gertjan van Noord (h=37) · 2022 · 8 citations · cites 5 in your list
+https://arxiv.org/abs/2212.01304
+
+# Greed is All You Need: An Evaluation of Tokenizer Inference Methods
+#   Yuval Pinter (h=21) · Ben-Gurion University of the Negev · 2024 · 42 citations · cites 10 in your list
+https://arxiv.org/abs/2403.01289
+
+# Beyond Text Compression: Evaluating Tokenizers Across Scales
+#   Jonas F. Lotz (h=7) · University of Copenhagen · 2025 · 13 citations · cites 11 in your list
+https://arxiv.org/abs/2506.03101
+
+# Dynamic Chunking for End-to-End Hierarchical Sequence Modeling
+#   Brandon Wang (h=5) · 2025 · 81 citations · cites 10 in your list
+https://arxiv.org/abs/2507.07955
+
+# MrT5: Dynamic Token Merging for Efficient Byte-level Language Models
+#   Shikhar Murty (h=14) · Stanford University · 2024 · 30 citations · cites 10 in your list
+https://arxiv.org/abs/2410.20771
+
+# Byte Latent Transformer: Patches Scale Better Than Tokens
+#   Ramakanth Pasunuru (h=27) · Meta FAIR Labs · 2024 · 178 citations · cited by 23 in your list
+https://arxiv.org/abs/2412.09871
