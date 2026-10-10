@@ -10,85 +10,47 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
-# --- past month ---
-# MoirfEolas and Cr\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology
-#   Elaine Uí Dhonnchadha (h=8) · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2609.05022
-
-# Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining
-#   Francois Meyer (h=3) · 2026 · 0 citations · past month · cites 3 in your list
-https://arxiv.org/abs/2609.01151
-
-# When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages
-#   Nikolaos Aletras (h=30) · University of Sheffield · 2026 · 0 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.27658
-
-# Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
-#   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 5 in your list
-https://arxiv.org/abs/2608.26449
-
-# --- Second Tokenization Workshop @ COLM 2026 (accepted papers) ---
-
-# Tokenisation via Convex Relaxations
-https://arxiv.org/abs/2605.22821
-
-# Compute Optimal Tokenization
-https://arxiv.org/abs/2605.01188
-
-# Writing-System-Level Tokenizer Adaptation for Byte-Level BPE
-https://arxiv.org/abs/2608.00582
-
-# Defragmenting Language Models: An Interpretability-based Approach for Vocabulary Expansion
-https://arxiv.org/abs/2604.16656
-
-# Tokenizing Numerical and Embedding Features for LLM RecSys
-https://arxiv.org/abs/2607.10016
-
-# Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens
-https://arxiv.org/abs/2604.26355
-
-# A Pilot Study of Autocompleting Tokenizers
-https://arxiv.org/abs/2608.15080
-
-# Model-Aware Tokenizer Transfer
-https://arxiv.org/abs/2510.21954
-
-# Transducing Language Models
-https://arxiv.org/abs/2603.05193
-
-# Pretraining Language Models with Subword Regularization: An Empirical Study of BPE Dropout in Low-Resource NLP
-https://arxiv.org/abs/2605.13436
-
-# Disentangling Language Modeling and Boundaries
-https://arxiv.org/abs/2608.03599
-
-# Joint Optimization for Greedy Longest-match Tokenization
-https://arxiv.org/abs/2607.23362
-
-# Objective vs. Search: Decomposing What Makes a Good Tokeniser
-https://arxiv.org/abs/2609.19145
-
-# Not on Semantic Scholar yet; the run retries these and fills them in.
 What If Chinese Were Latinized? A Counterfactual Study of Script, Tokenization, and Language Modeling
-Beyond Frequency: Output-Vocabulary Pruning by Log-Mass Maximization
-Reading a Word Two Ways: A Learned Gate over Tokenization Layouts for Frozen Language Models
 Byte-Level Tokenizer Transfer with Auxiliary Objectives
-Reframing Language Segmentation: Generalizing Past Tokenizers
 Byte n-gram Encoding
-BBT: BPE-Guided Byte Transformer
-Is Tokenizer Cognitive Plausibility just Fertility?
+Beyond Frequency: Output-Vocabulary Pruning by Log-Mass Maximization
+Reframing Language Segmentation: Generalizing Past Tokenizers
+Reading a Word Two Ways: A Learned Gate over Tokenization Layouts for Frozen Language Models
 Do Foundation Model Image Embeddings Capture Radiological Semantics in CT Lung Nodules?
-Disentangling Tokenizer Confounds in Bilingual Transfer Estimates
-Less Is More: Reducing Token Counts Without Compromising Performance
+BBT: BPE-Guided Byte Transformer
 Beyond Metric Stability: Interface-Preserving Token Halting and Fusion
+Is Tokenizer Cognitive Plausibility just Fertility?
+Less Is More: Reducing Token Counts Without Compromising Performance
+Disentangling Tokenizer Confounds in Bilingual Transfer Estimates
+Comparative Study of Tokenizer Replacement, Embedding Initialization, and Continued Pretraining for LLM Language Adaptation
 CortexMem: Brain-Guided Event Memory for Persistent Context in Language Models
 Fewer Transformer Positions, Same Subword Evidence: Word-Level Fusion for Multilingual Tokenization
-Compression, Lexical Alignment, and Segmentation Similarity of Tokenizers Across Programming Languages
-Comparative Study of Tokenizer Replacement, Embedding Initialization, and Continued Pretraining for LLM Language Adaptation
 What Makes an Encoding Good for Language Modeling?
 Tokenisers Matter: Evaluating Bias in Multilingual and Persian-Specific Language Models
-Dynamic Image Tokenization for Efficient VLMs
+Compression, Lexical Alignment, and Segmentation Similarity of Tokenizers Across Programming Languages
 Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matters for Multilingual Language Models
+Dynamic Image Tokenization for Efficient VLMs
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
-A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+A Call for an Open Tokenizer Benchmark
+
+# --- past month ---
+# The Price of Token Boundaries: Compression Certificates and Prediction
+#   Shu-Nian Chen (h=17) · Chinese University of Hong Kong, Shenzhen · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2609.35869
+
+# Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining
+#   N. Nguyen (h=20) · University of Information Technology, Vietnam National University, Ho Chi Minh city, Vietnam · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.21362
+
+# To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs
+#   François Yvon (h=7) · Centre National de la Recherche Scientifique · 2026 · 0 citations · past month · cites 7 in your list
+https://arxiv.org/abs/2609.15528
+
+# Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models
+#   Michael A. White (h=15) · Washington University in St. Louis · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.28386
+
+# Root, Suffix, or Byte? A Reproducible Study of Sub Word Tokenization for a Morphologically Rich Language (Russian)
+#   Sabina Umirzakova (h=21) · Kimyo International University in Tashkent · 2026 · 0 citations · past month · cites 4 in your list
+https://doi.org/10.3390/electronics15184236
