@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T10:40:17.463Z",
+  "updatedAt": "2026-10-11T10:52:54.630Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 798,
+      "citationCount": 799,
       "referenceCount": 68,
-      "influentialCitationCount": 100,
+      "influentialCitationCount": 101,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -2945,7 +2945,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9106,
+      "citationCount": 9107,
       "referenceCount": 40,
       "influentialCitationCount": 1075,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4346,
+      "citationCount": 4349,
       "referenceCount": 16,
       "influentialCitationCount": 276,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3133,7 +3133,7 @@
       "title": "Explaining and Mitigating Crosslingual Tokenizer Inequities",
       "authors": [
         "Catherine Arnett",
-        "Tyler Chang",
+        "Tyler A. Chang",
         "Stella Biderman",
         "Benjamin K. Bergen"
       ],
