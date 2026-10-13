@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T12:11:34.376Z",
+  "updatedAt": "2026-10-13T11:53:43.067Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -1278,7 +1278,7 @@
       "url": "https://www.semanticscholar.org/paper/4d6f9558ccfd712e2ef0921a7cb6625698c3cb0c",
       "doi": "10.1007/s11063-022-10990-8",
       "arxivId": "2106.07540",
-      "pdf": "http://arxiv.org/pdf/2106.07540",
+      "pdf": "https://arxiv.org/pdf/2106.07540",
       "citationCount": 64,
       "referenceCount": 65,
       "influentialCitationCount": 2,
@@ -1742,7 +1742,7 @@
       "doi": "10.48550/arXiv.2305.07185",
       "arxivId": "2305.07185",
       "pdf": "http://arxiv.org/pdf/2305.07185",
-      "citationCount": 200,
+      "citationCount": 201,
       "referenceCount": 47,
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -1819,7 +1819,7 @@
       "doi": "10.18653/v1/2022.insights-1.24",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2022.insights-1.24.pdf",
-      "citationCount": 8,
+      "citationCount": 9,
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -1974,7 +1974,7 @@
       "doi": "10.48550/arXiv.2306.16837",
       "arxivId": "2306.16837",
       "pdf": "http://arxiv.org/pdf/2306.16837",
-      "citationCount": 65,
+      "citationCount": 66,
       "referenceCount": 22,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
@@ -2830,7 +2830,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1437,
+      "citationCount": 1438,
       "referenceCount": 36,
       "influentialCitationCount": 159,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2870,7 +2870,7 @@
       "doi": "10.48550/arXiv.2310.11628",
       "arxivId": "2310.11628",
       "pdf": null,
-      "citationCount": 13,
+      "citationCount": 14,
       "referenceCount": 34,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2310.11628",
@@ -2945,9 +2945,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9109,
+      "citationCount": 9112,
       "referenceCount": 40,
-      "influentialCitationCount": 1075,
+      "influentialCitationCount": 1076,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3014,7 +3014,7 @@
       "doi": "10.48550/arXiv.2404.14408",
       "arxivId": "2404.14408",
       "pdf": null,
-      "citationCount": 36,
+      "citationCount": 37,
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2404.14408",
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4350,
+      "citationCount": 4352,
       "referenceCount": 16,
       "influentialCitationCount": 276,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -4740,6 +4740,41 @@
       "source": "https://arxiv.org/abs/2609.19145",
       "addedAt": "2026-10-09",
       "score": 3.1746031746031744
+    },
+    {
+      "id": "48a7bc6b2fa259e97b8726ae0e369a82432fc51c",
+      "title": "What do we talk about when we talk about extractivism?",
+      "authors": [
+        "Imre Szeman",
+        "Jennifer Wenzel"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jennifer Wenzel",
+          "hIndex": 29,
+          "authorId": "47420554"
+        },
+        {
+          "name": "Imre Szeman",
+          "hIndex": 20,
+          "authorId": "73232376"
+        }
+      ],
+      "affiliations": [],
+      "year": 2021,
+      "venue": null,
+      "publicationDate": "2021-03-04",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/48a7bc6b2fa259e97b8726ae0e369a82432fc51c",
+      "doi": "10.1080/0950236X.2021.1889829",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 57,
+      "referenceCount": 26,
+      "influentialCitationCount": 1,
+      "source": "What Do We Talk About When We Talk About Tokenization?",
+      "addedAt": "2026-10-13",
+      "score": 0
     }
   ]
 }

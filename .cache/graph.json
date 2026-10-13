@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T12:11:34.382Z",
+  "updatedAt": "2026-10-13T11:53:43.073Z",
   "graph": {
     "23f4b6432b74e5db05da04e354341807f5044f7e": {
       "fetchedAt": "2026-09-30",
@@ -27636,6 +27636,73 @@
     "counts:216e48f86a3db9a4f006473048f60ced34cf7d60": {
       "citationCount": 16,
       "fetchedAt": "2026-10-09"
+    },
+    "48a7bc6b2fa259e97b8726ae0e369a82432fc51c": {
+      "fetchedAt": "2026-10-13",
+      "citedBy": [
+        "a3e891a01bf11ad832ea27bed556b6fecc2979d3",
+        "864c45336ca0b8e7af85f5d3439c8f803e9d1e4d",
+        "d377d4b531c9a03024fc629a7b850440ffe4d761",
+        "3512f50fe9f3309cf4bc545394c95112ae5bf72c",
+        "7c68c4169da277de566071351f83678eb1748520",
+        "34cecb5c704bb2c4324e1f75e856853a50076e21",
+        "51d4595fc732fbfc85a162b6b6f4f4b61b90782d",
+        "cc5159dec42f3c65b36f96c72262e8a987cf94d0",
+        "e8d5be4a57572c46e534fd2c524dee1072a16ca7",
+        "2dfbbc4518ec381a9a91f942715d3afcc9e02fc6",
+        "30a6311ae6bf9cc6f2844ce5763cf7e5b1cae7db",
+        "7d073de5e20f18ecf8ab80f00474389a9da19cde",
+        "dbe73922f3e0c58a4d1ddc2db815871f1bc0f195",
+        "536186a0de0328398910a2859a7bed77b33c01b3",
+        "e9f1e4332a40aa5f3cf35f033a9c3fb64de64a74",
+        "c925973143783c0e728ab85852d15db983ed6c43",
+        "b071d6803b76bbe7d6098306fb6f87039d62e0e5",
+        "006b1a99a991db24274222258e2e540b42bb4b38",
+        "1ddec192964f70524d9a29dad50ebd3e723a1b09",
+        "601f3c42abcbe14cc6130fc3d2bd677732ec04dc",
+        "a1daf4611a31a3644cb0564133f4c112cd75acd7",
+        "7ed03b9aa7c76028d128db185c6483a65e4f8dbf",
+        "e69b7378a729ca95e7a09b277ccba74630626764",
+        "17a135a1b594f7c97f7d4dbf71684cc1a57089d5",
+        "48c7cf36550cfedc6bbe69bb60da122d75fc1b40",
+        "b2c7fb5d9fa085acae0771b7777ab18286591f27",
+        "f18fd81e13f461b85a17e42f05d84b4fd3bb9ccb",
+        "d5a999b9b6b6e098e375f29d3b25c46672009f1a",
+        "885111ae206f7a773eede2bf83621abfd120e2ac",
+        "eedf902594dc2d2e3724687993368eeec5d5f326",
+        "8c87d186945c8d8be09542863e44d53ffa601b64",
+        "72d9a4e38a6280c8b061b0d4cbb11d7933fca039",
+        "f81172c3e1be018e35a4b8466cfac9131a402cfe",
+        "102077010f59ec039305ebe9582408dedc804703",
+        "d601060fcb5b438e448bf53eff08e03603d64370",
+        "5108ca3a223dc43af5adeda21cf4a0fa5a029edf",
+        "42f20342cc61d5abbb4200a9f4423af02e7d9438",
+        "8ab1b8d74986e945f1c3d49cd92f52cd05d5cad8",
+        "0640b1dfd6daf991ad7558371b2c787e06a1a381",
+        "47bd88d30bd09760c993e04886dc54bc138916e0",
+        "a98a2d03a0a9b7a1af9444bcd7772077e8ed36e8",
+        "5a7642f03ad35f9becc5fe0aba45f14153dcb7e1",
+        "2c08b616e8fc19f7d196c7f3442aff47bc277891",
+        "582e774c526828bf861868193f008f85f8e6330c",
+        "7dc193cfe8545035e97b9d3dbbc44465cb96f4d9",
+        "60d343c44101da6f7027de0da9f54a5866197900",
+        "dd83c5272aa087c84f10aa5ee867bd76a3bf40e0",
+        "d9fc7eaca1b6f5211d89a7e25b4a2ff573d0fb6d",
+        "8e046c83273b80b83cb2c978ea4315e6f29627a1",
+        "6aa13a89df592413733f9ce7ac488aaab0591f9b",
+        "74f69bb53db7583cc0a071a5390d6635303ac5fc",
+        "8ba7d61bf7267b6047e47bf0ab724d9267afb941",
+        "c18881841426ddb3dae898722f0f833027f6a5e2",
+        "a6f23f3f330960bf8ca71bdc18ee5662bfc5df85",
+        "60b3d1cd4c1369ddeda982400da7dea608711def",
+        "d1e0dbd90d26ce084ee0621451d8b77e17d5d874",
+        "fad3a311e666e47c14ed1b56aa6220f7770963c3"
+      ],
+      "cites": [],
+      "citedByStrong": [
+        "e8d5be4a57572c46e534fd2c524dee1072a16ca7"
+      ],
+      "citesStrong": []
     }
   }
 }
