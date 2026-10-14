@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:53:43.067Z",
+  "updatedAt": "2026-10-14T09:34:56.013Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -66,7 +66,7 @@
         },
         {
           "name": "Sebastian Ruder",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "2884561"
         }
       ],
@@ -106,7 +106,7 @@
         },
         {
           "name": "Jacob Eisenstein",
-          "hIndex": 56,
+          "hIndex": 55,
           "authorId": "144154709"
         }
       ],
@@ -304,7 +304,7 @@
         },
         {
           "name": "Dan Garrette",
-          "hIndex": 23,
+          "hIndex": 25,
           "authorId": "2758616"
         }
       ],
@@ -375,7 +375,7 @@
       "topAuthors": [
         {
           "name": "Masaaki Nagata",
-          "hIndex": 33,
+          "hIndex": 34,
           "authorId": "2364073"
         },
         {
@@ -481,7 +481,7 @@
       "doi": null,
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 239,
+      "citationCount": 240,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
@@ -882,12 +882,12 @@
       "topAuthors": [
         {
           "name": "Mohit Bansal",
-          "hIndex": 88,
+          "hIndex": 89,
           "authorId": "143977268"
         },
         {
           "name": "Vishrav Chaudhary",
-          "hIndex": 33,
+          "hIndex": 34,
           "authorId": "113810201"
         }
       ],
@@ -961,7 +961,7 @@
       "topAuthors": [
         {
           "name": "Matthias Gallé",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2907260"
         }
       ],
@@ -1108,7 +1108,7 @@
       "topAuthors": [
         {
           "name": "Jan Buys",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "144685020"
         },
         {
@@ -1300,7 +1300,7 @@
       "topAuthors": [
         {
           "name": "Gustavo Aguilar",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "46402847"
         },
         {
@@ -1339,7 +1339,7 @@
       "topAuthors": [
         {
           "name": "Gertjan van Noord",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "143715131"
         },
         {
@@ -1497,7 +1497,7 @@
         },
         {
           "name": "Aline Villavicencio",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2113791974"
         }
       ],
@@ -1646,7 +1646,7 @@
       "topAuthors": [
         {
           "name": "Elie Bursztein",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "1687723"
         },
         {
@@ -1682,7 +1682,7 @@
       "topAuthors": [
         {
           "name": "Gertjan van Noord",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "143715131"
         },
         {
@@ -1742,7 +1742,7 @@
       "doi": "10.48550/arXiv.2305.07185",
       "arxivId": "2305.07185",
       "pdf": "http://arxiv.org/pdf/2305.07185",
-      "citationCount": 201,
+      "citationCount": 202,
       "referenceCount": 47,
       "influentialCitationCount": 11,
       "source": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -1845,7 +1845,7 @@
         },
         {
           "name": "Clara Meister",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "150953620"
         }
       ],
@@ -1958,7 +1958,7 @@
         },
         {
           "name": "Clara Meister",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "150953620"
         }
       ],
@@ -2076,7 +2076,7 @@
       "topAuthors": [
         {
           "name": "E. Ponti",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "3381663"
         },
         {
@@ -2164,7 +2164,7 @@
         },
         {
           "name": "L. Zettlemoyer",
-          "hIndex": 7,
+          "hIndex": 9,
           "authorId": "2364685144"
         }
       ],
@@ -2197,7 +2197,7 @@
       "topAuthors": [
         {
           "name": "Daniel Jurafsky",
-          "hIndex": 26,
+          "hIndex": 27,
           "authorId": "2259379929"
         },
         {
@@ -2639,7 +2639,7 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "150953620"
         },
         {
@@ -2706,12 +2706,12 @@
       "topAuthors": [
         {
           "name": "E. Grave",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "3024698"
         },
         {
           "name": "Myle Ott",
-          "hIndex": 36,
+          "hIndex": 38,
           "authorId": "40511414"
         }
       ],
@@ -2887,7 +2887,7 @@
       "topAuthors": [
         {
           "name": "Greg Durrett",
-          "hIndex": 50,
+          "hIndex": 51,
           "authorId": "1814094"
         },
         {
@@ -2930,7 +2930,7 @@
         },
         {
           "name": "B. Haddow",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "2259100"
         }
       ],
@@ -3036,7 +3036,7 @@
         },
         {
           "name": "John Richardson",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "2113584859"
         }
       ],
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4352,
+      "citationCount": 4354,
       "referenceCount": 16,
       "influentialCitationCount": 276,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3067,13 +3067,13 @@
       "topAuthors": [
         {
           "name": "David Jurgens",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "2315933135"
         },
         {
-          "name": "Anna Wegmann",
-          "hIndex": 4,
-          "authorId": "17114743"
+          "name": "Dong Nguyen",
+          "hIndex": 6,
+          "authorId": "2296566209"
         }
       ],
       "affiliations": [],
@@ -3145,7 +3145,7 @@
         },
         {
           "name": "Catherine Arnett",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2257347764"
         }
       ],
@@ -3260,7 +3260,7 @@
       "topAuthors": [
         {
           "name": "Anya Sims",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2284762450"
         },
         {
@@ -3298,7 +3298,7 @@
       "topAuthors": [
         {
           "name": "Ari Holtzman",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "2257034335"
         },
         {
@@ -3445,7 +3445,7 @@
       "topAuthors": [
         {
           "name": "D. Africa",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2374486683"
         },
         {
@@ -3479,7 +3479,7 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "150953620"
         }
       ],
@@ -3509,7 +3509,7 @@
       "topAuthors": [
         {
           "name": "Parameswari Krishnamurthy",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2265758072"
         },
         {
@@ -3549,9 +3549,9 @@
           "authorId": "2175481435"
         },
         {
-          "name": "Ran Zhang",
-          "hIndex": 0,
-          "authorId": "2473199062"
+          "name": "Miryam de Lhoneux",
+          "hIndex": 3,
+          "authorId": "2507581430"
         }
       ],
       "affiliations": [
@@ -3621,7 +3621,7 @@
       "topAuthors": [
         {
           "name": "Catherine Arnett",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2257347764"
         },
         {
@@ -4053,7 +4053,7 @@
         },
         {
           "name": "Eric Villemonte de la Clergerie",
-          "hIndex": 22,
+          "hIndex": 25,
           "authorId": "1400417301"
         }
       ],
@@ -4375,7 +4375,7 @@
       "topAuthors": [
         {
           "name": "Vivek Srikumar",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "3052879"
         },
         {
@@ -4425,7 +4425,7 @@
         },
         {
           "name": "Chiyu Zhang",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "50445559"
         }
       ],
@@ -4570,14 +4570,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Ryan Cotterell",
+          "hIndex": 16,
+          "authorId": "2295665129"
+        },
+        {
           "name": "Tim Vieira",
           "hIndex": 16,
           "authorId": "2396787"
-        },
-        {
-          "name": "Ryan Cotterell",
-          "hIndex": 15,
-          "authorId": "2295665129"
         }
       ],
       "affiliations": [
@@ -4716,7 +4716,7 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "150953620"
         },
         {

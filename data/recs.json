@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:53:43.067Z",
+  "updatedAt": "2026-10-14T09:34:56.013Z",
   "recs": [
     {
       "id": "7eecc270108272dd16345fc7ec2dc84079bedbf0",
@@ -37,7 +37,7 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
       "score": 95.78419915055456,
@@ -82,10 +82,10 @@
       "referenceCount": 31,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 9,
       "direction": "forward",
-      "score": 74.444061074942,
+      "score": 74.43595280850126,
       "why": "past month · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -104,12 +104,12 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "150953620"
         },
         {
           "name": "Antoine Bosselut",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "2284866282"
         }
       ],
@@ -126,10 +126,10 @@
       "referenceCount": 46,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 4,
       "direction": "forward",
-      "score": 70.04961428480955,
+      "score": 70.15429801247912,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -176,59 +176,11 @@
       "referenceCount": 23,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
       "score": 49.02644708554223,
       "why": "past month · cites 5 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month",
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/past-month"
-    },
-    {
-      "id": "7947b189079448a45ed8df523a27407a68ec2c02",
-      "title": "To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs",
-      "authors": [
-        "Franck Signe",
-        "Hippolyte Pilchen",
-        "François Yvon",
-        "Edouard Grave"
-      ],
-      "topAuthors": [
-        {
-          "name": "François Yvon",
-          "hIndex": 7,
-          "authorId": "146762255"
-        },
-        {
-          "name": "Edouard Grave",
-          "hIndex": 3,
-          "authorId": "2324057480"
-        }
-      ],
-      "affiliations": [
-        "Centre National de la Recherche Scientifique",
-        "Institut polytechnique de Grenoble"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-14",
-      "summary": "This work proposes methods to learn large modular BPE and Unigram tokenizers that enable extraction of subtokenizers tailored to any language subset, and designs a pretraining strategy that samples subtokenizers to form batches, allowing efficient training despite a large vocabulary.",
-      "url": "https://www.semanticscholar.org/paper/7947b189079448a45ed8df523a27407a68ec2c02",
-      "doi": null,
-      "arxivId": "2609.15528",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 61,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-13",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 46.62836079041137,
-      "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/56",
@@ -261,7 +213,7 @@
       "referenceCount": 16,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 3,
       "direction": "forward",
       "score": 44.15846415964092,
@@ -306,10 +258,10 @@
       "referenceCount": 35,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
-      "score": 32.51499941283514,
+      "score": 32.514712728070755,
       "why": "past month · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -353,7 +305,7 @@
       "referenceCount": 21,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 4,
       "direction": "forward",
       "score": 19.29483132861247,
@@ -396,11 +348,59 @@
       "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 4,
       "direction": "forward",
       "score": 60.20666407087091,
       "why": "past year · cites 4 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "7947b189079448a45ed8df523a27407a68ec2c02",
+      "title": "To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs",
+      "authors": [
+        "Franck Signe",
+        "Hippolyte Pilchen",
+        "François Yvon",
+        "Edouard Grave"
+      ],
+      "topAuthors": [
+        {
+          "name": "François Yvon",
+          "hIndex": 7,
+          "authorId": "146762255"
+        },
+        {
+          "name": "Edouard Grave",
+          "hIndex": 3,
+          "authorId": "2324057480"
+        }
+      ],
+      "affiliations": [
+        "Centre National de la Recherche Scientifique",
+        "Institut polytechnique de Grenoble"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-14",
+      "summary": "This work proposes methods to learn large modular BPE and Unigram tokenizers that enable extraction of subtokenizers tailored to any language subset, and designs a pretraining strategy that samples subtokenizers to form batches, allowing efficient training despite a large vocabulary.",
+      "url": "https://www.semanticscholar.org/paper/7947b189079448a45ed8df523a27407a68ec2c02",
+      "doi": null,
+      "arxivId": "2609.15528",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 61,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-14",
+      "overlap": 7,
+      "direction": "forward",
+      "score": 46.62836079041137,
+      "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
@@ -440,10 +440,10 @@
       "referenceCount": 12,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 3,
       "direction": "forward",
-      "score": 41.10689224352919,
+      "score": 41.10662866652699,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -486,7 +486,7 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
       "score": 37.00557501853371,
@@ -507,7 +507,7 @@
       "topAuthors": [
         {
           "name": "R. Wattenhofer",
-          "hIndex": 27,
+          "hIndex": 28,
           "authorId": "2075356250"
         },
         {
@@ -529,10 +529,10 @@
       "referenceCount": 36,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
-      "score": 34.587745063784254,
+      "score": 34.62582864622929,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -581,7 +581,7 @@
       "referenceCount": 52,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 3,
       "direction": "forward",
       "score": 34.15701936083001,
@@ -625,10 +625,10 @@
       "referenceCount": 30,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 7,
       "direction": "forward",
-      "score": 32.808434911125396,
+      "score": 32.800363494816985,
       "why": "past year · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -651,7 +651,7 @@
         },
         {
           "name": "Poulami Ghosh",
-          "hIndex": 1,
+          "hIndex": 2,
           "authorId": "2295672795"
         }
       ],
@@ -670,10 +670,10 @@
       "referenceCount": 28,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 4,
       "direction": "forward",
-      "score": 32.78592995185319,
+      "score": 32.78563923430708,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -716,10 +716,10 @@
       "referenceCount": 39,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
-      "score": 32.37562025393277,
+      "score": 32.36941705323952,
       "why": "past year · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -740,7 +740,7 @@
       "topAuthors": [
         {
           "name": "Antonio Vergari",
-          "hIndex": 26,
+          "hIndex": 27,
           "authorId": "14341992"
         },
         {
@@ -764,58 +764,11 @@
       "referenceCount": 55,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 5,
       "direction": "forward",
-      "score": 32.18671437665005,
+      "score": 32.230892594641816,
       "why": "past year · cites 5 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
-      "batchPrNumber": 54,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "0985e8bd406ac046010ab6e830d46792f6b80353",
-      "title": "Contextual morphologically-guided tokenization for Latin encoder models",
-      "authors": [
-        "Marisa Hudspeth",
-        "Patrick J. Burns",
-        "Brendan O'Connor"
-      ],
-      "topAuthors": [
-        {
-          "name": "Marisa Hudspeth",
-          "hIndex": 3,
-          "authorId": "2142822385"
-        },
-        {
-          "name": "Patrick J. Burns",
-          "hIndex": 2,
-          "authorId": "2282028896"
-        }
-      ],
-      "affiliations": [
-        "Rhodes College",
-        "University of Massachusetts Amherst"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-11-12",
-      "summary": "This work investigates morphologically-aware tokenization for Latin, a morphologically rich language that is medium-resource in terms of pretraining data, but high-resource in terms of curated lexical resources -- a distinction that is often overlooked but critical in discussions of low-resource language modeling.",
-      "url": "https://www.semanticscholar.org/paper/0985e8bd406ac046010ab6e830d46792f6b80353",
-      "doi": "10.48550/arXiv.2511.09709",
-      "arxivId": "2511.09709",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 61,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-13",
-      "overlap": 6,
-      "direction": "forward",
-      "score": 31.3609118322456,
-      "why": "past year · cites 6 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/54",
@@ -840,7 +793,7 @@
         },
         {
           "name": "Sebastian Ruder",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "2884561"
         }
       ],
@@ -860,7 +813,7 @@
       "referenceCount": 97,
       "influentialCitationCount": 46,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 34,
       "direction": "backward",
       "score": 100,
@@ -881,7 +834,7 @@
       "topAuthors": [
         {
           "name": "Elena Voita",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "46235299"
         },
         {
@@ -905,10 +858,10 @@
       "referenceCount": 30,
       "influentialCitationCount": 62,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 28,
       "direction": "backward",
-      "score": 93.73018744717487,
+      "score": 93.98988901729139,
       "why": "cited by 28 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -954,10 +907,10 @@
       "referenceCount": 56,
       "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 9,
       "direction": "forward",
-      "score": 90.59497070318776,
+      "score": 90.63300386969922,
       "why": "cites 9 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -986,7 +939,7 @@
       "topAuthors": [
         {
           "name": "Ramakanth Pasunuru",
-          "hIndex": 27,
+          "hIndex": 29,
           "authorId": "10721120"
         },
         {
@@ -1010,10 +963,10 @@
       "referenceCount": 0,
       "influentialCitationCount": 20,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 23,
       "direction": "backward",
-      "score": 79.88981850791023,
+      "score": 80.04332418319724,
       "why": "cited by 23 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1032,7 +985,7 @@
       "topAuthors": [
         {
           "name": "P. Torr",
-          "hIndex": 115,
+          "hIndex": 116,
           "authorId": "143635540"
         },
         {
@@ -1056,10 +1009,10 @@
       "referenceCount": 117,
       "influentialCitationCount": 33,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 23,
       "direction": "backward",
-      "score": 78.34372750469448,
+      "score": 78.37661741028401,
       "why": "cited by 23 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1082,7 +1035,7 @@
         },
         {
           "name": "Sebastian Ruder",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "2884561"
         }
       ],
@@ -1101,10 +1054,10 @@
       "referenceCount": 39,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 14,
       "direction": "backward",
-      "score": 77.7670094031142,
+      "score": 77.7996571935464,
       "why": "cited by 14 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
@@ -1121,12 +1074,12 @@
       "topAuthors": [
         {
           "name": "Mike Schuster",
-          "hIndex": 19,
+          "hIndex": 20,
           "authorId": "144927151"
         },
         {
           "name": "Kaisuke Nakajima",
-          "hIndex": 4,
+          "hIndex": 6,
           "authorId": "2890161"
         }
       ],
@@ -1145,11 +1098,61 @@
       "referenceCount": 7,
       "influentialCitationCount": 61,
       "source": null,
-      "addedAt": "2026-10-13",
+      "addedAt": "2026-10-14",
       "overlap": 28,
       "direction": "backward",
-      "score": 75.97567299564423,
+      "score": 76.15008205787855,
       "why": "cited by 28 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
+      "batchPrNumber": 53,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "17fbffb05fa14e21d1c506fd5f0f568b955fe983",
+      "title": "Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models",
+      "authors": [
+        "Orevaoghene Ahia",
+        "Sachin Kumar",
+        "Hila Gonen",
+        "Jungo Kasai",
+        "David R. Mortensen",
+        "Noah A. Smith",
+        "Yulia Tsvetkov"
+      ],
+      "topAuthors": [
+        {
+          "name": "Noah A. Smith",
+          "hIndex": 115,
+          "authorId": "144365875"
+        },
+        {
+          "name": "Jungo Kasai",
+          "hIndex": 34,
+          "authorId": "11348687"
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "The Ohio State University"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-05-23",
+      "summary": "This work conducts a systematic analysis of the cost and utility of OpenAI's language model API on multilingual benchmarks in 22 typologically diverse languages and shows evidence that speakers of a large number of the supported languages are overcharged while obtaining poorer results.",
+      "url": "https://www.semanticscholar.org/paper/17fbffb05fa14e21d1c506fd5f0f568b955fe983",
+      "doi": "10.48550/arXiv.2305.13707",
+      "arxivId": "2305.13707",
+      "pdf": "http://arxiv.org/pdf/2305.13707",
+      "citationCount": 263,
+      "referenceCount": 81,
+      "influentialCitationCount": 22,
+      "source": null,
+      "addedAt": "2026-10-14",
+      "overlap": 23,
+      "direction": "backward",
+      "score": 74.47456530013625,
+      "why": "cited by 23 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/tokenization-in-nlp/pull/53",
       "batchPrNumber": 53,
