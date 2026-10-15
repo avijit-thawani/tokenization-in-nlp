@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T09:34:56.013Z",
+  "updatedAt": "2026-10-15T09:24:37.217Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -36,7 +36,7 @@
       "doi": null,
       "arxivId": "2207.06991",
       "pdf": null,
-      "citationCount": 74,
+      "citationCount": 75,
       "referenceCount": 145,
       "influentialCitationCount": 8,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
@@ -87,7 +87,7 @@
       "influentialCitationCount": 20,
       "source": "https://www.semanticscholar.org/paper/e79d1206292bc5e67ba19737d87d4b2ea4a37105",
       "addedAt": "2026-09-12",
-      "score": 66.66666666666666
+      "score": 11.11111111111111
     },
     {
       "id": "9c2e4e5ee224c20a45c37244924138b50f3fe603",
@@ -160,7 +160,7 @@
       "doi": "10.18653/v1/2022.naacl-main.373",
       "arxivId": "2108.11193",
       "pdf": "https://aclanthology.org/2022.naacl-main.373.pdf",
-      "citationCount": 33,
+      "citationCount": 34,
       "referenceCount": 16,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/937b177d2ed7cee27ee45300c690f2f60c81bae5",
@@ -517,7 +517,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/d87647784c12517d31964cc508d5b8423cc24f50",
       "addedAt": "2026-09-12",
-      "score": 15.873015873015872
+      "score": 11.11111111111111
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -1209,7 +1209,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
       "addedAt": "2026-09-12",
-      "score": 31.746031746031743
+      "score": 14.285714285714285
     },
     {
       "id": "e6b73466bab5e52ce0db19dd06d9353c26557dae",
@@ -1478,7 +1478,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/7771aa7badc3375a31bfac8dc47755ff5d5c7780",
       "addedAt": "2026-09-12",
-      "score": 7.936507936507936
+      "score": 3.1746031746031744
     },
     {
       "id": "7e15af5f6b3a794167bc4dc194768b348becc5d3",
@@ -1515,7 +1515,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/17a4477765f27fe3ad037eff9e663ffc6799d7fe",
       "addedAt": "2026-09-12",
-      "score": 15.873015873015872
+      "score": 12.698412698412698
     },
     {
       "id": "373588ff1fb9f7590db000a04de8d838b1516e5a",
@@ -1866,7 +1866,7 @@
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
       "addedAt": "2026-09-12",
-      "score": 30.158730158730158
+      "score": 11.11111111111111
     },
     {
       "id": "4044c062683533d92f598715afe2508be29c739c",
@@ -2830,7 +2830,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1438,
+      "citationCount": 1440,
       "referenceCount": 36,
       "influentialCitationCount": 159,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2945,7 +2945,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9112,
+      "citationCount": 9115,
       "referenceCount": 40,
       "influentialCitationCount": 1076,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4354,
+      "citationCount": 4357,
       "referenceCount": 16,
       "influentialCitationCount": 276,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -4105,7 +4105,7 @@
       "doi": "10.18653/v1/2022.acl-long.367",
       "arxivId": "2203.08459",
       "pdf": "https://doi.org/10.18653/v1/2022.acl-long.367",
-      "citationCount": 50,
+      "citationCount": 51,
       "referenceCount": 71,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2203.08459",
@@ -4489,7 +4489,7 @@
       "id": "73ccb7129fd841ee27002c960733bff7a9a6889d",
       "title": "A Pilot Study of Autocompleting Tokenizers",
       "authors": [
-        "Samuel Wexler",
+        "Samuel S. Wexler",
         "Mark Hopkins"
       ],
       "topAuthors": [
@@ -4499,7 +4499,7 @@
           "authorId": "2008176569"
         },
         {
-          "name": "Samuel Wexler",
+          "name": "Samuel S. Wexler",
           "hIndex": 0,
           "authorId": "2458034905"
         }
@@ -4591,7 +4591,7 @@
       "doi": "10.48550/arXiv.2603.05193",
       "arxivId": "2603.05193",
       "pdf": null,
-      "citationCount": 3,
+      "citationCount": 5,
       "referenceCount": 62,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2603.05193",
