@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:58:56.813Z",
+  "updatedAt": "2026-10-19T10:09:18.120Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 804,
+      "citationCount": 805,
       "referenceCount": 68,
-      "influentialCitationCount": 101,
+      "influentialCitationCount": 102,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -244,7 +244,7 @@
       "doi": "10.18653/v1/2021.naacl-main.90",
       "arxivId": "2104.05700",
       "pdf": "https://aclanthology.org/2021.naacl-main.90.pdf",
-      "citationCount": 34,
+      "citationCount": 35,
       "referenceCount": 51,
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/3b34e79610e5acaba352def4323a59f6d531fac7",
@@ -434,7 +434,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.609",
       "arxivId": "2010.10392",
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.609.pdf",
-      "citationCount": 180,
+      "citationCount": 181,
       "referenceCount": 38,
       "influentialCitationCount": 18,
       "source": "https://www.semanticscholar.org/paper/473921de1b52f98f34f37afd507e57366ff7d1ca",
@@ -2945,9 +2945,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9122,
+      "citationCount": 9127,
       "referenceCount": 40,
-      "influentialCitationCount": 1075,
+      "influentialCitationCount": 1076,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4363,
+      "citationCount": 4364,
       "referenceCount": 16,
       "influentialCitationCount": 276,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3391,7 +3391,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.27019",
       "addedAt": "2026-09-14",
-      "score": 15.873015873015872
+      "score": 12.698412698412698
     },
     {
       "id": "84ffe3f46d3571efb8d183e04a5f0749075bc9cf",
