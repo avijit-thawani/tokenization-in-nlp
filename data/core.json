@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:31:18.789Z",
+  "updatedAt": "2026-10-21T09:26:04.261Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -188,7 +188,7 @@
         },
         {
           "name": "Adam Roberts",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "145625142"
         }
       ],
@@ -319,7 +319,7 @@
       "doi": "10.1162/tacl_a_00448",
       "arxivId": "2103.06874",
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00448/1985933/tacl_a_00448.pdf",
-      "citationCount": 348,
+      "citationCount": 349,
       "referenceCount": 84,
       "influentialCitationCount": 51,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
@@ -339,7 +339,7 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 94,
+          "hIndex": 95,
           "authorId": "1700325"
         },
         {
@@ -375,7 +375,7 @@
       "topAuthors": [
         {
           "name": "Masaaki Nagata",
-          "hIndex": 34,
+          "hIndex": 33,
           "authorId": "2364073"
         },
         {
@@ -619,7 +619,7 @@
         },
         {
           "name": "Makesh Narsimhan Sreedhar",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "1602996186"
         }
       ],
@@ -1147,7 +1147,7 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 94,
+          "hIndex": 95,
           "authorId": "1700325"
         },
         {
@@ -1339,7 +1339,7 @@
       "topAuthors": [
         {
           "name": "Gertjan van Noord",
-          "hIndex": 38,
+          "hIndex": 40,
           "authorId": "143715131"
         },
         {
@@ -1492,12 +1492,12 @@
       "topAuthors": [
         {
           "name": "C. Scarton",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "2064492081"
         },
         {
           "name": "Aline Villavicencio",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2113791974"
         }
       ],
@@ -1646,7 +1646,7 @@
       "topAuthors": [
         {
           "name": "Elie Bursztein",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "1687723"
         },
         {
@@ -1682,7 +1682,7 @@
       "topAuthors": [
         {
           "name": "Gertjan van Noord",
-          "hIndex": 38,
+          "hIndex": 40,
           "authorId": "143715131"
         },
         {
@@ -2239,7 +2239,7 @@
         },
         {
           "name": "Li-Jie Hu",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2323839198"
         }
       ],
@@ -2657,7 +2657,7 @@
       "doi": "10.48550/arXiv.2606.23566",
       "arxivId": "2606.23566",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 41,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.23566",
@@ -2706,7 +2706,7 @@
       "topAuthors": [
         {
           "name": "E. Grave",
-          "hIndex": 47,
+          "hIndex": 46,
           "authorId": "3024698"
         },
         {
@@ -2830,9 +2830,9 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1442,
+      "citationCount": 1444,
       "referenceCount": 36,
-      "influentialCitationCount": 159,
+      "influentialCitationCount": 160,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
       "score": 96.82539682539682
@@ -2907,9 +2907,9 @@
       "doi": "10.18653/v1/2020.findings-emnlp.414",
       "arxivId": "2004.03720",
       "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf",
-      "citationCount": 348,
+      "citationCount": 349,
       "referenceCount": 28,
-      "influentialCitationCount": 27,
+      "influentialCitationCount": 28,
       "source": "https://arxiv.org/abs/2004.03720",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -2945,9 +2945,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9131,
+      "citationCount": 9135,
       "referenceCount": 40,
-      "influentialCitationCount": 1076,
+      "influentialCitationCount": 1075,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4367,
+      "citationCount": 4369,
       "referenceCount": 16,
       "influentialCitationCount": 277,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3067,7 +3067,7 @@
       "topAuthors": [
         {
           "name": "David Jurgens",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "2315933135"
         },
         {
@@ -3145,7 +3145,7 @@
         },
         {
           "name": "Catherine Arnett",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2257347764"
         }
       ],
@@ -3225,7 +3225,7 @@
         },
         {
           "name": "Insu Han",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "2268862065"
         }
       ],
@@ -3303,7 +3303,7 @@
         },
         {
           "name": "Rui-Yao Xu",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2319451284"
         }
       ],
@@ -3621,7 +3621,7 @@
       "topAuthors": [
         {
           "name": "Catherine Arnett",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2257347764"
         },
         {
@@ -3641,7 +3641,7 @@
       "doi": null,
       "arxivId": "2608.25089",
       "pdf": null,
-      "citationCount": 3,
+      "citationCount": 4,
       "referenceCount": 85,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.25089",
@@ -3930,7 +3930,7 @@
       "topAuthors": [
         {
           "name": "Xiaobing Zhao",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "1991626"
         },
         {
@@ -3972,7 +3972,7 @@
         },
         {
           "name": "Ljiljana Dolamic",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2502999306"
         }
       ],
@@ -4124,7 +4124,7 @@
       "topAuthors": [
         {
           "name": "Elaine Uí Dhonnchadha",
-          "hIndex": 7,
+          "hIndex": 6,
           "authorId": "8358502"
         },
         {
@@ -4313,7 +4313,7 @@
         },
         {
           "name": "Mike Lewis",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2253417398"
         }
       ],
@@ -4375,7 +4375,7 @@
       "topAuthors": [
         {
           "name": "Vivek Srikumar",
-          "hIndex": 41,
+          "hIndex": 40,
           "authorId": "3052879"
         },
         {
@@ -4608,14 +4608,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Ruan Visser",
-          "hIndex": 2,
-          "authorId": "2176887671"
+          "name": "Trienko L. Grobler",
+          "hIndex": 3,
+          "authorId": "2237808590"
         },
         {
-          "name": "Trienko L. Grobler",
-          "hIndex": 2,
-          "authorId": "2237808590"
+          "name": "Marcel Dunaiski",
+          "hIndex": 3,
+          "authorId": "2325670099"
         }
       ],
       "affiliations": [],
