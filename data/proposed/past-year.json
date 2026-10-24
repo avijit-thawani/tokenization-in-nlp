@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-10-24T08:56:30.465Z",
+  "papers": [
+    {
+      "id": "eff9863c0f7ec7f6d098ca1c9559d1c28a19ec2b",
+      "link": "https://arxiv.org/abs/2605.19632",
+      "title": "Executable Boundary Contracts for Sound Event Traces"
+    },
+    {
+      "id": "7947b189079448a45ed8df523a27407a68ec2c02",
+      "link": "https://arxiv.org/abs/2609.15528",
+      "title": "To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs"
+    },
+    {
+      "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
+      "link": "https://arxiv.org/abs/2609.21362",
+      "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining"
+    },
+    {
+      "id": "6880a24c503aca39ebb9f5e9468b9c245f7213f4",
+      "link": "https://arxiv.org/abs/2608.11361",
+      "title": "Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter"
+    },
+    {
+      "id": "6b92c06f28784c64d1567f57423f19786aa7f873",
+      "link": "https://arxiv.org/abs/2511.11346",
+      "title": "Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits"
+    },
+    {
+      "id": "97efda4a4c1bc0d7f339eea7bd56504fab225d1e",
+      "link": "https://doi.org/10.18653/v1/2026.acl-long.451",
+      "title": "SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models"
+    },
+    {
+      "id": "75d3c5271f773fc3bce75a176059a0be6a92cc4c",
+      "link": "https://arxiv.org/abs/2607.26831",
+      "title": "Language Models are not Equally Robust to Non-Canonical Tokenization across Languages"
+    },
+    {
+      "id": "40e9d947d7cac4a784f6d21525eece44c2aec2e6",
+      "link": "https://arxiv.org/abs/2609.28386",
+      "title": "Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models"
+    },
+    {
+      "id": "1849b8f09cfa3fa8ceaee053fa6398f16106debd",
+      "link": "https://arxiv.org/abs/2602.06998",
+      "title": "Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago"
+    },
+    {
+      "id": "49518bb3ade956e629838a933f28b30237ebac37",
+      "link": "https://arxiv.org/abs/2604.11575",
+      "title": "MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts"
+    }
+  ]
+}

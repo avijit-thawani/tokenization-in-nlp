@@ -92,3 +92,44 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- past year ---
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=6) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2605.19632
+
+# To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs
+#   François Yvon (h=7) · Centre National de la Recherche Scientifique · 2026 · 0 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2609.15528
+
+# Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining
+#   N. Nguyen (h=21) · University of Information Technology, Vietnam National University, Ho Chi Minh city, Vietnam · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2609.21362
+
+# Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter
+#   Rima Mittal (h=1) · 2026 · 1 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2608.11361
+
+# Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits
+#   E. Ponti (h=37) · University of Edinburgh · 2025 · 11 citations · past year · cited by 4 in your list
+https://arxiv.org/abs/2511.11346
+
+# SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models
+#   Hua-Jin Tang (h=12) · Zhejiang University · 2026 · 0 citations · past year · cites 3 in your list
+https://doi.org/10.18653/v1/2026.acl-long.451
+
+# Language Models are not Equally Robust to Non-Canonical Tokenization across Languages
+#   Preethi Jyothi (h=22) · Indian Institute of Technology Bombay · 2026 · 2 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2607.26831
+
+# Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models
+#   Michael A. White (h=15) · Washington University in St. Louis · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2609.28386
+
+# Tokenizations for Austronesian Language Models: study on languages in Indonesia Archipelago
+#   Hokky Situngkir (h=14) · Surya University · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2602.06998
+
+# MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts
+#   Antonio Vergari (h=27) · University of Edinburgh · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2604.11575
