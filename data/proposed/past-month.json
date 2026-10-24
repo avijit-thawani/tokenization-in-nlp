@@ -1,26 +1,56 @@
 {
   "window": "past month",
-  "proposedAt": "2026-09-23T14:54:11.490Z",
+  "proposedAt": "2026-10-24T08:56:27.573Z",
   "papers": [
     {
-      "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
-      "link": "https://arxiv.org/abs/2609.05022",
-      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology"
+      "id": "49b89ee435d4e83d8db70bcfed8f7e03713137b5",
+      "link": "https://arxiv.org/abs/2610.22071",
+      "title": "The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction"
     },
     {
-      "id": "eeec59a39c5ed0d7d65b07cccaaba87c1e36cfe4",
-      "link": "https://arxiv.org/abs/2609.01151",
-      "title": "Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining"
+      "id": "7eecc270108272dd16345fc7ec2dc84079bedbf0",
+      "link": "https://arxiv.org/abs/2610.05978",
+      "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation"
     },
     {
-      "id": "6bc2b78827134ed7c62321b4e18f026f2ec7691f",
-      "link": "https://arxiv.org/abs/2608.27658",
-      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages"
+      "id": "2ff3e984b7b3393a3a8709d8d88a6e89d72f915d",
+      "link": "https://arxiv.org/abs/2610.22100",
+      "title": "Patch where the text is new: a compression view of where byte-level models should spend compute"
     },
     {
-      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
-      "link": "https://arxiv.org/abs/2608.26449",
-      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+      "id": "f4e094fe1b1c37966b015b6d8312e99276a71cf0",
+      "link": "https://arxiv.org/abs/2609.35869",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction"
+    },
+    {
+      "id": "4929f866efd5ed1ec540ec0f654fdb0f0aa1ae2b",
+      "link": "https://arxiv.org/abs/2610.12144",
+      "title": "Language-Specific Effects of Tokenizer Choice in Multilingual Language Models"
+    },
+    {
+      "id": "295da5584720625e47517c4bcbf9dcabd3fa1a92",
+      "link": "https://arxiv.org/abs/2610.21679",
+      "title": "No Single Tokenizer Feature Reliably Predicts Downstream Language Model Performance"
+    },
+    {
+      "id": "4ecb8be51290c673a0dfb5fbf39190c01c99bbf8",
+      "link": "https://arxiv.org/abs/2610.01127",
+      "title": "Counting and Min-Cost Encoding for Tokenization in Large Language Models"
+    },
+    {
+      "id": "fce8b0d908b1049ae4386850c13625b76998f903",
+      "link": "https://arxiv.org/abs/2610.11790",
+      "title": "Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses"
+    },
+    {
+      "id": "d0dbd3dad75dabdadf832d90ba4372fdc9854d4f",
+      "link": "https://arxiv.org/abs/2610.13605",
+      "title": "zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss"
+    },
+    {
+      "id": "64c823fa0dfd3a2ca609304f5a368f6bb2d90fa2",
+      "link": "https://doi.org/10.1038/s41586-026-11111-4",
+      "title": "Retrofitting language models to operate over bytes"
     }
   ]
 }
