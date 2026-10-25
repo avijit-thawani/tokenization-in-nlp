@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:56:26.157Z",
+  "updatedAt": "2026-10-25T09:23:09.251Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -2945,7 +2945,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9148,
+      "citationCount": 9151,
       "referenceCount": 40,
       "influentialCitationCount": 1076,
       "source": "https://arxiv.org/abs/1508.07909",
