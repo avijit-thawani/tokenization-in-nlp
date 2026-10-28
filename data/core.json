@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:55:48.368Z",
+  "updatedAt": "2026-10-28T10:41:54.864Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -101,7 +101,7 @@
       "topAuthors": [
         {
           "name": "Mark Dredze",
-          "hIndex": 70,
+          "hIndex": 71,
           "authorId": "1782853"
         },
         {
@@ -144,7 +144,7 @@
         },
         {
           "name": "Itay Itzhak",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2126506416"
         }
       ],
@@ -204,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 811,
+      "citationCount": 812,
       "referenceCount": 68,
-      "influentialCitationCount": 102,
+      "influentialCitationCount": 103,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -731,7 +731,7 @@
         },
         {
           "name": "J. Pierrehumbert",
-          "hIndex": 47,
+          "hIndex": 48,
           "authorId": "1970864"
         }
       ],
@@ -2197,7 +2197,7 @@
       "topAuthors": [
         {
           "name": "Daniel Jurafsky",
-          "hIndex": 27,
+          "hIndex": 28,
           "authorId": "2259379929"
         },
         {
@@ -2529,7 +2529,7 @@
       "topAuthors": [
         {
           "name": "Colin A. Raffel",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2269733851"
         },
         {
@@ -2652,13 +2652,13 @@
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-06-22",
-      "summary": "LangMAP is a tokenization scheme that extends the UnigramLM algorithm to the multilingual setting, producing language-specific tokenization from a single shared vocabulary, and improves morphological boundary alignment and, for all coding languages tested, alignment with abstract syntax tree (AST) leaf boundaries.",
+      "summary": "Language-adaptive Maximum a Posteriori (LangMAP) Tokenization is proposed, which extends the UnigramLM algorithm to the multilingual setting by replacing its single distribution over the vocabulary with one distribution per language over the same vocabulary.",
       "url": "https://www.semanticscholar.org/paper/69e4135b75fc1dfafbf355aa23ff963a7bb45c98",
       "doi": "10.48550/arXiv.2606.23566",
       "arxivId": "2606.23566",
       "pdf": null,
       "citationCount": 1,
-      "referenceCount": 41,
+      "referenceCount": 46,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.23566",
       "addedAt": "2026-09-14",
@@ -2907,7 +2907,7 @@
       "doi": "10.18653/v1/2020.findings-emnlp.414",
       "arxivId": "2004.03720",
       "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf",
-      "citationCount": 350,
+      "citationCount": 351,
       "referenceCount": 28,
       "influentialCitationCount": 28,
       "source": "https://arxiv.org/abs/2004.03720",
@@ -2945,9 +2945,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9160,
+      "citationCount": 9165,
       "referenceCount": 40,
-      "influentialCitationCount": 1077,
+      "influentialCitationCount": 1078,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4384,
+      "citationCount": 4386,
       "referenceCount": 16,
       "influentialCitationCount": 278,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3179,7 +3179,7 @@
       "topAuthors": [
         {
           "name": "Ekaterina Shutova",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2262445370"
         },
         {
@@ -3445,7 +3445,7 @@
       "topAuthors": [
         {
           "name": "D. Africa",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2374486683"
         },
         {
@@ -3659,7 +3659,7 @@
       "topAuthors": [
         {
           "name": "Simon Ostermann",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2266468276"
         },
         {
@@ -4008,7 +4008,7 @@
       "topAuthors": [
         {
           "name": "Furu Wei",
-          "hIndex": 108,
+          "hIndex": 109,
           "authorId": "49807919"
         },
         {
