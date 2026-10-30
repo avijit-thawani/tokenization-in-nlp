@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:57:22.099Z",
+  "updatedAt": "2026-10-30T11:01:27.755Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -87,7 +87,7 @@
       "influentialCitationCount": 20,
       "source": "https://www.semanticscholar.org/paper/e79d1206292bc5e67ba19737d87d4b2ea4a37105",
       "addedAt": "2026-09-12",
-      "score": 11.11111111111111
+      "score": 66.66666666666666
     },
     {
       "id": "9c2e4e5ee224c20a45c37244924138b50f3fe603",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 813,
+      "citationCount": 815,
       "referenceCount": 68,
       "influentialCitationCount": 103,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -319,7 +319,7 @@
       "doi": "10.1162/tacl_a_00448",
       "arxivId": "2103.06874",
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00448/1985933/tacl_a_00448.pdf",
-      "citationCount": 354,
+      "citationCount": 355,
       "referenceCount": 84,
       "influentialCitationCount": 52,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
@@ -434,7 +434,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.609",
       "arxivId": "2010.10392",
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.609.pdf",
-      "citationCount": 185,
+      "citationCount": 186,
       "referenceCount": 38,
       "influentialCitationCount": 18,
       "source": "https://www.semanticscholar.org/paper/473921de1b52f98f34f37afd507e57366ff7d1ca",
@@ -481,7 +481,7 @@
       "doi": null,
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 247,
+      "citationCount": 250,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
@@ -517,7 +517,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/d87647784c12517d31964cc508d5b8423cc24f50",
       "addedAt": "2026-09-12",
-      "score": 11.11111111111111
+      "score": 15.873015873015872
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -676,7 +676,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/12d2a697f1ee6a63859efe6b288ddb5eb6bd97c1",
       "addedAt": "2026-09-12",
-      "score": 11.11111111111111
+      "score": 1.5873015873015872
     },
     {
       "id": "a0568d0bf4cbfcb5a17a20c576dfc421c4ccfb7c",
@@ -860,7 +860,7 @@
       "doi": "10.1145/3578707",
       "arxivId": "2204.08832",
       "pdf": "https://dl.acm.org/doi/pdf/10.1145/3578707",
-      "citationCount": 157,
+      "citationCount": 160,
       "referenceCount": 68,
       "influentialCitationCount": 12,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
@@ -918,7 +918,7 @@
         "Hongyin Tang",
         "Jia-Hao Bu",
         "Kai Zhang",
-        "Jingang Wang",
+        "Jin-Gang Wang",
         "Qi-Fan Wang",
         "Hai-Tao Zheng",
         "Wei Yu Wu",
@@ -976,7 +976,7 @@
       "doi": "10.18653/v1/D19-1141",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/D19-1141.pdf",
-      "citationCount": 87,
+      "citationCount": 89,
       "referenceCount": 39,
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/035df9ecf84da7ae475175f326095ab16b97dd47",
@@ -1209,7 +1209,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
       "addedAt": "2026-09-12",
-      "score": 14.285714285714285
+      "score": 31.746031746031743
     },
     {
       "id": "e6b73466bab5e52ce0db19dd06d9353c26557dae",
@@ -1239,7 +1239,7 @@
       "doi": "10.48550/arXiv.2308.00683",
       "arxivId": "2308.00683",
       "pdf": "https://arxiv.org/pdf/2308.00683",
-      "citationCount": 11,
+      "citationCount": 12,
       "referenceCount": 48,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e6b73466bab5e52ce0db19dd06d9353c26557dae",
@@ -1478,7 +1478,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/7771aa7badc3375a31bfac8dc47755ff5d5c7780",
       "addedAt": "2026-09-12",
-      "score": 3.1746031746031744
+      "score": 7.936507936507936
     },
     {
       "id": "7e15af5f6b3a794167bc4dc194768b348becc5d3",
@@ -1515,7 +1515,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/17a4477765f27fe3ad037eff9e663ffc6799d7fe",
       "addedAt": "2026-09-12",
-      "score": 12.698412698412698
+      "score": 15.873015873015872
     },
     {
       "id": "373588ff1fb9f7590db000a04de8d838b1516e5a",
@@ -1866,7 +1866,7 @@
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
       "addedAt": "2026-09-12",
-      "score": 11.11111111111111
+      "score": 30.158730158730158
     },
     {
       "id": "4044c062683533d92f598715afe2508be29c739c",
@@ -2052,7 +2052,7 @@
       "doi": "10.48550/arXiv.2601.13260",
       "arxivId": "2601.13260",
       "pdf": null,
-      "citationCount": 9,
+      "citationCount": 10,
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2601.13260",
@@ -2311,14 +2311,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Bashar Alhafni",
+          "hIndex": 11,
+          "authorId": "66589548"
+        },
+        {
           "name": "Go Inoue",
           "hIndex": 9,
           "authorId": "46915471"
-        },
-        {
-          "name": "Bashar Alhafni",
-          "hIndex": 9,
-          "authorId": "2256969018"
         }
       ],
       "affiliations": [
@@ -2550,7 +2550,7 @@
       "doi": "10.48550/arXiv.2512.20757",
       "arxivId": "2512.20757",
       "pdf": null,
-      "citationCount": 7,
+      "citationCount": 8,
       "referenceCount": 75,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2512.20757",
@@ -2671,7 +2671,7 @@
         "M. Dehan",
         "Aldry Kautsar",
         "Fajri Koto",
-        "A. Conneau",
+        "Alexis Conneau",
         "Kartikay Khandelwal",
         "Naman Goyal",
         "Vishrav Chaudhary",
@@ -2830,12 +2830,12 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1467,
+      "citationCount": 1473,
       "referenceCount": 36,
       "influentialCitationCount": 161,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
-      "score": 96.82539682539682
+      "score": 98.4126984126984
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -2945,9 +2945,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9205,
+      "citationCount": 9220,
       "referenceCount": 40,
-      "influentialCitationCount": 1100,
+      "influentialCitationCount": 1107,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3049,7 +3049,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4429,
+      "citationCount": 4439,
       "referenceCount": 16,
       "influentialCitationCount": 279,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3925,11 +3925,11 @@
       "authors": [
         "Wenhao Zhuang",
         "Yuan Sun",
-        "Xiaobing Zhao"
+        "Xiao-Bing Zhao"
       ],
       "topAuthors": [
         {
-          "name": "Xiaobing Zhao",
+          "name": "Xiao-Bing Zhao",
           "hIndex": 9,
           "authorId": "1991626"
         },
@@ -3947,7 +3947,7 @@
       "url": "https://www.semanticscholar.org/paper/5c667b8297631551de12e1b888bb57251f427716",
       "doi": "10.18653/v1/2025.acl-long.795",
       "arxivId": "2509.17493",
-      "pdf": "https://arxiv.org/pdf/2509.17493",
+      "pdf": "https://aclanthology.org/2025.acl-long.795.pdf",
       "citationCount": 3,
       "referenceCount": 40,
       "influentialCitationCount": 0,
@@ -3985,7 +3985,7 @@
       "doi": "10.48550/arXiv.2509.20045",
       "arxivId": "2509.20045",
       "pdf": null,
-      "citationCount": 17,
+      "citationCount": 18,
       "referenceCount": 41,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2509.20045",
@@ -4270,9 +4270,9 @@
           "authorId": "2287933541"
         },
         {
-          "name": "Tiago Pimentel",
+          "name": "P. Whittington",
           "hIndex": 3,
-          "authorId": "2336092126"
+          "authorId": "2214310514"
         }
       ],
       "affiliations": [],
@@ -4289,7 +4289,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2605.22821",
       "addedAt": "2026-10-09",
-      "score": 4.761904761904762
+      "score": 12.698412698412698
     },
     {
       "id": "5d15424cb7f03bfa328399a76fde7c8ed6deb3ca",
@@ -4775,6 +4775,43 @@
       "source": "What Do We Talk About When We Talk About Tokenization?",
       "addedAt": "2026-10-13",
       "score": 0
+    },
+    {
+      "id": "9747f59d9ceb839c591d255a32b58253d88e607e",
+      "title": "Less Is More: Reducing Token Counts Without Compromising Performance",
+      "authors": [
+        "Gyeongje Cho",
+        "Yeonkyoung So",
+        "Sang-Min Lee",
+        "Jaejin Lee"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jaejin Lee",
+          "hIndex": 4,
+          "authorId": "2347474554"
+        },
+        {
+          "name": "Gyeongje Cho",
+          "hIndex": 2,
+          "authorId": "2347346717"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": null,
+      "publicationDate": "2025-06-18",
+      "summary": "Thunder-Tok is proposed, a subword tokenizer that reduces fertility while preserving downstream performance in large language models and prunes the seed vocabulary using a likelihood-based token score derived from a uniform Jensen lower bound of the training-data probability.",
+      "url": "https://www.semanticscholar.org/paper/9747f59d9ceb839c591d255a32b58253d88e607e",
+      "doi": null,
+      "arxivId": "2506.15138",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 48,
+      "influentialCitationCount": 0,
+      "source": "Less Is More: Reducing Token Counts Without Compromising Performance",
+      "addedAt": "2026-10-30",
+      "score": 3.1746031746031744
     }
   ]
 }
