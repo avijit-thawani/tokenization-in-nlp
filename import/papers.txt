@@ -92,3 +92,24 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- most connected ---
+# How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
+#   Iryna Gurevych (h=85) · Cohere · 2020 · 502 citations · cited by 33 in your list
+https://arxiv.org/abs/2012.15613
+
+# BPE-Dropout: Simple and Effective Subword Regularization
+#   Elena Voita (h=16) · University of Edinburgh · 2019 · 364 citations · cited by 27 in your list
+https://arxiv.org/abs/1910.13267
+
+# Tokenization Is More Than Compression
+#   Yuval Pinter (h=21) · Ben-Gurion University of the Negev · 2024 · 123 citations · cited by 23 in your list
+https://arxiv.org/abs/2402.18376
+
+# Japanese and Korean voice search
+#   Mike Schuster (h=20) · Google (United States) · 2012 · 1043 citations · cited by 29 in your list
+https://doi.org/10.1109/ICASSP.2012.6289079
+
+# Language Model Tokenizers Introduce Unfairness Between Languages
+#   P. Torr (h=116) · University of Oxford · 2023 · 318 citations · cited by 23 in your list
+https://arxiv.org/abs/2305.15425
