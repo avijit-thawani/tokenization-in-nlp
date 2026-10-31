@@ -92,3 +92,44 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- past year ---
+# The Price of Token Boundaries: Compression Certificates and Prediction
+#   Shu-Nian Chen (h=17) · Chinese University of Hong Kong, Shenzhen · 2026 · 0 citations · past year · cites 9 in your list
+https://arxiv.org/abs/2609.35869
+
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=6) · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2605.19632
+
+# Counting and Min-Cost Encoding for Tokenization in Large Language Models
+#   Shu-Ming Shi (h=10) · 2026 · 0 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2610.01127
+
+# Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits
+#   E. Ponti (h=37) · University of Edinburgh · 2025 · 11 citations · past year · cited by 4 in your list
+https://arxiv.org/abs/2511.11346
+
+# Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining
+#   Kiet Van Nguyen (h=21) · University of Information Technology · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2609.21362
+
+# To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs
+#   François Yvon (h=8) · Centre National de la Recherche Scientifique · 2026 · 0 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2609.15528
+
+# Broken Words, Broken Performance: Effect of Tokenization on Performance of LLMs
+#   Nitin Ramrakhiyani (h=9) · 2025 · 5 citations · past year · cited by 3 in your list
+https://arxiv.org/abs/2512.21933
+
+# Tokenisation over Bounded Alphabets is Hard
+#   P. Whittington (h=3) · ETH Zurich · 2025 · 6 citations · past year · cited by 3 in your list
+https://arxiv.org/abs/2511.15709
+
+# Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter
+#   Rima Mittal (h=1) · 2026 · 1 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2608.11361
+
+# Tokenization with Split Trees
+#   Yuval Pinter (h=21) · Ben-Gurion University of the Negev · 2026 · 2 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2605.22705
