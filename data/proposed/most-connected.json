@@ -1,0 +1,31 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-10-31T10:26:58.072Z",
+  "papers": [
+    {
+      "id": "0d4b5c9a071557f4eb12f63f785dbc89071d4272",
+      "link": "https://arxiv.org/abs/2012.15613",
+      "title": "How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models"
+    },
+    {
+      "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
+      "link": "https://arxiv.org/abs/1910.13267",
+      "title": "BPE-Dropout: Simple and Effective Subword Regularization"
+    },
+    {
+      "id": "c74326259a24bbba3e5130f0ee42a546ea31301b",
+      "link": "https://arxiv.org/abs/2402.18376",
+      "title": "Tokenization Is More Than Compression"
+    },
+    {
+      "id": "ed6262b569c0a62c51d941228c54f34e563af022",
+      "link": "https://doi.org/10.1109/ICASSP.2012.6289079",
+      "title": "Japanese and Korean voice search"
+    },
+    {
+      "id": "879a7f5abdb7ab803d48172d4f0830965f989d46",
+      "link": "https://arxiv.org/abs/2305.15425",
+      "title": "Language Model Tokenizers Introduce Unfairness Between Languages"
+    }
+  ]
+}
