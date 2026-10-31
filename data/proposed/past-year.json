@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-10-31T10:26:55.023Z",
+  "papers": [
+    {
+      "id": "f4e094fe1b1c37966b015b6d8312e99276a71cf0",
+      "link": "https://arxiv.org/abs/2609.35869",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction"
+    },
+    {
+      "id": "eff9863c0f7ec7f6d098ca1c9559d1c28a19ec2b",
+      "link": "https://arxiv.org/abs/2605.19632",
+      "title": "Executable Boundary Contracts for Sound Event Traces"
+    },
+    {
+      "id": "4ecb8be51290c673a0dfb5fbf39190c01c99bbf8",
+      "link": "https://arxiv.org/abs/2610.01127",
+      "title": "Counting and Min-Cost Encoding for Tokenization in Large Language Models"
+    },
+    {
+      "id": "6b92c06f28784c64d1567f57423f19786aa7f873",
+      "link": "https://arxiv.org/abs/2511.11346",
+      "title": "Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits"
+    },
+    {
+      "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
+      "link": "https://arxiv.org/abs/2609.21362",
+      "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining"
+    },
+    {
+      "id": "7947b189079448a45ed8df523a27407a68ec2c02",
+      "link": "https://arxiv.org/abs/2609.15528",
+      "title": "To Each Language Its Tokenizer: Modular Tokenizers for Efficient Multilingual LLMs"
+    },
+    {
+      "id": "f6d1413b720260021550987bfb216fb9636f1ee3",
+      "link": "https://arxiv.org/abs/2512.21933",
+      "title": "Broken Words, Broken Performance: Effect of Tokenization on Performance of LLMs"
+    },
+    {
+      "id": "587ff6b8dc6078978ec01271d4c96b851e691e1b",
+      "link": "https://arxiv.org/abs/2511.15709",
+      "title": "Tokenisation over Bounded Alphabets is Hard"
+    },
+    {
+      "id": "6880a24c503aca39ebb9f5e9468b9c245f7213f4",
+      "link": "https://arxiv.org/abs/2608.11361",
+      "title": "Lifecycle-Optimal Tokenization: Vocabulary Size as a Deployment-Regime-Dependent Infrastructure Parameter"
+    },
+    {
+      "id": "5fd11179675eeee8a93d9cb814f75f5c6c791ca9",
+      "link": "https://arxiv.org/abs/2605.22705",
+      "title": "Tokenization with Split Trees"
+    }
+  ]
+}
