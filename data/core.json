@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:23:30.140Z",
+  "updatedAt": "2026-11-02T12:42:38.581Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -2257,7 +2257,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2603.10771",
       "addedAt": "2026-09-14",
-      "score": 3.1746031746031744
+      "score": 12.698412698412698
     },
     {
       "id": "999cf59792831e0916e9fcc94d1a549b8dfeeb5f",
@@ -2337,7 +2337,7 @@
       "influentialCitationCount": 1,
       "source": "https://doi.org/10.18653/v1/2026.findings-eacl.22",
       "addedAt": "2026-09-14",
-      "score": 9.523809523809524
+      "score": 11.11111111111111
     },
     {
       "id": "757e6c6f4dedff6b512dc159e019e7cf1fd99a2c",
@@ -2662,7 +2662,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.23566",
       "addedAt": "2026-09-14",
-      "score": 0
+      "score": 7.936507936507936
     },
     {
       "id": "891a35ad81bbaa33b16443e3372e22192c1bd417",
@@ -3126,7 +3126,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2605.06546",
       "addedAt": "2026-09-14",
-      "score": 0
+      "score": 6.349206349206349
     },
     {
       "id": "67a3b9bbbcfc3e95b7329246373e18c2762242f1",
