@@ -1,26 +1,51 @@
 {
   "window": "past month",
-  "proposedAt": "2026-09-23T14:54:11.490Z",
+  "proposedAt": "2026-11-07T11:21:45.696Z",
   "papers": [
     {
-      "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
-      "link": "https://arxiv.org/abs/2609.05022",
-      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology"
+      "id": "49b89ee435d4e83d8db70bcfed8f7e03713137b5",
+      "link": "https://arxiv.org/abs/2610.22071",
+      "title": "The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction"
     },
     {
-      "id": "eeec59a39c5ed0d7d65b07cccaaba87c1e36cfe4",
-      "link": "https://arxiv.org/abs/2609.01151",
-      "title": "Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining"
+      "id": "295da5584720625e47517c4bcbf9dcabd3fa1a92",
+      "link": "https://arxiv.org/abs/2610.21679",
+      "title": "No Single Tokenizer Feature Reliably Predicts Downstream Language Model Performance"
     },
     {
-      "id": "6bc2b78827134ed7c62321b4e18f026f2ec7691f",
-      "link": "https://arxiv.org/abs/2608.27658",
-      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages"
+      "id": "2ff3e984b7b3393a3a8709d8d88a6e89d72f915d",
+      "link": "https://arxiv.org/abs/2610.22100",
+      "title": "Patch where the text is new: a compression view of where byte-level models should spend compute"
     },
     {
-      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
-      "link": "https://arxiv.org/abs/2608.26449",
-      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+      "id": "d0dbd3dad75dabdadf832d90ba4372fdc9854d4f",
+      "link": "https://arxiv.org/abs/2610.13605",
+      "title": "zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss"
+    },
+    {
+      "id": "535a0b155aaa63b74e485ff9afea4bbd9de9c7c7",
+      "link": "https://arxiv.org/abs/2610.24290",
+      "title": "Beyond Clean Accuracy: The Practical Challenges and Benefits of Pixel-Based Language Models"
+    },
+    {
+      "id": "ab0fa94740adf4fdb74a95af83b0ede0de212bb8",
+      "link": "https://arxiv.org/abs/2610.26225",
+      "title": "Rethinking BPE: Merge Selection as Model Selection"
+    },
+    {
+      "id": "3269ce7798808add134f5f030cce87991b286aaf",
+      "link": "https://arxiv.org/abs/2610.29681",
+      "title": "Scaling Multilingual Pretraining of Pixel Language Models"
+    },
+    {
+      "id": "5c061bd7cd8e57fdfb58580e65c7108504020b33",
+      "link": "https://arxiv.org/abs/2610.20859",
+      "title": "Does Morphological Correctness Matter for Tokenization? A Scrambled Control Study in Tagalog"
+    },
+    {
+      "id": "9e8e28fb9c0c8f3931f6cd193be631fb015e6769",
+      "link": "https://arxiv.org/abs/2610.32921",
+      "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora"
     }
   ]
 }
