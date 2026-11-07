@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:15:38.605Z",
+  "updatedAt": "2026-11-07T11:21:41.944Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -860,7 +860,7 @@
       "doi": "10.1145/3578707",
       "arxivId": "2204.08832",
       "pdf": "https://dl.acm.org/doi/pdf/10.1145/3578707",
-      "citationCount": 162,
+      "citationCount": 163,
       "referenceCount": 68,
       "influentialCitationCount": 13,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
@@ -1973,7 +1973,7 @@
       "doi": "10.48550/arXiv.2306.16837",
       "arxivId": "2306.16837",
       "pdf": "http://arxiv.org/pdf/2306.16837",
-      "citationCount": 68,
+      "citationCount": 69,
       "referenceCount": 22,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
@@ -2190,14 +2190,14 @@
         "Sha-Ni Chen",
         "Yuval Reif",
         "N. Roll",
-        "Daniel Jurafsky",
+        "Dan Jurafsky",
         "E. Shutova"
       ],
       "topAuthors": [
         {
-          "name": "Daniel Jurafsky",
-          "hIndex": 29,
-          "authorId": "2259379929"
+          "name": "Dan Jurafsky",
+          "hIndex": 106,
+          "authorId": "1746807"
         },
         {
           "name": "Sha-Ni Chen",
@@ -2205,7 +2205,9 @@
           "authorId": "2462300796"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Stanford University"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-01-12",
@@ -2214,9 +2216,9 @@
       "doi": "10.48550/arXiv.2601.07220",
       "arxivId": "2601.07220",
       "pdf": null,
-      "citationCount": 10,
+      "citationCount": 11,
       "referenceCount": 198,
-      "influentialCitationCount": 1,
+      "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2601.07220",
       "addedAt": "2026-09-14",
       "score": 19.047619047619047
@@ -2942,7 +2944,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9258,
+      "citationCount": 9264,
       "referenceCount": 40,
       "influentialCitationCount": 1100,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3011,7 +3013,7 @@
       "doi": "10.48550/arXiv.2404.14408",
       "arxivId": "2404.14408",
       "pdf": null,
-      "citationCount": 42,
+      "citationCount": 43,
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2404.14408",
@@ -3221,9 +3223,9 @@
           "authorId": "81087377"
         },
         {
-          "name": "Insu Han",
-          "hIndex": 6,
-          "authorId": "2268862065"
+          "name": "Jonghoon Lee",
+          "hIndex": 7,
+          "authorId": "2108604555"
         }
       ],
       "affiliations": [],
@@ -3982,9 +3984,9 @@
       "doi": "10.48550/arXiv.2509.20045",
       "arxivId": "2509.20045",
       "pdf": null,
-      "citationCount": 18,
+      "citationCount": 19,
       "referenceCount": 41,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2509.20045",
       "addedAt": "2026-09-23",
       "score": 9.523809523809524
@@ -4281,7 +4283,7 @@
       "doi": "10.48550/arXiv.2605.22821",
       "arxivId": "2605.22821",
       "pdf": null,
-      "citationCount": 4,
+      "citationCount": 5,
       "referenceCount": 37,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2605.22821",
