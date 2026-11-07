@@ -92,3 +92,44 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- past year ---
+# Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation
+#   Qi Zhang (h=26) · East China Normal University · 2026 · 0 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2610.05978
+
+# Language-Specific Effects of Tokenizer Choice in Multilingual Language Models
+#   Antoine Bosselut (h=38) · University of Toronto · 2026 · 0 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2610.12144
+
+# The Price of Token Boundaries: Compression Certificates and Prediction
+#   Shu-Nian Chen (h=18) · Chinese University of Hong Kong, Shenzhen · 2026 · 0 citations · past year · cites 9 in your list
+https://arxiv.org/abs/2609.35869
+
+# Merge-Based Vocabulary Extension Stalls at the Pre-Tokenizer: An English-Preserving Repair for Nepali, Tested in Continued Pretraining
+#   Aarjan Chaudhary (h=1) · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2610.33016
+
+# Retrofitting language models to operate over bytes
+#   E. Ponti (h=37) · Allen Institute for Artificial Intelligence · 2026 · 3 citations · past year · cites 9 in your list
+https://doi.org/10.1038/s41586-026-11111-4
+
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=6) · Bahçeşehir University · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2605.19632
+
+# Counting and Min-Cost Encoding for Tokenization in Large Language Models
+#   Shu-Ming Shi (h=10) · 2026 · 0 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2610.01127
+
+# Tokenisation over Bounded Alphabets is Hard
+#   P. Whittington (h=4) · ETH Zurich · 2025 · 8 citations · past year · cited by 4 in your list
+https://arxiv.org/abs/2511.15709
+
+# Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits
+#   E. Ponti (h=37) · University of Edinburgh · 2025 · 11 citations · past year · cited by 4 in your list
+https://arxiv.org/abs/2511.11346
+
+# Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining
+#   Kiet Van Nguyen (h=21) · University of Information Technology · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2609.21362
