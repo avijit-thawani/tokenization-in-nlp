@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-11-07T11:21:49.245Z",
+  "papers": [
+    {
+      "id": "7eecc270108272dd16345fc7ec2dc84079bedbf0",
+      "link": "https://arxiv.org/abs/2610.05978",
+      "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation"
+    },
+    {
+      "id": "4929f866efd5ed1ec540ec0f654fdb0f0aa1ae2b",
+      "link": "https://arxiv.org/abs/2610.12144",
+      "title": "Language-Specific Effects of Tokenizer Choice in Multilingual Language Models"
+    },
+    {
+      "id": "f4e094fe1b1c37966b015b6d8312e99276a71cf0",
+      "link": "https://arxiv.org/abs/2609.35869",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction"
+    },
+    {
+      "id": "dc3a3101a7176ecac9d1ba0751e3ea9799fbf9c8",
+      "link": "https://arxiv.org/abs/2610.33016",
+      "title": "Merge-Based Vocabulary Extension Stalls at the Pre-Tokenizer: An English-Preserving Repair for Nepali, Tested in Continued Pretraining"
+    },
+    {
+      "id": "64c823fa0dfd3a2ca609304f5a368f6bb2d90fa2",
+      "link": "https://doi.org/10.1038/s41586-026-11111-4",
+      "title": "Retrofitting language models to operate over bytes"
+    },
+    {
+      "id": "eff9863c0f7ec7f6d098ca1c9559d1c28a19ec2b",
+      "link": "https://arxiv.org/abs/2605.19632",
+      "title": "Executable Boundary Contracts for Sound Event Traces"
+    },
+    {
+      "id": "4ecb8be51290c673a0dfb5fbf39190c01c99bbf8",
+      "link": "https://arxiv.org/abs/2610.01127",
+      "title": "Counting and Min-Cost Encoding for Tokenization in Large Language Models"
+    },
+    {
+      "id": "587ff6b8dc6078978ec01271d4c96b851e691e1b",
+      "link": "https://arxiv.org/abs/2511.15709",
+      "title": "Tokenisation over Bounded Alphabets is Hard"
+    },
+    {
+      "id": "6b92c06f28784c64d1567f57423f19786aa7f873",
+      "link": "https://arxiv.org/abs/2511.11346",
+      "title": "Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits"
+    },
+    {
+      "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
+      "link": "https://arxiv.org/abs/2609.21362",
+      "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining"
+    }
+  ]
+}
