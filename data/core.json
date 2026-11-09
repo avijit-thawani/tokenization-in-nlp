@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:21:41.619Z",
+  "updatedAt": "2026-11-09T13:06:02.229Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 831,
+      "citationCount": 832,
       "referenceCount": 68,
       "influentialCitationCount": 106,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -481,7 +481,7 @@
       "doi": "10.48550/arXiv.2112.10508",
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 253,
+      "citationCount": 254,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
@@ -976,7 +976,7 @@
       "doi": "10.18653/v1/D19-1141",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/D19-1141.pdf",
-      "citationCount": 91,
+      "citationCount": 92,
       "referenceCount": 39,
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/035df9ecf84da7ae475175f326095ab16b97dd47",
@@ -2015,7 +2015,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2511.05578",
       "addedAt": "2026-09-14",
-      "score": 26.984126984126984
+      "score": 25.396825396825395
     },
     {
       "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
@@ -2056,7 +2056,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2601.13260",
       "addedAt": "2026-09-14",
-      "score": 28.57142857142857
+      "score": 26.984126984126984
     },
     {
       "id": "bcf94ad307cdaea3e72fe64ddf3cb710b1f0ef3a",
@@ -2140,7 +2140,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2602.04289",
       "addedAt": "2026-09-14",
-      "score": 28.57142857142857
+      "score": 26.984126984126984
     },
     {
       "id": "a662b8d7e294424e97f1732d254bd971221621f3",
@@ -2221,7 +2221,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2601.07220",
       "addedAt": "2026-09-14",
-      "score": 19.047619047619047
+      "score": 17.46031746031746
     },
     {
       "id": "74575f66fbeb0965b33093448843b277537cc21a",
@@ -2338,7 +2338,7 @@
       "influentialCitationCount": 1,
       "source": "https://doi.org/10.18653/v1/2026.findings-eacl.22",
       "addedAt": "2026-09-14",
-      "score": 11.11111111111111
+      "score": 9.523809523809524
     },
     {
       "id": "757e6c6f4dedff6b512dc159e019e7cf1fd99a2c",
@@ -2374,7 +2374,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2601.11643",
       "addedAt": "2026-09-14",
-      "score": 11.11111111111111
+      "score": 9.523809523809524
     },
     {
       "id": "a470679099b807e7ace3e0767bafbacfbe2e6392",
@@ -2410,7 +2410,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.15521",
       "addedAt": "2026-09-14",
-      "score": 15.873015873015872
+      "score": 14.285714285714285
     },
     {
       "id": "95e7e1de309007d2c70710bda64b9291b4915d26",
@@ -2446,7 +2446,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2604.27263",
       "addedAt": "2026-09-14",
-      "score": 14.285714285714285
+      "score": 12.698412698412698
     },
     {
       "id": "a5faad892bc578fae44c2bc8fe4160e01214b6b6",
@@ -2513,7 +2513,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.05691",
       "addedAt": "2026-09-14",
-      "score": 14.285714285714285
+      "score": 12.698412698412698
     },
     {
       "id": "33ab1733c27c959e72a836241629f919cd45b22f",
@@ -2588,7 +2588,7 @@
       "influentialCitationCount": 0,
       "source": "https://doi.org/10.18653/v1/2026.findings-acl.530",
       "addedAt": "2026-09-14",
-      "score": 11.11111111111111
+      "score": 9.523809523809524
     },
     {
       "id": "f7d3e59f013cbb5553c4699415dd72a87f348057",
@@ -2740,7 +2740,7 @@
       "title": "Length-MAX Tokenizer for Language Models",
       "authors": [
         "D. Dong",
-        "Weijie Su"
+        "Wei-Jie J. Su"
       ],
       "topAuthors": [
         {
@@ -2749,14 +2749,14 @@
           "authorId": "2056331451"
         },
         {
-          "name": "Weijie Su",
+          "name": "Wei-Jie J. Su",
           "hIndex": 4,
           "authorId": "2399777786"
         }
       ],
       "affiliations": [],
       "year": 2025,
-      "venue": "arXiv.org",
+      "venue": "Trans. Mach. Learn. Res.",
       "publicationDate": "2025-11-25",
       "summary": "The results demonstrate that optimizing for average token length, rather than frequency alone, offers an effective approach to more efficient language modeling without sacrificing -- and often improving -- downstream performance.",
       "url": "https://www.semanticscholar.org/paper/6536e9f9fc4c0393d8b09d2381a80ca92f3242d1",
@@ -2768,7 +2768,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2511.20849",
       "addedAt": "2026-09-14",
-      "score": 12.698412698412698
+      "score": 11.11111111111111
     },
     {
       "id": "60a4dd1da34f4c6ecb834cbe41ea74de24241059",
@@ -2844,7 +2844,7 @@
       "authors": [
         "Avijit Thawani",
         "Saurabh Ghanekar",
-        "Xiaoyuan Zhu",
+        "Xiao-Yuan Zhu",
         "Jay Pujara"
       ],
       "topAuthors": [
@@ -2854,7 +2854,7 @@
           "authorId": "37574242"
         },
         {
-          "name": "Xiaoyuan Zhu",
+          "name": "Xiao-Yuan Zhu",
           "hIndex": 6,
           "authorId": "2366158958"
         }
@@ -2944,9 +2944,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9269,
+      "citationCount": 9271,
       "referenceCount": 40,
-      "influentialCitationCount": 1100,
+      "influentialCitationCount": 1101,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3048,9 +3048,9 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4463,
+      "citationCount": 4467,
       "referenceCount": 16,
-      "influentialCitationCount": 281,
+      "influentialCitationCount": 282,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
       "score": 46.03174603174603
@@ -3165,7 +3165,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2510.21909",
       "addedAt": "2026-09-14",
-      "score": 20.634920634920633
+      "score": 19.047619047619047
     },
     {
       "id": "db2d64d7f4cef3f08ee05f318dd2c8742f22aed6",
@@ -3201,7 +3201,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.20993",
       "addedAt": "2026-09-14",
-      "score": 15.873015873015872
+      "score": 14.285714285714285
     },
     {
       "id": "2d0a461b6d6859047e7e9932f99638c8e21f75f0",
@@ -3349,7 +3349,7 @@
         "Georgia Tech"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "International Conference on Learning Representations",
       "publicationDate": "2026-03-03",
       "summary": "ByteFlow Net is introduced, a new hierarchical architecture that removes tokenizers entirely and instead enables models to learn their own segmentation of raw byte streams into semantically meaningful units, opening a path toward more adaptive and information-grounded language models.",
       "url": "https://www.semanticscholar.org/paper/dfc6c2d34f329d10347604a17f2c616a52c3c0f7",
@@ -3390,7 +3390,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.27019",
       "addedAt": "2026-09-14",
-      "score": 15.873015873015872
+      "score": 14.285714285714285
     },
     {
       "id": "84ffe3f46d3571efb8d183e04a5f0749075bc9cf",
@@ -3428,7 +3428,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2511.01380",
       "addedAt": "2026-09-14",
-      "score": 20.634920634920633
+      "score": 19.047619047619047
     },
     {
       "id": "66918630e4b20a5a34cf873f3a63331a2c1be42c",
@@ -3467,7 +3467,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.15144",
       "addedAt": "2026-09-14",
-      "score": 7.936507936507936
+      "score": 6.349206349206349
     },
     {
       "id": "5effeb7f02b3c93eaa44230e675b53834db144d5",
@@ -3531,7 +3531,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.17325",
       "addedAt": "2026-09-14",
-      "score": 14.285714285714285
+      "score": 12.698412698412698
     },
     {
       "id": "57bb68920ac6cb78f64a888fe809aed7e4d77865",
@@ -3569,7 +3569,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2608.30541",
       "addedAt": "2026-09-14",
-      "score": 14.285714285714285
+      "score": 12.698412698412698
     },
     {
       "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
@@ -3679,7 +3679,7 @@
       "arxivId": "2609.01386",
       "pdf": "https://aclanthology.org/2026.emnlp-main.2452.pdf",
       "citationCount": 0,
-      "referenceCount": 151,
+      "referenceCount": 152,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2609.01386",
       "addedAt": "2026-09-14",
@@ -3718,7 +3718,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2609.04708",
       "addedAt": "2026-09-14",
-      "score": 7.936507936507936
+      "score": 6.349206349206349
     },
     {
       "id": "33e409a778501b3beba82c9fa0713fa7a383c856",
@@ -3798,11 +3798,11 @@
       ],
       "affiliations": [],
       "year": 2026,
-      "venue": null,
+      "venue": "arXiv.org",
       "publicationDate": "2026-09-07",
       "summary": "Dynamic-Programming-Guided Hierarchical BPE is proposed, a vocabulary-construction method that combines token exposure under exact minimum-token segmentation with the hierarchical dependencies induced by BPE training and consistently improves aggregate compression over Standard BPE, Pruned BPE, and MinGram under a shared exact minimum-token DP encoder.",
       "url": "https://www.semanticscholar.org/paper/eab39068d506bbf27d5cb8c3d2a0172532789d31",
-      "doi": null,
+      "doi": "10.48550/arXiv.2609.06898",
       "arxivId": "2609.06898",
       "pdf": null,
       "citationCount": 0,
@@ -3827,11 +3827,11 @@
       ],
       "affiliations": [],
       "year": 2026,
-      "venue": null,
+      "venue": "arXiv.org",
       "publicationDate": "2026-09-11",
       "summary": "",
       "url": "https://www.semanticscholar.org/paper/f15f623bc04d4ae0e714dec90d51e497157a7f98",
-      "doi": null,
+      "doi": "10.48550/arXiv.2609.12960",
       "arxivId": "2609.12960",
       "pdf": null,
       "citationCount": 0,
@@ -3839,7 +3839,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2609.12960",
       "addedAt": "2026-09-14",
-      "score": 12.698412698412698
+      "score": 11.11111111111111
     },
     {
       "id": "be1cd3f0309afdb43223961d115b1316a09d5718",
@@ -4113,7 +4113,7 @@
     },
     {
       "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
-      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology",
+      "title": "MoirfEolas and CríochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology",
       "authors": [
         "J. Adkins",
         "Abigail Walsh",
@@ -4134,11 +4134,11 @@
       ],
       "affiliations": [],
       "year": 2026,
-      "venue": null,
+      "venue": "arXiv.org",
       "publicationDate": "2026-09-04",
       "summary": "It is found that the Unigram Language Model aligns with Irish morphology more often than the other algorithms evaluated, and trade-offs between morphological-alignment of tokenization with both compression as well as vocabulary efficiency are found, providing practical insights for Irish natural language processing development.",
       "url": "https://www.semanticscholar.org/paper/094a34f5d91455b67cb65da477912b76fcf92aab",
-      "doi": null,
+      "doi": "10.48550/arXiv.2609.05022",
       "arxivId": "2609.05022",
       "pdf": null,
       "citationCount": 0,
@@ -4583,7 +4583,7 @@
         "Johns Hopkins University"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "International Conference on Learning Representations",
       "publicationDate": "2026-03-05",
       "summary": "Algorithms that compose a language model with an FST to *marginalize* over source strings mapping to a given target, propagating probabilities through the transducer without altering model parameters and enabling *conditioning* on transformed outputs are developed.",
       "url": "https://www.semanticscholar.org/paper/181a1c2396a83c1f20afc3df1df9f2f5f73c44a7",
