@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:20:17.471Z",
+  "updatedAt": "2026-11-14T11:40:45.422Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -7,7 +7,7 @@
       "authors": [
         "Phillip Rust",
         "Jonas F. Lotz",
-        "E. Bugliarello",
+        "Emanuele Bugliarello",
         "Elizabeth Salesky",
         "Miryam de Lhoneux",
         "Desmond Elliott"
@@ -36,12 +36,12 @@
       "doi": null,
       "arxivId": "2207.06991",
       "pdf": null,
-      "citationCount": 80,
+      "citationCount": 81,
       "referenceCount": 145,
       "influentialCitationCount": 9,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
       "addedAt": "2026-09-12",
-      "score": 39.682539682539684
+      "score": 38.095238095238095
     },
     {
       "id": "e79d1206292bc5e67ba19737d87d4b2ea4a37105",
@@ -87,7 +87,7 @@
       "influentialCitationCount": 20,
       "source": "https://www.semanticscholar.org/paper/e79d1206292bc5e67ba19737d87d4b2ea4a37105",
       "addedAt": "2026-09-12",
-      "score": 66.66666666666666
+      "score": 65.07936507936508
     },
     {
       "id": "9c2e4e5ee224c20a45c37244924138b50f3fe603",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 838,
+      "citationCount": 839,
       "referenceCount": 68,
       "influentialCitationCount": 109,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -324,7 +324,7 @@
       "influentialCitationCount": 53,
       "source": "https://www.semanticscholar.org/paper/969287b8a96e242793b11f0dbb99ec341228106f",
       "addedAt": "2026-09-12",
-      "score": 92.06349206349206
+      "score": 90.47619047619048
     },
     {
       "id": "485b3f77b9913e151e7ca897d99497e70e7f30d1",
@@ -481,12 +481,12 @@
       "doi": "10.48550/arXiv.2112.10508",
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 256,
+      "citationCount": 257,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
       "addedAt": "2026-09-12",
-      "score": 65.07936507936508
+      "score": 63.49206349206349
     },
     {
       "id": "d87647784c12517d31964cc508d5b8423cc24f50",
@@ -639,7 +639,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/62ece609555bf833a2afd25ef796d72b5f59e767",
       "addedAt": "2026-09-12",
-      "score": 20.634920634920633
+      "score": 19.047619047619047
     },
     {
       "id": "feeed68c23932fda1cc9f222b5b7690b2ad7e706",
@@ -676,7 +676,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/12d2a697f1ee6a63859efe6b288ddb5eb6bd97c1",
       "addedAt": "2026-09-12",
-      "score": 1.5873015873015872
+      "score": 11.11111111111111
     },
     {
       "id": "a0568d0bf4cbfcb5a17a20c576dfc421c4ccfb7c",
@@ -713,7 +713,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/023fd42f0867a88a2206f906c7f127701058feb6",
       "addedAt": "2026-09-12",
-      "score": 25.396825396825395
+      "score": 23.809523809523807
     },
     {
       "id": "2f07f97563a73d9b691ec6144e4bba25a347ab87",
@@ -752,7 +752,7 @@
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/2f07f97563a73d9b691ec6144e4bba25a347ab87",
       "addedAt": "2026-09-12",
-      "score": 25.396825396825395
+      "score": 23.809523809523807
     },
     {
       "id": "b639124771f9c62cd656a24e8e685a456918e0ff",
@@ -865,7 +865,7 @@
       "influentialCitationCount": 13,
       "source": "https://www.semanticscholar.org/paper/2ffacbeeebd3d9e7467610057b4308635a165b6b",
       "addedAt": "2026-09-12",
-      "score": 20.634920634920633
+      "score": 19.047619047619047
     },
     {
       "id": "17e2977b907aad2532c45185947539e83ac639cd",
@@ -908,7 +908,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/17e2977b907aad2532c45185947539e83ac639cd",
       "addedAt": "2026-09-12",
-      "score": 19.047619047619047
+      "score": 17.46031746031746
     },
     {
       "id": "062cfd5cbafa47950a5ebbd306cd0059dfd79f75",
@@ -976,12 +976,12 @@
       "doi": "10.18653/v1/D19-1141",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/D19-1141.pdf",
-      "citationCount": 93,
+      "citationCount": 94,
       "referenceCount": 39,
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/035df9ecf84da7ae475175f326095ab16b97dd47",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 31.746031746031743
     },
     {
       "id": "5e788c833321b12671206b96a438c0e5b1202027",
@@ -1090,7 +1090,7 @@
       "doi": "10.48550/arXiv.2109.01100",
       "arxivId": "2109.01100",
       "pdf": "http://arxiv.org/pdf/2109.01100",
-      "citationCount": 17,
+      "citationCount": 18,
       "referenceCount": 60,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/2ffbe6040369a82d5a003c2bb835e221c9d2f896",
@@ -1243,7 +1243,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e6b73466bab5e52ce0db19dd06d9353c26557dae",
       "addedAt": "2026-09-12",
-      "score": 14.285714285714285
+      "score": 12.698412698412698
     },
     {
       "id": "4d6f9558ccfd712e2ef0921a7cb6625698c3cb0c",
@@ -1283,7 +1283,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/4d6f9558ccfd712e2ef0921a7cb6625698c3cb0c",
       "addedAt": "2026-09-12",
-      "score": 12.698412698412698
+      "score": 11.11111111111111
     },
     {
       "id": "ad6c25a46a083e02dbfcdd4b6341945d517b5e31",
@@ -1325,7 +1325,7 @@
       "influentialCitationCount": 2,
       "source": "https://www.semanticscholar.org/paper/ad6c25a46a083e02dbfcdd4b6341945d517b5e31",
       "addedAt": "2026-09-12",
-      "score": 15.873015873015872
+      "score": 14.285714285714285
     },
     {
       "id": "bbeb9e5d4d51194d8e557ef7a6d927bdd62e9309",
@@ -1435,7 +1435,7 @@
       "doi": "10.48550/arXiv.2102.10864",
       "arxivId": "2102.10864",
       "pdf": "http://arxiv.org/pdf/2102.10864",
-      "citationCount": 35,
+      "citationCount": 36,
       "referenceCount": 17,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/188cd686fb2200f237f688dbda7f64ffc75e67ac",
@@ -1514,7 +1514,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/17a4477765f27fe3ad037eff9e663ffc6799d7fe",
       "addedAt": "2026-09-12",
-      "score": 15.873015873015872
+      "score": 14.285714285714285
     },
     {
       "id": "373588ff1fb9f7590db000a04de8d838b1516e5a",
@@ -1586,7 +1586,7 @@
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/15db055ac7cb49bac96cc1be1270d9bf2b0b1770",
       "addedAt": "2026-09-12",
-      "score": 11.11111111111111
+      "score": 9.523809523809524
     },
     {
       "id": "62a7f3c14c15d8f5d1c643ceb991dddb36e3c47c",
@@ -1860,8 +1860,8 @@
       "doi": "10.48550/arXiv.2306.16842",
       "arxivId": "2306.16842",
       "pdf": "http://arxiv.org/pdf/2306.16842",
-      "citationCount": 87,
-      "referenceCount": 47,
+      "citationCount": 88,
+      "referenceCount": 46,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
       "addedAt": "2026-09-12",
@@ -1904,7 +1904,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/4044c062683533d92f598715afe2508be29c739c",
       "addedAt": "2026-09-12",
-      "score": 17.46031746031746
+      "score": 15.873015873015872
     },
     {
       "id": "ea8197cb357af6f89e8b6e5548897236a24719b1",
@@ -1935,7 +1935,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/ea8197cb357af6f89e8b6e5548897236a24719b1",
       "addedAt": "2026-09-12",
-      "score": 14.285714285714285
+      "score": 12.698412698412698
     },
     {
       "id": "9a56e9b5c1a96e758163296d15e960dfae44ce61",
@@ -1973,12 +1973,12 @@
       "doi": "10.48550/arXiv.2306.16837",
       "arxivId": "2306.16837",
       "pdf": "http://arxiv.org/pdf/2306.16837",
-      "citationCount": 69,
+      "citationCount": 70,
       "referenceCount": 22,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
       "addedAt": "2026-09-12",
-      "score": 19.047619047619047
+      "score": 17.46031746031746
     },
     {
       "id": "66e13b987c86e9c40b10b27672c83848f316609a",
@@ -2051,7 +2051,7 @@
       "doi": "10.48550/arXiv.2601.13260",
       "arxivId": "2601.13260",
       "pdf": null,
-      "citationCount": 12,
+      "citationCount": 13,
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2601.13260",
@@ -2831,7 +2831,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1480,
+      "citationCount": 1481,
       "referenceCount": 36,
       "influentialCitationCount": 166,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2919,23 +2919,25 @@
       "id": "1518039b5001f1836565215eb047526b3ac7f462",
       "title": "Neural Machine Translation of Rare Words with Subword Units",
       "authors": [
-        "R. Sennrich",
+        "Rico Sennrich",
         "B. Haddow",
         "Alexandra Birch"
       ],
       "topAuthors": [
         {
-          "name": "R. Sennrich",
-          "hIndex": 48,
-          "authorId": "2066518243"
-        },
-        {
           "name": "B. Haddow",
           "hIndex": 46,
           "authorId": "2259100"
+        },
+        {
+          "name": "Alexandra Birch",
+          "hIndex": 31,
+          "authorId": "2539211"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "University of Zurich"
+      ],
       "year": 2015,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2015-08-31",
@@ -2944,9 +2946,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9294,
+      "citationCount": 9304,
       "referenceCount": 40,
-      "influentialCitationCount": 1103,
+      "influentialCitationCount": 1112,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -2989,7 +2991,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2212.09897",
       "addedAt": "2026-09-14",
-      "score": 22.22222222222222
+      "score": 20.634920634920633
     },
     {
       "id": "915b10732f264bebd952c806db93692bf2cf8b08",
@@ -3048,7 +3050,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4477,
+      "citationCount": 4482,
       "referenceCount": 16,
       "influentialCitationCount": 283,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -4283,7 +4285,7 @@
       "doi": "10.48550/arXiv.2605.22821",
       "arxivId": "2605.22821",
       "pdf": null,
-      "citationCount": 5,
+      "citationCount": 6,
       "referenceCount": 37,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2605.22821",
