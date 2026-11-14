@@ -1,26 +1,56 @@
 {
   "window": "past month",
-  "proposedAt": "2026-09-23T14:54:11.490Z",
+  "proposedAt": "2026-11-14T11:40:48.619Z",
   "papers": [
     {
-      "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
-      "link": "https://arxiv.org/abs/2609.05022",
-      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology"
+      "id": "14dd3ed9484ee7722c89821b01ec03f48f5900e9",
+      "link": "https://arxiv.org/abs/2611.04215",
+      "title": "Tokenizer Myths and Where To Find Them"
     },
     {
-      "id": "eeec59a39c5ed0d7d65b07cccaaba87c1e36cfe4",
-      "link": "https://arxiv.org/abs/2609.01151",
-      "title": "Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining"
+      "id": "9fc31562a43c570fa1a64c8559798e7627fdd158",
+      "link": "https://arxiv.org/abs/2611.05255",
+      "title": "Going Deeper With Memories"
     },
     {
-      "id": "6bc2b78827134ed7c62321b4e18f026f2ec7691f",
-      "link": "https://arxiv.org/abs/2608.27658",
-      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages"
+      "id": "535a0b155aaa63b74e485ff9afea4bbd9de9c7c7",
+      "link": "https://arxiv.org/abs/2610.24290",
+      "title": "Beyond Clean Accuracy: The Practical Challenges and Benefits of Pixel-Based Language Models"
     },
     {
-      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
-      "link": "https://arxiv.org/abs/2608.26449",
-      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+      "id": "ada1f579989d0bfec3618fac0a6989331dceb811",
+      "link": "https://arxiv.org/abs/2611.06006",
+      "title": "Familiar letters, not related languages, let unseen languages into a shared space of meaning"
+    },
+    {
+      "id": "56d4bfc53bb2c26aec66634a908b3e81fcfdaab2",
+      "link": "https://arxiv.org/abs/2611.14459",
+      "title": "When does text encoding matter for language modeling?"
+    },
+    {
+      "id": "e206b82edcf163c728ff8c4d6e5699d5873c8e52",
+      "link": "https://arxiv.org/abs/2611.14818",
+      "title": "What Do Tokenizer Comparisons Measure? Disentangling Granularity, Root Assignment, and Word-Level Readout across Amharic and Hausa"
+    },
+    {
+      "id": "ab0fa94740adf4fdb74a95af83b0ede0de212bb8",
+      "link": "https://arxiv.org/abs/2610.26225",
+      "title": "Rethinking BPE: Merge Selection as Model Selection"
+    },
+    {
+      "id": "3269ce7798808add134f5f030cce87991b286aaf",
+      "link": "https://arxiv.org/abs/2610.29681",
+      "title": "Scaling Multilingual Pretraining of Pixel Language Models"
+    },
+    {
+      "id": "d1665870cc6e01e381dcefc1a9f0977c06de6036",
+      "link": "https://arxiv.org/abs/2611.11027",
+      "title": "MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling"
+    },
+    {
+      "id": "aa0c2be239eb451e5c7a244acc9353643b9f5329",
+      "link": "https://doi.org/10.1145/3799682.3841165",
+      "title": "Mitigating the Morpheme Tokenization Bottleneck in Agglutinative Languages: A Korean Case Study with Interleave Attention"
     }
   ]
 }
