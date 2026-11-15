@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:40:45.422Z",
+  "updatedAt": "2026-11-15T12:01:21.202Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -2109,7 +2109,7 @@
         "Lin Zheng",
         "Xin-Yu Li",
         "Qi Liu",
-        "Xiachong Feng",
+        "Xia-Chong Feng",
         "Lingpeng Kong"
       ],
       "topAuthors": [
@@ -2523,7 +2523,7 @@
         "Malikeh Ehghaghi",
         "Brian Lester",
         "Fengyuan Liu",
-        "Wanru Zhao",
+        "Wan-Ru Zhao",
         "Marco Ciccone",
         "Colin A. Raffel"
       ],
@@ -2946,9 +2946,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9304,
+      "citationCount": 9308,
       "referenceCount": 40,
-      "influentialCitationCount": 1112,
+      "influentialCitationCount": 1111,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3050,9 +3050,9 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4482,
+      "citationCount": 4483,
       "referenceCount": 16,
-      "influentialCitationCount": 283,
+      "influentialCitationCount": 282,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
       "score": 46.03174603174603
@@ -3961,7 +3961,7 @@
       "title": "Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks",
       "authors": [
         "Vani Kanjirangat",
-        "Tanja Samardzic",
+        "Tanja Samardžić",
         "Ljiljana Dolamic",
         "Fabio Rinaldi"
       ],
@@ -4562,7 +4562,7 @@
       "id": "181a1c2396a83c1f20afc3df1df9f2f5f73c44a7",
       "title": "Transducing Language Models",
       "authors": [
-        "V'esteinn Snaebjarnarson",
+        "Vésteinn Snæbjarnarson",
         "Samuel Kiegeland",
         "Tianyu Liu",
         "Reda Boumasmoud",
