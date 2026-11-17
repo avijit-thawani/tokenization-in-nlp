@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T12:55:27.012Z",
+  "updatedAt": "2026-11-17T13:35:25.605Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -54,7 +54,7 @@
         "Hyung Won Chung",
         "Dara Bahri",
         "Zhen Qin",
-        "Simon Baumgartner",
+        "S. Baumgartner",
         "Cong Yu",
         "Donald Metzler"
       ],
@@ -206,7 +206,7 @@
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
       "citationCount": 839,
       "referenceCount": 68,
-      "influentialCitationCount": 109,
+      "influentialCitationCount": 110,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -408,7 +408,7 @@
       "authors": [
         "Hicham El Boukkouri",
         "Olivier Ferret",
-        "T. Lavergne",
+        "Thomas Lavergne",
         "Hiroshi Noji",
         "Pierre Zweigenbaum",
         "Junichi Tsujii"
@@ -420,9 +420,9 @@
           "authorId": "1737901"
         },
         {
-          "name": "T. Lavergne",
-          "hIndex": 48,
-          "authorId": "46853620"
+          "name": "Pierre Zweigenbaum",
+          "hIndex": 40,
+          "authorId": "3232546"
         }
       ],
       "affiliations": [],
@@ -481,7 +481,7 @@
       "doi": "10.48550/arXiv.2112.10508",
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 257,
+      "citationCount": 258,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
@@ -976,7 +976,7 @@
       "doi": "10.18653/v1/D19-1141",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/D19-1141.pdf",
-      "citationCount": 94,
+      "citationCount": 95,
       "referenceCount": 39,
       "influentialCitationCount": 4,
       "source": "https://www.semanticscholar.org/paper/035df9ecf84da7ae475175f326095ab16b97dd47",
@@ -1367,7 +1367,7 @@
       "id": "1babe379f8547a9dc43251e5c5a7bea4a3de5ea1",
       "title": "Handling Out-Of-Vocabulary Problem in Hangeul Word Embeddings",
       "authors": [
-        "O-Yeon Kwon",
+        "O. Kwon",
         "Dohyun Kim",
         "Soobee Lee",
         "Jun-Heuk Choi",
@@ -1408,7 +1408,7 @@
       "title": "Subword Pooling Makes a Difference",
       "authors": [
         "Judit Ács",
-        "'Akos K'ad'ar",
+        "Ákos Kádár",
         "András Kornai"
       ],
       "topAuthors": [
@@ -1418,9 +1418,9 @@
           "authorId": "2979211"
         },
         {
-          "name": "Judit Ács",
-          "hIndex": 9,
-          "authorId": "2285758"
+          "name": "Ákos Kádár",
+          "hIndex": 11,
+          "authorId": "2828538"
         }
       ],
       "affiliations": [
@@ -1448,12 +1448,12 @@
       "authors": [
         "Ximena Gutierrez-Vasques",
         "C. Bentz",
-        "Olga Sozinova",
-        "T. Samardžić"
+        "O. Sozinova",
+        "Tanja Samardžić"
       ],
       "topAuthors": [
         {
-          "name": "T. Samardžić",
+          "name": "Tanja Samardžić",
           "hIndex": 20,
           "authorId": "2044631"
         },
@@ -2065,7 +2065,6 @@
         "Benjamin Minixhofer",
         "Tyler Murray",
         "Tomasz Limisiewicz",
-        "Anna Korhonen",
         "Luke S. Zettlemoyer",
         "Noah A. Smith",
         "E. Ponti",
@@ -2381,7 +2380,7 @@
       "title": "Emergent retokenization symmetry in large language models: phenomenology and applications",
       "authors": [
         "Kanishk Jain",
-        "M. Day",
+        "Matthew Day",
         "Tankut Can"
       ],
       "topAuthors": [
@@ -2519,7 +2518,7 @@
       "id": "33ab1733c27c959e72a836241629f919cd45b22f",
       "title": "TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior",
       "authors": [
-        "G. S. Altintas",
+        "G. Altintas",
         "Malikeh Ehghaghi",
         "Brian Lester",
         "Fengyuan Liu",
@@ -2530,8 +2529,8 @@
       "topAuthors": [
         {
           "name": "Colin A. Raffel",
-          "hIndex": 19,
-          "authorId": "2269733851"
+          "hIndex": 60,
+          "authorId": "2402716"
         },
         {
           "name": "Brian Lester",
@@ -2632,9 +2631,9 @@
       "authors": [
         "Clara Meister",
         "Suchir Salhan",
-        "Andrzej T. Szablewski",
+        "A. Szablewski",
         "Pietro Lesci",
-        "Paula Buttery",
+        "P. Buttery",
         "Tiago Pimentel"
       ],
       "topAuthors": [
@@ -2644,9 +2643,9 @@
           "authorId": "150953620"
         },
         {
-          "name": "Pietro Lesci",
-          "hIndex": 7,
-          "authorId": "2219036385"
+          "name": "P. Buttery",
+          "hIndex": 20,
+          "authorId": "33490976"
         }
       ],
       "affiliations": [],
@@ -2669,8 +2668,8 @@
       "id": "891a35ad81bbaa33b16443e3372e22192c1bd417",
       "title": "Parallel Tokenizers: Rethinking Encoder Models’ Vocabulary Design in Cross-Lingual Transfer of Low-Resource Languages",
       "authors": [
-        "M. Dehan",
-        "Aldry Kautsar",
+        "Muhammad Dehan",
+        "Alvi Kautsar",
         "Fajri Koto",
         "Alexis Conneau",
         "Kartikay Khandelwal",
@@ -2692,7 +2691,7 @@
         "Ahmad Al-Dahle",
         "Aiesha Letman",
         "Akhil Mathur",
-        "Alan Schel-ten",
+        "A. Schelten",
         "Amy Yang",
         "Rituraj Joshi",
         "Nurdaulet Mukhituly",
@@ -2831,9 +2830,9 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1481,
+      "citationCount": 1482,
       "referenceCount": 36,
-      "influentialCitationCount": 166,
+      "influentialCitationCount": 167,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
       "score": 98.4126984126984
@@ -2946,7 +2945,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9308,
+      "citationCount": 9312,
       "referenceCount": 40,
       "influentialCitationCount": 1111,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -2997,13 +2996,13 @@
       "id": "915b10732f264bebd952c806db93692bf2cf8b08",
       "title": "SpaceByte: Towards Deleting Tokenization from Large Language Modeling",
       "authors": [
-        "K. Slagle"
+        "Kevin Slagle"
       ],
       "topAuthors": [
         {
-          "name": "K. Slagle",
-          "hIndex": 23,
-          "authorId": "40010048"
+          "name": "Kevin Slagle",
+          "hIndex": 0,
+          "authorId": "2558176915"
         }
       ],
       "affiliations": [],
@@ -3050,9 +3049,9 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4484,
+      "citationCount": 4487,
       "referenceCount": 16,
-      "influentialCitationCount": 282,
+      "influentialCitationCount": 283,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
       "score": 46.03174603174603
@@ -3136,7 +3135,7 @@
         "Catherine Arnett",
         "Tyler A. Chang",
         "Stella Biderman",
-        "Benjamin K. Bergen"
+        "B. Bergen"
       ],
       "topAuthors": [
         {
@@ -3145,9 +3144,9 @@
           "authorId": "103476203"
         },
         {
-          "name": "Catherine Arnett",
-          "hIndex": 10,
-          "authorId": "2257347764"
+          "name": "B. Bergen",
+          "hIndex": 33,
+          "authorId": "24316216"
         }
       ],
       "affiliations": [
@@ -3173,7 +3172,7 @@
       "id": "db2d64d7f4cef3f08ee05f318dd2c8742f22aed6",
       "title": "Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet",
       "authors": [
-        "Milan Miletic",
+        "Milan Miletić",
         "Julie Kallini",
         "Ekaterina Shutova"
       ],
@@ -3220,14 +3219,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Insu Han",
+          "hIndex": 12,
+          "authorId": "2237714"
+        },
+        {
           "name": "Youngmok Jung",
           "hIndex": 8,
           "authorId": "81087377"
-        },
-        {
-          "name": "Jonghoon Lee",
-          "hIndex": 7,
-          "authorId": "2108604555"
         }
       ],
       "affiliations": [],
@@ -3255,19 +3254,19 @@
         "Sofiane Ennadir",
         "Anya Sims",
         "Arno Solin",
-        "Franz Pernkopf",
+        "F. Pernkopf",
         "Martin Trapp"
       ],
       "topAuthors": [
         {
+          "name": "F. Pernkopf",
+          "hIndex": 35,
+          "authorId": "1691836"
+        },
+        {
           "name": "Anya Sims",
           "hIndex": 8,
           "authorId": "2284762450"
-        },
-        {
-          "name": "Sofiane Ennadir",
-          "hIndex": 6,
-          "authorId": "2187458074"
         }
       ],
       "affiliations": [],
@@ -3729,12 +3728,12 @@
         "Elle Michelle Yang",
         "Mark Chen",
         "Jerry Tworek",
-        "Hee-woo Jun",
+        "Heewoo Jun",
         "Qim-ing Yuan",
         "Henrique Pondé",
         "Oliveira Pinto",
-        "J. Kaplan",
-        "Harri Edwards",
+        "Jared Kaplan",
+        "H. Edwards",
         "Yuri Burda",
         "Nicholas Joseph",
         "Greg Brockman",
@@ -3743,7 +3742,7 @@
         "G. Krueger",
         "Michael Petrov",
         "Heidy Khlaaf",
-        "Girish Sas-try",
+        "G. Sastry",
         "Pamela Mishkin",
         "Brooke Chan",
         "K. Cobbe",
@@ -3753,18 +3752,18 @@
         "Matthias Plappert",
         "Jacob Hilton",
         "Reiichiro Nakano",
-        "Christopher Hesse"
+        "C. Hesse"
       ],
       "topAuthors": [
         {
-          "name": "J. Kaplan",
+          "name": "Jared Kaplan",
           "hIndex": 31,
           "authorId": "2053807409"
         },
         {
-          "name": "Nicholas Joseph",
-          "hIndex": 18,
-          "authorId": "2117706920"
+          "name": "L. Kaiser",
+          "hIndex": 31,
+          "authorId": "40527594"
         }
       ],
       "affiliations": [
@@ -3924,7 +3923,7 @@
       "id": "5c667b8297631551de12e1b888bb57251f427716",
       "title": "Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages",
       "authors": [
-        "Wenhao Zhuang",
+        "Wen-Hao Zhuang",
         "Yuan Sun",
         "Xiao-Bing Zhao"
       ],
@@ -3935,9 +3934,9 @@
           "authorId": "1991626"
         },
         {
-          "name": "Yuan Sun",
-          "hIndex": 5,
-          "authorId": "2336529909"
+          "name": "Wen-Hao Zhuang",
+          "hIndex": 6,
+          "authorId": "2356547624"
         }
       ],
       "affiliations": [],
@@ -3967,14 +3966,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Tanja Samardžić",
+          "hIndex": 20,
+          "authorId": "2044631"
+        },
+        {
           "name": "Vani Kanjirangat",
           "hIndex": 9,
           "authorId": "2125681709"
-        },
-        {
-          "name": "Ljiljana Dolamic",
-          "hIndex": 5,
-          "authorId": "2502999306"
         }
       ],
       "affiliations": [],
@@ -4001,7 +4000,7 @@
         "Li Dong",
         "Shao-Han Huang",
         "Saksham Singhal",
-        "Wanxiang Che",
+        "W. Che",
         "Ting Liu",
         "Xia Song",
         "Furu Wei"
@@ -4117,7 +4116,7 @@
       "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
       "title": "MoirfEolas and CríochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology",
       "authors": [
-        "J. Adkins",
+        "Jane Adkins",
         "Abigail Walsh",
         "Brian Davis",
         "Elaine Uí Dhonnchadha"
@@ -4129,7 +4128,7 @@
           "authorId": "8358502"
         },
         {
-          "name": "J. Adkins",
+          "name": "Jane Adkins",
           "hIndex": 2,
           "authorId": "145526160"
         }
@@ -4259,21 +4258,21 @@
       "title": "Tokenisation via Convex Relaxations",
       "authors": [
         "Jan Tempus",
-        "P. Whittington",
+        "Philip Whittington",
         "Craig W. Schmidt",
-        "Dennis Komm",
+        "D. Komm",
         "Tiago Pimentel"
       ],
       "topAuthors": [
         {
+          "name": "D. Komm",
+          "hIndex": 16,
+          "authorId": "2355288"
+        },
+        {
           "name": "Craig W. Schmidt",
           "hIndex": 7,
           "authorId": "2287933541"
-        },
-        {
-          "name": "P. Whittington",
-          "hIndex": 4,
-          "authorId": "2214310514"
         }
       ],
       "affiliations": [],
@@ -4490,7 +4489,7 @@
       "id": "73ccb7129fd841ee27002c960733bff7a9a6889d",
       "title": "A Pilot Study of Autocompleting Tokenizers",
       "authors": [
-        "Samuel S. Wexler",
+        "S. Wexler",
         "Mark Hopkins"
       ],
       "topAuthors": [
@@ -4500,7 +4499,7 @@
           "authorId": "2008176569"
         },
         {
-          "name": "Samuel S. Wexler",
+          "name": "S. Wexler",
           "hIndex": 0,
           "authorId": "2458034905"
         }
@@ -4710,7 +4709,7 @@
       "id": "ee715890cc408b18286b2aebfae2fbfbc95fa8cb",
       "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
       "authors": [
-        "Ahmetcan Yavuz",
+        "A. Yavuz",
         "Clara Meister",
         "Tiago Pimentel"
       ],
@@ -4746,19 +4745,19 @@
       "id": "48a7bc6b2fa259e97b8726ae0e369a82432fc51c",
       "title": "What do we talk about when we talk about extractivism?",
       "authors": [
-        "Imre Szeman",
-        "Jennifer Wenzel"
+        "I. Szemán",
+        "J. Wenzel"
       ],
       "topAuthors": [
         {
-          "name": "Jennifer Wenzel",
-          "hIndex": 29,
-          "authorId": "47420554"
-        },
-        {
-          "name": "Imre Szeman",
+          "name": "I. Szemán",
           "hIndex": 20,
           "authorId": "73232376"
+        },
+        {
+          "name": "J. Wenzel",
+          "hIndex": 0,
+          "authorId": "2164402950"
         }
       ],
       "affiliations": [],
