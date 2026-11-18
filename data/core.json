@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:35:25.605Z",
+  "updatedAt": "2026-11-18T13:11:41.753Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -36,7 +36,7 @@
       "doi": null,
       "arxivId": "2207.06991",
       "pdf": null,
-      "citationCount": 81,
+      "citationCount": 82,
       "referenceCount": 145,
       "influentialCitationCount": 9,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
@@ -183,7 +183,7 @@
       "topAuthors": [
         {
           "name": "Colin A. Raffel",
-          "hIndex": 60,
+          "hIndex": 69,
           "authorId": "2402716"
         },
         {
@@ -204,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 839,
+      "citationCount": 840,
       "referenceCount": 68,
-      "influentialCitationCount": 110,
+      "influentialCitationCount": 109,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -299,7 +299,7 @@
       "topAuthors": [
         {
           "name": "J. Wieting",
-          "hIndex": 28,
+          "hIndex": 30,
           "authorId": "1771118"
         },
         {
@@ -339,12 +339,12 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 95,
+          "hIndex": 96,
           "authorId": "1700325"
         },
         {
           "name": "J. Niehues",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "2920247"
         }
       ],
@@ -460,7 +460,7 @@
       "topAuthors": [
         {
           "name": "Colin A. Raffel",
-          "hIndex": 60,
+          "hIndex": 69,
           "authorId": "2402716"
         },
         {
@@ -844,9 +844,9 @@
           "authorId": "2648640"
         },
         {
-          "name": "E. Yilmaz",
-          "hIndex": 9,
-          "authorId": "1830448719"
+          "name": "Furkan Şahinuç",
+          "hIndex": 13,
+          "authorId": "107973475"
         }
       ],
       "affiliations": [
@@ -882,7 +882,7 @@
       "topAuthors": [
         {
           "name": "Mohit Bansal",
-          "hIndex": 88,
+          "hIndex": 89,
           "authorId": "143977268"
         },
         {
@@ -1053,7 +1053,7 @@
       "doi": "10.18653/v1/2021.emnlp-main.576",
       "arxivId": "2104.08211",
       "pdf": "https://aclanthology.org/2021.emnlp-main.576.pdf",
-      "citationCount": 68,
+      "citationCount": 69,
       "referenceCount": 56,
       "influentialCitationCount": 5,
       "source": "https://www.semanticscholar.org/paper/5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -1070,7 +1070,7 @@
       "topAuthors": [
         {
           "name": "R. Sennrich",
-          "hIndex": 48,
+          "hIndex": 33,
           "authorId": "2066518243"
         },
         {
@@ -1146,7 +1146,7 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 95,
+          "hIndex": 96,
           "authorId": "1700325"
         },
         {
@@ -1219,14 +1219,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Sergey Troshin",
+          "hIndex": 9,
+          "authorId": "2380395531"
+        },
+        {
           "name": "Nadezhda Chirkova",
           "hIndex": 2,
           "authorId": "2366425931"
-        },
-        {
-          "name": "Sergey Troshin",
-          "hIndex": 2,
-          "authorId": "2380395531"
         }
       ],
       "affiliations": [],
@@ -1299,7 +1299,7 @@
       "topAuthors": [
         {
           "name": "Gustavo Aguilar",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "46402847"
         },
         {
@@ -1419,7 +1419,7 @@
         },
         {
           "name": "Ákos Kádár",
-          "hIndex": 11,
+          "hIndex": 13,
           "authorId": "2828538"
         }
       ],
@@ -1491,7 +1491,7 @@
       "topAuthors": [
         {
           "name": "C. Scarton",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "2064492081"
         },
         {
@@ -1526,7 +1526,7 @@
       "topAuthors": [
         {
           "name": "F. Casacuberta",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "1696761"
         },
         {
@@ -1650,7 +1650,7 @@
         },
         {
           "name": "Alexey Kurakin",
-          "hIndex": 24,
+          "hIndex": 28,
           "authorId": "145714153"
         }
       ],
@@ -1860,7 +1860,7 @@
       "doi": "10.48550/arXiv.2306.16842",
       "arxivId": "2306.16842",
       "pdf": "http://arxiv.org/pdf/2306.16842",
-      "citationCount": 88,
+      "citationCount": 89,
       "referenceCount": 46,
       "influentialCitationCount": 10,
       "source": "https://www.semanticscholar.org/paper/5917ba80a905aeba41487f7dcdb8b885f18689f5",
@@ -1973,7 +1973,7 @@
       "doi": "10.48550/arXiv.2306.16837",
       "arxivId": "2306.16837",
       "pdf": "http://arxiv.org/pdf/2306.16837",
-      "citationCount": 70,
+      "citationCount": 71,
       "referenceCount": 22,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
@@ -1987,17 +1987,17 @@
         "Preston Firestone",
         "Shubham Ugare",
         "Gagandeep Singh",
-        "Sasa Misailovic"
+        "S. Misailovic"
       ],
       "topAuthors": [
         {
-          "name": "Sasa Misailovic",
+          "name": "S. Misailovic",
           "hIndex": 32,
           "authorId": "1704478"
         },
         {
           "name": "Shubham Ugare",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "1413931779"
         }
       ],
@@ -2065,6 +2065,7 @@
         "Benjamin Minixhofer",
         "Tyler Murray",
         "Tomasz Limisiewicz",
+        "A. Korhonen",
         "Luke S. Zettlemoyer",
         "Noah A. Smith",
         "E. Ponti",
@@ -2073,14 +2074,14 @@
       ],
       "topAuthors": [
         {
+          "name": "A. Korhonen",
+          "hIndex": 57,
+          "authorId": "145762466"
+        },
+        {
           "name": "E. Ponti",
           "hIndex": 37,
           "authorId": "3381663"
-        },
-        {
-          "name": "Luca Soldaini",
-          "hIndex": 35,
-          "authorId": "3328733"
         }
       ],
       "affiliations": [
@@ -2157,7 +2158,7 @@
       "topAuthors": [
         {
           "name": "Artidoro Pagnoni",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "51152502"
         },
         {
@@ -2188,7 +2189,7 @@
       "authors": [
         "Sha-Ni Chen",
         "Yuval Reif",
-        "N. Roll",
+        "Nathan Roll",
         "Dan Jurafsky",
         "E. Shutova"
       ],
@@ -2215,7 +2216,7 @@
       "doi": "10.48550/arXiv.2601.07220",
       "arxivId": "2601.07220",
       "pdf": null,
-      "citationCount": 11,
+      "citationCount": 12,
       "referenceCount": 198,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2601.07220",
@@ -2265,7 +2266,7 @@
       "authors": [
         "Lin Zheng",
         "Vasilisa Bashlovkina",
-        "Tim Dozat",
+        "Timothy Dozat",
         "Dan Garrette",
         "L. Rimell",
         "Joshua Maynez"
@@ -2277,9 +2278,9 @@
           "authorId": "2554988"
         },
         {
-          "name": "Joshua Maynez",
-          "hIndex": 13,
-          "authorId": "2124977868"
+          "name": "Timothy Dozat",
+          "hIndex": 18,
+          "authorId": "2277385"
         }
       ],
       "affiliations": [
@@ -2529,7 +2530,7 @@
       "topAuthors": [
         {
           "name": "Colin A. Raffel",
-          "hIndex": 60,
+          "hIndex": 69,
           "authorId": "2402716"
         },
         {
@@ -2691,14 +2692,14 @@
         "Ahmad Al-Dahle",
         "Aiesha Letman",
         "Akhil Mathur",
-        "A. Schelten",
+        "Alan Schelten",
         "Amy Yang",
         "Rituraj Joshi",
         "Nurdaulet Mukhituly",
         "Yu-Xiao Wang",
         "Zhuo-Han Xie",
         "Rahul Pal",
-        "D. Orel",
+        "Daniil Orel",
         "Parvez Mullah",
         "Diana Turmakhan",
         "Maiya Goloburda"
@@ -2706,7 +2707,7 @@
       "topAuthors": [
         {
           "name": "E. Grave",
-          "hIndex": 47,
+          "hIndex": 48,
           "authorId": "3024698"
         },
         {
@@ -2777,7 +2778,7 @@
         "Shailashree K. Sheshadri",
         "Deepa Gupta",
         "Biswajit Paul",
-        "J. Bhavani",
+        "J. S. Bhavani",
         "Priyanka C. Nair"
       ],
       "topAuthors": [
@@ -2830,9 +2831,9 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1482,
+      "citationCount": 1484,
       "referenceCount": 36,
-      "influentialCitationCount": 167,
+      "influentialCitationCount": 168,
       "source": "https://arxiv.org/abs/1804.10959",
       "addedAt": "2026-09-14",
       "score": 98.4126984126984
@@ -2848,14 +2849,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Jay Pujara",
+          "hIndex": 27,
+          "authorId": "2634786"
+        },
+        {
           "name": "Avijit Thawani",
           "hIndex": 7,
           "authorId": "37574242"
-        },
-        {
-          "name": "Xiao-Yuan Zhu",
-          "hIndex": 7,
-          "authorId": "2366158958"
         }
       ],
       "affiliations": [
@@ -2925,13 +2926,13 @@
       "topAuthors": [
         {
           "name": "B. Haddow",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "2259100"
         },
         {
-          "name": "Alexandra Birch",
+          "name": "Rico Sennrich",
           "hIndex": 31,
-          "authorId": "2539211"
+          "authorId": "2082372"
         }
       ],
       "affiliations": [
@@ -2945,7 +2946,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9312,
+      "citationCount": 9320,
       "referenceCount": 40,
       "influentialCitationCount": 1111,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3049,7 +3050,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4487,
+      "citationCount": 4492,
       "referenceCount": 16,
       "influentialCitationCount": 283,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3140,7 +3141,7 @@
       "topAuthors": [
         {
           "name": "Stella Biderman",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "103476203"
         },
         {
@@ -3220,7 +3221,7 @@
       "topAuthors": [
         {
           "name": "Insu Han",
-          "hIndex": 12,
+          "hIndex": 15,
           "authorId": "2237714"
         },
         {
@@ -3265,7 +3266,7 @@
         },
         {
           "name": "Anya Sims",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "2284762450"
         }
       ],
@@ -3330,13 +3331,13 @@
         "Chunyuan Deng",
         "Sanket Lokegaonkar",
         "Colin Lockard",
-        "B. Fetahu",
+        "Besnik Fetahu",
         "Nasser Zalmout",
         "Xian Li"
       ],
       "topAuthors": [
         {
-          "name": "B. Fetahu",
+          "name": "Besnik Fetahu",
           "hIndex": 22,
           "authorId": "1923602"
         },
@@ -3373,7 +3374,7 @@
       "topAuthors": [
         {
           "name": "Sander Land",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "2300370901"
         }
       ],
@@ -3440,7 +3441,7 @@
         "J. Layacan",
         "Richell Isaiah Flores",
         "Ivan Yuri De Leon",
-        "Lance Calvin Lim Gamboa"
+        "L. C. Gamboa"
       ],
       "topAuthors": [
         {
@@ -3450,7 +3451,7 @@
         },
         {
           "name": "J. Montalan",
-          "hIndex": 3,
+          "hIndex": 4,
           "authorId": "88741020"
         }
       ],
@@ -3576,7 +3577,7 @@
       "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
       "title": "Dynamic Multi-Byte Prediction With Hierarchical Language Models",
       "authors": [
-        "Abraham Toluwase Owodunni",
+        "A. Owodunni",
         "C. Okocha",
         "Christan Grant",
         "Tomasz Limisiewicz",
@@ -3584,14 +3585,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Abraham Toluwase Owodunni",
+          "name": "A. Owodunni",
           "hIndex": 6,
           "authorId": "2188832804"
         },
         {
-          "name": "C. Okocha",
-          "hIndex": 3,
-          "authorId": "2314866048"
+          "name": "Tomasz Limisiewicz",
+          "hIndex": 4,
+          "authorId": "2313645712"
         }
       ],
       "affiliations": [],
@@ -3621,7 +3622,7 @@
       "topAuthors": [
         {
           "name": "Catherine Arnett",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2257347764"
         },
         {
@@ -3736,7 +3737,7 @@
         "H. Edwards",
         "Yuri Burda",
         "Nicholas Joseph",
-        "Greg Brockman",
+        "G. Brockman",
         "A. Ray",
         "Raul Puri",
         "G. Krueger",
@@ -3746,7 +3747,7 @@
         "Pamela Mishkin",
         "Brooke Chan",
         "K. Cobbe",
-        "V. Kosaraju",
+        "Vineet Kosaraju",
         "Mo Bavarian",
         "L. Kaiser",
         "Matthias Plappert",
@@ -3757,12 +3758,12 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 31,
+          "hIndex": 40,
           "authorId": "2053807409"
         },
         {
           "name": "L. Kaiser",
-          "hIndex": 31,
+          "hIndex": 39,
           "authorId": "40527594"
         }
       ],
@@ -3935,7 +3936,7 @@
         },
         {
           "name": "Wen-Hao Zhuang",
-          "hIndex": 6,
+          "hIndex": 8,
           "authorId": "2356547624"
         }
       ],
@@ -4128,9 +4129,9 @@
           "authorId": "8358502"
         },
         {
-          "name": "Jane Adkins",
+          "name": "Abigail Walsh",
           "hIndex": 2,
-          "authorId": "145526160"
+          "authorId": "2345698831"
         }
       ],
       "affiliations": [],
@@ -4308,7 +4309,7 @@
       "topAuthors": [
         {
           "name": "Artidoro Pagnoni",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "51152502"
         },
         {
@@ -4375,13 +4376,13 @@
       "topAuthors": [
         {
           "name": "Vivek Srikumar",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "3052879"
         },
         {
-          "name": "Zhichao Xu",
+          "name": "Nishant Subramani",
           "hIndex": 15,
-          "authorId": "2284763197"
+          "authorId": "34202134"
         }
       ],
       "affiliations": [
@@ -4464,9 +4465,9 @@
           "authorId": "2023469"
         },
         {
-          "name": "Waseem AlShikh",
+          "name": "Sander Land",
           "hIndex": 6,
-          "authorId": "2221313482"
+          "authorId": "2300370901"
         }
       ],
       "affiliations": [],
@@ -4495,7 +4496,7 @@
       "topAuthors": [
         {
           "name": "Mark Hopkins",
-          "hIndex": 5,
+          "hIndex": 7,
           "authorId": "2008176569"
         },
         {
@@ -4530,7 +4531,7 @@
       "topAuthors": [
         {
           "name": "Mykola Haltiuk",
-          "hIndex": 3,
+          "hIndex": 4,
           "authorId": "2302559940"
         },
         {
@@ -4562,7 +4563,7 @@
       "title": "Transducing Language Models",
       "authors": [
         "Vésteinn Snæbjarnarson",
-        "Samuel Kiegeland",
+        "S. Kiegeland",
         "Tianyu Liu",
         "Reda Boumasmoud",
         "Ryan Cotterell",
@@ -4603,19 +4604,19 @@
       "title": "Pretraining Language Models with Subword Regularization: An Empirical Study of BPE Dropout in Low-Resource NLP",
       "authors": [
         "Ruan Visser",
-        "Trienko L. Grobler",
+        "T. Grobler",
         "Marcel Dunaiski"
       ],
       "topAuthors": [
         {
-          "name": "Trienko L. Grobler",
-          "hIndex": 3,
-          "authorId": "2237808590"
+          "name": "T. Grobler",
+          "hIndex": 12,
+          "authorId": "2007564"
         },
         {
           "name": "Marcel Dunaiski",
-          "hIndex": 3,
-          "authorId": "2325670099"
+          "hIndex": 6,
+          "authorId": "2300800038"
         }
       ],
       "affiliations": [],
@@ -4643,7 +4644,7 @@
       "topAuthors": [
         {
           "name": "Mykola Haltiuk",
-          "hIndex": 3,
+          "hIndex": 4,
           "authorId": "2302559940"
         }
       ],
@@ -4756,7 +4757,7 @@
         },
         {
           "name": "J. Wenzel",
-          "hIndex": 0,
+          "hIndex": 13,
           "authorId": "2164402950"
         }
       ],
