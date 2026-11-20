@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:25:31.378Z",
+  "updatedAt": "2026-11-20T13:08:57.382Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -36,7 +36,7 @@
       "doi": null,
       "arxivId": "2207.06991",
       "pdf": null,
-      "citationCount": 83,
+      "citationCount": 84,
       "referenceCount": 145,
       "influentialCitationCount": 9,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
@@ -82,7 +82,7 @@
       "doi": "10.48550/arXiv.2106.12672",
       "arxivId": "2106.12672",
       "pdf": "http://arxiv.org/pdf/2106.12672",
-      "citationCount": 228,
+      "citationCount": 229,
       "referenceCount": 70,
       "influentialCitationCount": 20,
       "source": "https://www.semanticscholar.org/paper/e79d1206292bc5e67ba19737d87d4b2ea4a37105",
@@ -204,7 +204,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 840,
+      "citationCount": 841,
       "referenceCount": 68,
       "influentialCitationCount": 109,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
@@ -1053,7 +1053,7 @@
       "doi": "10.18653/v1/2021.emnlp-main.576",
       "arxivId": "2104.08211",
       "pdf": "https://aclanthology.org/2021.emnlp-main.576.pdf",
-      "citationCount": 69,
+      "citationCount": 70,
       "referenceCount": 56,
       "influentialCitationCount": 5,
       "source": "https://www.semanticscholar.org/paper/5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -2946,7 +2946,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9324,
+      "citationCount": 9329,
       "referenceCount": 40,
       "influentialCitationCount": 1111,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3050,7 +3050,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4493,
+      "citationCount": 4494,
       "referenceCount": 16,
       "influentialCitationCount": 283,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -4526,18 +4526,18 @@
       "title": "Model-Aware Tokenizer Transfer",
       "authors": [
         "Mykola Haltiuk",
-        "Aleksander Smywi'nski-Pohl"
+        "Aleksander Smywiński-Pohl"
       ],
       "topAuthors": [
+        {
+          "name": "Aleksander Smywiński-Pohl",
+          "hIndex": 7,
+          "authorId": "1389949766"
+        },
         {
           "name": "Mykola Haltiuk",
           "hIndex": 4,
           "authorId": "2302559940"
-        },
-        {
-          "name": "Aleksander Smywi'nski-Pohl",
-          "hIndex": 1,
-          "authorId": "2409929597"
         }
       ],
       "affiliations": [
