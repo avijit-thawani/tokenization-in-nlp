@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:08:57.382Z",
+  "updatedAt": "2026-11-21T12:46:12.494Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -204,9 +204,9 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 841,
+      "citationCount": 842,
       "referenceCount": 68,
-      "influentialCitationCount": 109,
+      "influentialCitationCount": 110,
       "source": "https://www.semanticscholar.org/paper/1006d191e9eb5b4dbc35fc0bb389328ddc75cba7",
       "addedAt": "2026-09-12",
       "score": 100
@@ -2946,7 +2946,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9329,
+      "citationCount": 9333,
       "referenceCount": 40,
       "influentialCitationCount": 1111,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3050,9 +3050,9 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4494,
+      "citationCount": 4496,
       "referenceCount": 16,
-      "influentialCitationCount": 283,
+      "influentialCitationCount": 284,
       "source": "https://arxiv.org/abs/1808.06226",
       "addedAt": "2026-09-14",
       "score": 46.03174603174603
