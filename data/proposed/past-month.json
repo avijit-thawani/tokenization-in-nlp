@@ -1,26 +1,56 @@
 {
   "window": "past month",
-  "proposedAt": "2026-09-23T14:54:11.490Z",
+  "proposedAt": "2026-11-21T12:46:13.886Z",
   "papers": [
     {
-      "id": "094a34f5d91455b67cb65da477912b76fcf92aab",
-      "link": "https://arxiv.org/abs/2609.05022",
-      "title": "MoirfEolas and Cr\\'iochScore: Developing Resources for and the Evaluation of Tokenization Alignment with Irish Morphology"
+      "id": "14dd3ed9484ee7722c89821b01ec03f48f5900e9",
+      "link": "https://arxiv.org/abs/2611.04215",
+      "title": "Tokenizer Myths and Where To Find Them"
     },
     {
-      "id": "eeec59a39c5ed0d7d65b07cccaaba87c1e36cfe4",
-      "link": "https://arxiv.org/abs/2609.01151",
-      "title": "Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining"
+      "id": "d1665870cc6e01e381dcefc1a9f0977c06de6036",
+      "link": "https://arxiv.org/abs/2611.11027",
+      "title": "MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling"
     },
     {
-      "id": "6bc2b78827134ed7c62321b4e18f026f2ec7691f",
-      "link": "https://arxiv.org/abs/2608.27658",
-      "title": "When Tokenizers Fail: Byte-Level Chunking for Zero-Shot Transfer to Low-Resource Languages"
+      "id": "56d4bfc53bb2c26aec66634a908b3e81fcfdaab2",
+      "link": "https://arxiv.org/abs/2611.14459",
+      "title": "When does text encoding matter for language modeling?"
     },
     {
-      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
-      "link": "https://arxiv.org/abs/2608.26449",
-      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+      "id": "e206b82edcf163c728ff8c4d6e5699d5873c8e52",
+      "link": "https://arxiv.org/abs/2611.14818",
+      "title": "What Do Tokenizer Comparisons Measure? Disentangling Granularity, Root Assignment, and Word-Level Readout across Amharic and Hausa"
+    },
+    {
+      "id": "9fc31562a43c570fa1a64c8559798e7627fdd158",
+      "link": "https://arxiv.org/abs/2611.05255",
+      "title": "Going Deeper With Memories"
+    },
+    {
+      "id": "ada1f579989d0bfec3618fac0a6989331dceb811",
+      "link": "https://arxiv.org/abs/2611.06006",
+      "title": "Familiar letters, not related languages, let unseen languages into a shared space of meaning"
+    },
+    {
+      "id": "562098506a78ed87e12373dc7255c78f6598165f",
+      "link": "https://arxiv.org/abs/2611.15074",
+      "title": "Tokenization: Hardness and Bicriteria Approximation Algorithms"
+    },
+    {
+      "id": "b829fea7f879d41f17e3c5eb940f4068c4bdee2e",
+      "link": "https://arxiv.org/abs/2611.13607",
+      "title": "One Byte, One Token: Byteifying a 27B Hybrid-Attention LLM with Self-Generated Data"
+    },
+    {
+      "id": "aa0c2be239eb451e5c7a244acc9353643b9f5329",
+      "link": "https://doi.org/10.1145/3799682.3841165",
+      "title": "Mitigating the Morpheme Tokenization Bottleneck in Agglutinative Languages: A Korean Case Study with Interleave Attention"
+    },
+    {
+      "id": "9e8e28fb9c0c8f3931f6cd193be631fb015e6769",
+      "link": "https://arxiv.org/abs/2610.32921",
+      "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora"
     }
   ]
 }
