@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T12:40:59.412Z",
+  "updatedAt": "2026-11-23T14:56:52.133Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -3050,7 +3050,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4499,
+      "citationCount": 4500,
       "referenceCount": 16,
       "influentialCitationCount": 284,
       "source": "https://arxiv.org/abs/1808.06226",
