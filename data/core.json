@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:57:49.444Z",
+  "updatedAt": "2026-11-25T14:33:33.592Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -36,7 +36,7 @@
       "doi": null,
       "arxivId": "2207.06991",
       "pdf": null,
-      "citationCount": 84,
+      "citationCount": 85,
       "referenceCount": 145,
       "influentialCitationCount": 9,
       "source": "https://www.semanticscholar.org/paper/b82f43182aa7a188c12eb9cb6992b6f82cca2120",
@@ -160,7 +160,7 @@
       "doi": "10.48550/arXiv.2108.11193",
       "arxivId": "2108.11193",
       "pdf": "https://arxiv.org/pdf/2108.11193",
-      "citationCount": 34,
+      "citationCount": 35,
       "referenceCount": 16,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/937b177d2ed7cee27ee45300c690f2f60c81bae5",
@@ -1203,7 +1203,7 @@
       "doi": "10.48550/arXiv.2206.02608",
       "arxivId": "2206.02608",
       "pdf": "http://arxiv.org/pdf/2206.02608",
-      "citationCount": 53,
+      "citationCount": 54,
       "referenceCount": 82,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
@@ -1844,7 +1844,7 @@
         },
         {
           "name": "Clara Meister",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "150953620"
         }
       ],
@@ -1957,7 +1957,7 @@
         },
         {
           "name": "Clara Meister",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "150953620"
         }
       ],
@@ -1973,7 +1973,7 @@
       "doi": "10.48550/arXiv.2306.16837",
       "arxivId": "2306.16837",
       "pdf": "http://arxiv.org/pdf/2306.16837",
-      "citationCount": 71,
+      "citationCount": 70,
       "referenceCount": 22,
       "influentialCitationCount": 3,
       "source": "https://www.semanticscholar.org/paper/86fadaec99eccb389634e5764af9eeb094272814",
@@ -2075,7 +2075,7 @@
       "topAuthors": [
         {
           "name": "A. Korhonen",
-          "hIndex": 57,
+          "hIndex": 60,
           "authorId": "145762466"
         },
         {
@@ -2279,7 +2279,7 @@
         },
         {
           "name": "Timothy Dozat",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2277385"
         }
       ],
@@ -2619,7 +2619,7 @@
       "doi": "10.48550/arXiv.2607.16117",
       "arxivId": "2607.16117",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 55,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.16117",
@@ -2640,12 +2640,12 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "150953620"
         },
         {
           "name": "P. Buttery",
-          "hIndex": 20,
+          "hIndex": 21,
           "authorId": "33490976"
         }
       ],
@@ -2831,7 +2831,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1488,
+      "citationCount": 1489,
       "referenceCount": 36,
       "influentialCitationCount": 168,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2850,7 +2850,7 @@
       "topAuthors": [
         {
           "name": "Jay Pujara",
-          "hIndex": 27,
+          "hIndex": 29,
           "authorId": "2634786"
         },
         {
@@ -2946,9 +2946,9 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9345,
+      "citationCount": 9352,
       "referenceCount": 40,
-      "influentialCitationCount": 1112,
+      "influentialCitationCount": 1115,
       "source": "https://arxiv.org/abs/1508.07909",
       "addedAt": "2026-09-14",
       "score": 69.84126984126983
@@ -3002,7 +3002,7 @@
       "topAuthors": [
         {
           "name": "Kevin Slagle",
-          "hIndex": 0,
+          "hIndex": 1,
           "authorId": "2558176915"
         }
       ],
@@ -3050,7 +3050,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4503,
+      "citationCount": 4505,
       "referenceCount": 16,
       "influentialCitationCount": 284,
       "source": "https://arxiv.org/abs/1808.06226",
@@ -3086,7 +3086,7 @@
       "doi": "10.48550/arXiv.2502.15343",
       "arxivId": "2502.15343",
       "pdf": null,
-      "citationCount": 22,
+      "citationCount": 23,
       "referenceCount": 80,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2502.15343",
@@ -3146,7 +3146,7 @@
         },
         {
           "name": "B. Bergen",
-          "hIndex": 33,
+          "hIndex": 37,
           "authorId": "24316216"
         }
       ],
@@ -3387,7 +3387,7 @@
       "doi": "10.48550/arXiv.2606.27019",
       "arxivId": "2606.27019",
       "pdf": null,
-      "citationCount": 6,
+      "citationCount": 5,
       "referenceCount": 32,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2606.27019",
@@ -3480,7 +3480,7 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "150953620"
         }
       ],
@@ -3586,7 +3586,7 @@
       "topAuthors": [
         {
           "name": "A. Owodunni",
-          "hIndex": 6,
+          "hIndex": 9,
           "authorId": "2188832804"
         },
         {
@@ -3853,7 +3853,7 @@
       "topAuthors": [
         {
           "name": "D. Mimno",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2268205803"
         },
         {
@@ -4610,12 +4610,12 @@
       "topAuthors": [
         {
           "name": "T. Grobler",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "2007564"
         },
         {
           "name": "Marcel Dunaiski",
-          "hIndex": 6,
+          "hIndex": 10,
           "authorId": "2300800038"
         }
       ],
@@ -4717,7 +4717,7 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "150953620"
         },
         {
