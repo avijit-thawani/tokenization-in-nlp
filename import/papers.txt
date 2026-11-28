@@ -92,3 +92,44 @@ Whose Tokenizer? An Empirical Review of When and How Much Tokenizer Choice Matte
 Are Non-BPE Tokenizers Ready to Improve LLM Numeracy?
 A Call for an Open Tokenizer Benchmark
 What Do We Talk About When We Talk About Tokenization?
+
+# --- past year ---
+# The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction
+#   Hyunsik Kim (h=1) · Samsung (South Korea) · 2026 · 0 citations · past year · cites 14 in your list
+https://arxiv.org/abs/2610.22071
+
+# Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation
+#   Qi Zhang (h=27) · East China Normal University · 2026 · 0 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2610.05978
+
+# When the next byte's type is fixed: why entropy patching skips computed values under tight budgets
+#   Nicolás Vera Zúñiga (h=2) · 2026 · 1 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2610.22100
+
+# Language-Specific Effects of Tokenizer Choice in Multilingual Language Models
+#   Antoine Bosselut (h=45) · EPFL · 2026 · 1 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2610.12144
+
+# The Price of Token Boundaries: Compression Certificates and Prediction
+#   Shu-Nian Chen (h=19) · Chinese University of Hong Kong, Shenzhen · 2026 · 0 citations · past year · cites 9 in your list
+https://arxiv.org/abs/2609.35869
+
+# Retrofitting language models to operate over bytes
+#   A. Korhonen (h=60) · Allen Institute for Artificial Intelligence · 2026 · 3 citations · past year · cites 9 in your list
+https://doi.org/10.1038/s41586-026-11111-4
+
+# No Single Tokenizer Feature Reliably Predicts Downstream Language Model Performance
+#   Catherine Arnett (h=11) · EleutherAI · 2026 · 0 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2610.21679
+
+# Merge-Based Vocabulary Extension Stalls at the Pre-Tokenizer: An English-Preserving Repair for Nepali, Tested in Continued Pretraining
+#   Aarjan Chaudhary (h=1) · 2026 · 0 citations · past year · cites 5 in your list
+https://arxiv.org/abs/2610.33016
+
+# Executable Boundary Contracts for Sound Event Traces
+#   Faruk Alpay (h=6) · Bahçeşehir University · 2026 · 0 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2605.19632
+
+# Counting and Min-Cost Encoding for Tokenization in Large Language Models
+#   Shu-Ming Shi (h=10) · 2026 · 0 citations · past year · cites 6 in your list
+https://arxiv.org/abs/2610.01127
