@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:00:02.985Z",
+  "updatedAt": "2026-11-28T13:12:02.072Z",
   "core": [
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -2831,7 +2831,7 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1493,
+      "citationCount": 1495,
       "referenceCount": 36,
       "influentialCitationCount": 168,
       "source": "https://arxiv.org/abs/1804.10959",
@@ -2946,7 +2946,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9366,
+      "citationCount": 9369,
       "referenceCount": 40,
       "influentialCitationCount": 1115,
       "source": "https://arxiv.org/abs/1508.07909",
@@ -3050,7 +3050,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4512,
+      "citationCount": 4515,
       "referenceCount": 16,
       "influentialCitationCount": 284,
       "source": "https://arxiv.org/abs/1808.06226",
